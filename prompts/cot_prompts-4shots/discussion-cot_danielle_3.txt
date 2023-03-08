@@ -1,0 +1,18 @@
+CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding. 
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence is discussing whether the results of a study are confounded; it has nothing to do with advice. Therefore, the answer is 0 – no advice.
+ANSWER: 0 – no advice
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients. 
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence clearly and unequivocally states an action that individuals should take, therefore the answer is 2- strong advice.
+ANSWER: 2 – strong advice
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence provides an action that an individual can take, but does not go so far as to state that this is something that individuals should definitely do. Therefore, it is 1 – weak advice.
+ANSWER: 1 – weak advice
+

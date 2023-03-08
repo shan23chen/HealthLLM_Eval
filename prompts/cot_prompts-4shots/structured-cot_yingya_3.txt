@@ -1,0 +1,23 @@
+CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTION: Does this claim have (2) strong advice, (1) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim is talking about implications for future studies. It is not an actionable suggestion for clinical or health-related behavior changes derived from the results of the current study. 
+2) Therefore, the claim does not have strong or weak advice. It is a no advice claim.
+ANSWER: (0) no advice.
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTION: Does this claim have (2) strong advice, (1) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has actionable suggestions related to the usage of a medication. The words of "recommend", "suggest" are the linguistic cues.
+2) When describing the suggestion, the authors did not use any hedge words to tone down the strength of the recommendation.
+3) Therefore, the claim has strong advice.
+ANSWER: (2) strong advice.
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy.
+QUESTION: Does this claim have (2) strong advice, (1) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion for acne treatment regarding following a certain kind of regimen.
+2) When describing the suggestion, the authors used a hedge word "would", which indicates the strength of the claim is not strong but weak.
+3) Therefore, the claim has weak advice. 
+ANSWER: (1) weak advice.
+

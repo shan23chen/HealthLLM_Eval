@@ -1,0 +1,24 @@
+CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening.
+QUESTION: Does this claim have (2) strong advice, (1) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim is talking about the findings of the current study. It is not an implication derived from the current study.
+2) The claim does not have any actionable suggestions for health-related clinical or policy changes.
+3) Therefore, the claim does not have strong or weak advice. It is a no advice statement.
+ANSWER: (0) no advice.
+
+CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints.
+QUESTION: Does this claim have (2) strong advice, (1) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion related to the use of LOS test for screening TBI patients.
+2) When describing the suggestion, the authors used modal word "should", which indicates the strength of the suggestion and it is strong.
+3) Therefore, the claim has strong advice.
+ANSWER: (2) strong advice.
+
+CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted.
+QUESTION: Does this claim have (2) strong advice, (1) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion for intraoperative antifibrinolysis in routine cardiac surgery.
+2) When describing the suggestion, the authors used a hedge word "may", which indicates the strength of the claim is not strong but weak.
+3) Therefore, the claim has weak advice. 
+ANSWER: (1) weak advice.
+

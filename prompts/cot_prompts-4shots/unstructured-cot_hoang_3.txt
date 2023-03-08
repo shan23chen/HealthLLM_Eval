@@ -1,0 +1,15 @@
+CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: The statement is discussing the correlation of serologic titers for Chlamydia trachomatis with various tests used for screening and diagnosis, but it does not make any specific recommendations or offer guidance on how to manage or treat any health condition.
+ANSWER: no advice
+
+CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: The previous statement recommends that a specific diagnostic test, the LOS test, should be included in any objective balance evaluations for patients with traumatic brain injury (TBI) who are experiencing balance complaints.
+ANSWER: strong advice
+
+CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: It is a general observation that may be of interest to healthcare providers who are considering different approaches to managing blood loss during cardiac surgery. While the statement suggests a potential treatment approach, it does not provide any specific guidance or recommendations on how to manage a health condition or how to optimize outcomes for patients. 
+ANSWER: weak advice
+

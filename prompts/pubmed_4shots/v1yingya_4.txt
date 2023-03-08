@@ -1,0 +1,16 @@
+CONTEXT: The high rate of text message usage makes it feasible to recruit YAMs for a prospective study in which personalized text messages are used to promote healthy behaviours.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+ANSWER: 0) No claim
+
+CONTEXT: The incidence of falls and poor quality of life may be partially associated with the presence of depression.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+ANSWER: 1) Correlational
+
+CONTEXT: Our study provides preliminary evidence that mothers who consume diets higher in fruit and lower in fried foods and cured meats during pregnancy may reduce the risk of unilateral retinoblastoma in their offspring.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+ANSWER: 2) Conditional causal
+
+CONTEXT: The nutritional course for patients undergoing colon surgery can be improved by implementing early oral nutritional supplements in the PACU.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+ANSWER: 3) Direct causal
+

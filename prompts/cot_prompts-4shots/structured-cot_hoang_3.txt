@@ -1,0 +1,15 @@
+CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: It is a statement that appears to be discussing the limitations of a particular observation or study. The sentence suggests that while the observation may be valid, it does not provide any immediate insights or advice related to improving health or addressing a specific disease.
+ANSWER: no advice.
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: The recommendation specifically suggests encouraging night-time intake of medication in those who prefer it and recommending that those who require two or more drugs should take one at night. This recommendation is likely based on scientific evidence that suggests that blood pressure tends to be highest during the early morning hours, and that taking medication at night may help reduce blood pressure during this time and potentially reduce the risk of adverse health outcomes. 
+ANSWER: strong advice.
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: While the sentence does offer a potential treatment option for acne, it is possible that other potential treaments are more approriate for different individuals or types or acne. Additionally, the statement does not provide potential risks, side effects that may impact the safety or effectiveness of the recommended treatment.
+ANSWER: weak advice.
+

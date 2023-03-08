@@ -1,0 +1,20 @@
+CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The context states a fact, which is not an advice.
+2. The answer is no advice.
+
+CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The term "should be included" indicate that there is an advice in the context.
+2. "Should be" indicates a strong opinion.
+3. The answer is strong advice.
+
+CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The term "may not be indicated" indicates an advice in the context.
+2. "May not" indicates a weak opinion. 
+3. The answer is weak advice.
+

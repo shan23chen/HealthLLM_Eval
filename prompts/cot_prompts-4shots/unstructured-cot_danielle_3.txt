@@ -1,0 +1,18 @@
+CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step:
+REASONING: This sentence describes the correlation between Chlamydia serologic titers and various other assays, but doesn’t provide advice based on this. Therefore it is 0 – no advice.
+ANSWER: 0 – no advice
+
+CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step:
+REASONING: This sentence provide clear advice that the LOS test should be used in the evaluation of TB patients with balance issues, therefore it is 2 - strong advice.
+ANSWER: 2 – strong advice
+
+CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step:
+REASONING: The word “may” in this sentence suggests that the advice is not absolutely certain, therefore it is 1 – weak advice.
+ANSWER: 1 – weak advice
+

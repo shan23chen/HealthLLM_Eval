@@ -1,0 +1,297 @@
+cs,db,hv,yy,gs
+"CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding.
+QUESTION: is this a 2) strong advice, 1) weak advice 0) no advice?
+Let’s think step by step: 
+1) The statement is not a directive, so it is not a strong advice. 
+2) The statement does not offer any specific advice, so it is not a weak advice either. 
+3) Therefore, the statement is not an advice at all, but rather a cautionary statement. 
+Answer: 0) No advice.
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients.
+QUESTION: is this a 2) strong advice, 1) weak advice 0) no advice?
+Let’s think step by step: 
+1) The statement is a directive, so it is a strong advice. 
+2) The statement is specific and clear, so it is not a weak advice. 
+3) Therefore, the statement is a strong advice. 
+Answer: 2) Strong advice.
+
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTION: is this a 2) strong advice, 1) weak advice 0) no advice?
+Let’s think step by step: 
+1) The statement is not a directive, so it is not a strong advice. 
+2) The statement does not offer any specific advice, but rather suggests that ANP could be used to prevent cancer recurrence, so it is a weak advice. 
+3) Therefore, the statement is a weak advice. 
+Answer: 1) Weak advice.
+
+CONTEXT: {context}
+QUESTION: is this a 2) strong advice, 1) weak advice 0) no advice?
+Let’s think step by step: ","CONTEXT: Although the widowed/divorced rate in Xinjiang currently accounts for approximately 5%, this group of people have a high risk of developing hypertension since they continue to experience serious work- and life-related stress [27,28]. 
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence is stating a finding, but is not offering any advice on what to do as a result of this finding. Therefore, the answer is 0 – no advice.
+ANSWER: 0 – no advice
+
+CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding. 
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence is discussing whether the results of a study are confounded; it has nothing to do with advice. Therefore, the answer is 0 – no advice.
+ANSWER: 0 – no advice
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients. 
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence clearly and unequivocally states an action that individuals should take, therefore the answer is 2- strong advice.
+ANSWER: 2 – strong advice
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence provides an action that an individual can take, but does not go so far as to state that this is something that individuals should definitely do. Therefore, it is 1 – weak advice.
+ANSWER: 1 – weak advice
+
+CONTEXT: {context}
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+","CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?. Let's think step by step.
+REASONING: The context indicates that Shan is enthusiastic about chatGPT. He also loves to use ChatGPT in creating regular expressions that help extract targeted texts. And his office was flooded in February.
+ANSWER: no advice.
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+REASONING: The context indicates that Daniella is very thoughtful. She is also enthusiastic about using ChatGPT in clearning the office that was flooded in February.
+ANSWER: weak advice.
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+REASONING: The context indicates that Hoang just started his research fellow in Feburary. He hopes his office will not be flooded.
+ANSWER: strong advice.
+
+CONTEXT: {context}
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.","""CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding.
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim is talking about limitations of the current study.
+2) The claim does not have any actionable suggestions for health-related clinical or policy changes.
+3) Therefore, the claim does not have strong or weak advice. It is a no advice statement.
+Answer: (0) no advice.
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients.
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion related to the implementation of an intervention.
+2) When describing the suggestion, the authors used modal word ""should"", which indicates the strength of the suggestion and it is strong.
+3) Therefore, the claim has strong advice.
+Answer: (1) strong advice.
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion for the use of ANP to prevent cancer recurrence after surgery.
+2) When describing the suggestion, the authors used a hedged phrase ""could potentially be used to"", which indicates the strength of the claim is not strong but weak.
+3) Therefore, the claim has weak advice. 
+Answer: (2) weak advice.
+
+CONTEXT: {context}
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: ","CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice?
+Let’s think step by step:
+REASONING: This sentence is a statement and does not express any advice. There is no mention of any health-related concepts. Therefore, of the three options listed the correct one is no health advice.
+ANSWER: no health advice
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice?
+Let’s think step by step:
+REASONING: The sentence uses ""should"" which implies strong advice in the context of a health condition HIV. Therefore, of the three options listed the correct one is strong health advice.
+ANSWER: strong health advice
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice?
+Let’s think step by step:
+REASONING: The sentence uses health-related concepts. The sentence uses the words ""suggesting"", ""could"", ""potentially"" which signal advice. However, because of ""suggesting"" and ""potentially"", the advice is weak. Therefore, of the three options listed the correct one is weak health advice.
+ANSWER: weak health advice
+
+CONTEXT: {context}
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice?
+Let’s think step by step:"
+"CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The context states a fact, which is not an advice.
+2. The answer is no advice.
+
+CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The term ""should be included"" indicate that there is an advice in the context.
+2. ""Should be"" indicates a strong opinion.
+3. The answer is strong advice.
+
+CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The term ""may not be indicated"" indicates an advice in the context.
+2. ""May not"" indicates a weak opinion. 
+3. The answer is weak advice.
+
+CONTEXT: {context}
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.","CONTEXT: Aldosterone-to-renin ratio (ARR) is a screening test for primary aldosteronism, but it was impacted by a bunch of clinical covariates.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step:
+REASONING: This sentence is 0 – no advice because it has nothing to do with advice; it is just stating a fact.
+ANSWER: 0 – no advice
+
+CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step:
+REASONING: This sentence describes the correlation between Chlamydia serologic titers and various other assays, but doesn’t provide advice based on this. Therefore it is 0 – no advice.
+ANSWER: 0 – no advice
+
+CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step:
+REASONING: This sentence provide clear advice that the LOS test should be used in the evaluation of TB patients with balance issues, therefore it is 2 - strong advice.
+ANSWER: 2 – strong advice
+
+CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step:
+REASONING: The word “may” in this sentence suggests that the advice is not absolutely certain, therefore it is 1 – weak advice.
+ANSWER: 1 – weak advice
+
+CONTEXT: {context}
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: ","CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: The statement is discussing the correlation of serologic titers for Chlamydia trachomatis with various tests used for screening and diagnosis, but it does not make any specific recommendations or offer guidance on how to manage or treat any health condition.
+ANSWER: no advice
+
+CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: It is a general observation that may be of interest to healthcare providers who are considering different approaches to managing blood loss during cardiac surgery. While the statement suggests a potential treatment approach, it does not provide any specific guidance or recommendations on how to manage a health condition or how to optimize outcomes for patients. 
+ANSWER: weak advice
+
+CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: The previous statement recommends that a specific diagnostic test, the LOS test, should be included in any objective balance evaluations for patients with traumatic brain injury (TBI) who are experiencing balance complaints.
+ANSWER: strong advice
+
+CONTEXT: {context}
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.","""CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening.
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim is talking about the findings of the current study. It is not an implication derived from the current study.
+2) The claim does not have any actionable suggestions for health-related clinical or policy changes.
+3) Therefore, the claim does not have strong or weak advice. It is a no advice statement.
+Answer: (0) no advice.
+
+CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints.
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion related to the use of LOS test for screening TBI patients.
+2) When describing the suggestion, the authors used modal word ""should"", which indicates the strength of the suggestion and it is strong.
+3) Therefore, the claim has strong advice.
+Answer: (1) strong advice.
+
+CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted.
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion for intraoperative antifibrinolysis in routine cardiac surgery.
+2) When describing the suggestion, the authors used a hedge word ""may"", which indicates the strength of the claim is not strong but weak.
+3) Therefore, the claim has weak advice. 
+Answer: (2) weak advice.
+
+CONTEXT: {context}
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: ","CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk. QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step: REASONING: The sentence states a conclusion of a study and further research . There is no particular health advice expressed, although health-related concepts like T2D are mentioned. Therefore, of the three health advice options listed the correct one is no health advice. ANSWER: no health advice CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night. QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step: REASONING: The sentence uses stong affirmation words ""recommend"" and ""should"" in relation to taking medications. Therefore, a strong health advice is recorded. Therefore, of the three health advice options listed the correct one is strong health advice. ANSWER: strong health advice CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy. QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step: REASONING: The sentence is related to health. It signals advice by using a weak affirmation word ""would"". Therefore, of the three health advice options listed the correct one is weak health advice. ANSWER: weak health advice CONTEXT: {context} QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step:"
+"CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The context states the necessity of further research, which is not an advice.
+2. The answer is no advice.
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The terms ""we recommend"" and ""suggest"" indicate that there is an advice in the context.
+2. ""Recommend"" and ""suggest"" indicate a directive opinion.
+3. The answer is strong advice.
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The term ""would be a viable option"" indicates that there is an advice in the context.
+2. ""Would be"" indicates that the opinion is not strong.
+3. The answer is weak advice.
+
+CONTEXT: {context}
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.","CONTEXT: Chronological age and menopausal status are both independently associated with CVD risk factors.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence provides no recommendations, and therefore it is 0 – no advice.
+ANSWER: 0 – no advice
+
+CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence is not providing any advice at all, and so the answer is 0 – no advice.
+ANSWER: 0 – no advice
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence says that Black individuals should take the medication at night, with no uncertainty or statement that this might not be true in certain situations. Therefore, the answer in 2 – strong advice.
+ANSWER: 2 – strong advice
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: Although advice is given, the statement that it “would be a viable option” instead of “is an option” indicates that it is not strong advice. Therefore, the answer in 1 – weak advice.
+ANSWER: 1 – weak advice
+
+CONTEXT: {context}
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: ","CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: It is a statement that appears to be discussing the limitations of a particular observation or study. The sentence suggests that while the observation may be valid, it does not provide any immediate insights or advice related to improving health or addressing a specific disease.
+ANSWER: no advice.
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: While the sentence does offer a potential treatment option for acne, it is possible that other potential treaments are more approriate for different individuals or types or acne. Additionally, the statement does not provide potential risks, side effects that may impact the safety or effectiveness of the recommended treatment.
+ANSWER: weak advice.
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+REASONING: The recommendation specifically suggests encouraging night-time intake of medication in those who prefer it and recommending that those who require two or more drugs should take one at night. This recommendation is likely based on scientific evidence that suggests that blood pressure tends to be highest during the early morning hours, and that taking medication at night may help reduce blood pressure during this time and potentially reduce the risk of adverse health outcomes. 
+ANSWER: strong advice.
+
+CONTEXT: {context}
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.","""CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim is talking about implications for future studies. It is not an actionable suggestion for clinical or health-related behavior changes derived from the results of the current study. 
+2) Therefore, the claim does not have strong or weak advice. It is a no advice claim.
+Answer: (0) no advice.
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has actionable suggestions related to the usage of a medication. The words of ""recommend"", ""suggest"" are the linguistic cues.
+2) When describing the suggestion, the authors did not use any hedge words to tone down the strength of the recommendation.
+3) Therefore, the claim has strong advice.
+Answer: (1) strong advice.
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy.
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion for acne treatment regarding following a certain kind of regimen.
+2) When describing the suggestion, the authors used a hedge word ""would"", which indicates the strength of the claim is not strong but weak.
+3) Therefore, the claim has weak advice. 
+Answer: (2) weak advice.
+
+CONTEXT: {context}
+QUESTION: Does this claim have (1) strong advice, (2) weak advice, or there is (0) no advice?
+Let’s think step by step: ","CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening. QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step: REASONING: Although the sentence talks about a health condition, it is a statement. Therefore it does not express a health advice. Therefore, of the three health advice options listed the correct one is no health advice. ANSWER: no health advice CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints. QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step: REASONING: This sentence discusses health-related topics, e.g. LOS test and TBI. It also signals advice through strong affirmative words like ""should"". Therefore, of the three health advice options listed the correct one is strong health advice. ANSWER: strong health advice CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted. QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step: REASONING: The sentence does talk about health issues. It has weak affirmative words like ""may"" which express weak health advice. Therefore, of the three health advice options listed the correct one is weak health advice. ANSWER: weak health advice CONTEXT: {context} QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step:"

@@ -1,0 +1,15 @@
+CONTEXT: Correlation of serologic titers for Chlamydia trachomatis with other tests has been based on direct fluorescence antibody (DFA) testing and culture, but not on nucleic acid-based tests that are used for screening.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step:
+REASONING: Although the sentence talks about a health condition, it is a statement. Therefore it does not express a health advice. Therefore, of the three health advice options listed the correct one is no health advice.
+ANSWER: no health advice
+
+CONTEXT: These results suggest that the LOS test is an informative tool that should be included in any objective balance evaluations that screen TBI patients with balance complaints.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step:
+REASONING: This sentence discusses health-related topics, e.g. LOS test and TBI. It also signals advice through strong affirmative words like "should". Therefore, of the three health advice options listed the correct one is strong health advice.
+ANSWER: strong health advice
+
+CONTEXT: Therefore, intraoperative antifibrinolysis may not be indicated in routine cardiac surgery when other blood-saving techniques are adopted.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step:
+REASONING: The sentence does talk about health issues. It has weak affirmative words like "may" which express weak health advice. Therefore, of the three health advice options listed the correct one is weak health advice.
+ANSWER: weak health advice
+

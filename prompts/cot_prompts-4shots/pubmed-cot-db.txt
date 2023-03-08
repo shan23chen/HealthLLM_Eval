@@ -1,0 +1,25 @@
+CONTEXT: The high rate of text message usage makes it feasible to recruit YAMs for a prospective study in which personalized text messages are used to promote healthy behaviours.
+QUESTION: Is this a: 0) None, 1) Correlational, 2) Conditional causal, 3) Direct causal?
+Let’s think step by step: 
+REASONING: This sentence simply describes why the trial recruitment is feasible; it doesn’t establish any causative relationship.
+ANSWER: 0) None
+
+CONTEXT: The incidence of falls and poor quality of life may be partially associated with the presence of depression.
+QUESTION: Is this a: 0) None, 1) Correlational, 2) Conditional causal, 3) Direct causal?
+Let’s think step by step: 
+REASONING: A causal relationship is where one thing causes another thing, and a correlational relationship is when one thing correlates with another by does not necessarily cause it. In this sentence, depression is correlated with falls and poor quality of life but there is no statement that one causes the other.
+ANSWER: 1) Correlational
+
+CONTEXT: Our study provides preliminary evidence that mothers who consume diets higher in fruit and lower in fried foods and cured meats during pregnancy may reduce the risk of unilateral retinoblastoma in their offspring.
+QUESTION: Is this a: 0) None, 1) Correlational, 2) Conditional causal, 3) Direct causal?
+Let’s think step by step: 
+REASONING: A causal relationship is where one thing causes another thing, and a correlational relationship is when one thing correlates with another by does not necessarily cause it. A conditional causal relationship is where there may be a causal relationship, but it is not certain. Because the diet high in fruit “may” reduce retinoblastoma risk, this is a conditional causal relationship. 
+ANSWER: 2) Conditional causal
+
+CONTEXT: The nutritional course for patients undergoing colon surgery can be improved by implementing early oral nutritional supplements in the PACU.
+QUESTION: Is this a: 0) None, 1) Correlational, 2) Conditional causal, 3) Direct causal?
+Let’s think step by step: 
+REASONING: This sentence describes the fact that early nutritional supplements improves patients’ nutritional course. From this, it can be implied that the nutritional supplements are the cause of the improvement. Therefore, there is a direct causal relationship between early nutritional supplements and nutritional course. 
+ANSWER: 3) Direct causal
+
+

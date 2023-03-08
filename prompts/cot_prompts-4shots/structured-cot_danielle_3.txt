@@ -1,0 +1,18 @@
+CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence is not providing any advice at all, and so the answer is 0 – no advice.
+ANSWER: 0 – no advice
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: This sentence says that Black individuals should take the medication at night, with no uncertainty or statement that this might not be true in certain situations. Therefore, the answer in 2 – strong advice.
+ANSWER: 2 – strong advice
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy.
+QUESTIONS: What type of advice is this? Select only one from: 0 – no advice, 1 - weak advice, or 2 – strong advice.
+Let’s think step by step: 
+REASONING: Although advice is given, the statement that it “would be a viable option” instead of “is an option” indicates that it is not strong advice. Therefore, the answer in 1 – weak advice.
+ANSWER: 1 – weak advice
+

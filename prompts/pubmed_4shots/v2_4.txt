@@ -1,0 +1,16 @@
+CONTEXT: Postoperatively, an additional 20.5% developed a psychiatric disorder.
+QUESTION: Does 1 - correlation, 2 - conditional causation, or 3 – direct causation expressed in the sentence, or it is a 0 - no relationship sentence?
+ANSWER: 0 - No claim
+
+CONTEXT: Early subjective clinical judgment of physicians correlates more closely with 3-month outcome after ICH than prognostic scales.
+QUESTION: Does 1 - correlation, 2 - conditional causation, or 3 – direct causation expressed in the sentence, or it is a 0 - no relationship sentence?
+ANSWER: 1 - Correlational
+
+CONTEXT: Interventions to promote earlier HIV diagnosis and treatment and integrating nutrition counseling at all stages of ART implementation may improve ART outcomes in this vulnerable population.
+QUESTION: Does 1 - correlation, 2 - conditional causation, or 3 – direct causation expressed in the sentence, or it is a 0 - no relationship sentence?
+ANSWER: 2 - Conditional causal
+
+CONTEXT: Pregnancy does not lead to immediate or medium-term adverse effects for CF patients.
+QUESTION: Does 1 - correlation, 2 - conditional causation, or 3 – direct causation expressed in the sentence, or it is a 0 - no relationship sentence?
+ANSWER: 3 - Direct causal
+

@@ -1,0 +1,141 @@
+cs,db,hv,yy,gs
+"CONTEXT: The high rate of text message usage makes it feasible to recruit YAMs for a prospective study in which personalized text messages are used to promote healthy behaviours.
+QUESTION: What type of relationship is this describing? Select only one from:  0) no relationship, 1) correlation, 2) conditional causation, or 3) direct causation. 
+Let’s think step by step: 
+The high rate of text message usage is not causing the prospective study. 
+The prospective study is not causing the high rate of text message usage. 
+Therefore, this is describing a 0) no relationship.
+
+CONTEXT: The incidence of falls and poor quality of life may be partially associated with the presence of depression.
+QUESTION: What type of relationship is this describing? Select only one from:  0) no relationship, 1) correlation, 2) conditional causation, or 3) direct causation. 
+Let’s think step by step: 
+The presence of depression is not causing the incidence of falls or poor quality of life. 
+The incidence of falls or poor quality of life is not causing the presence of depression. 
+Therefore, this is describing a 1) correlation.
+
+CONTEXT: Our study provides preliminary evidence that mothers who consume diets higher in fruit and lower in fried foods and cured meats during pregnancy may reduce the risk of unilateral retinoblastoma in their offspring.
+QUESTION: What type of relationship is this describing? Select only one from:  0) no relationship, 1) correlation, 2) conditional causation, or 3) direct causation. 
+Let’s think step by step: 
+The mothers’ diets are causing the reduced risk of unilateral retinoblastoma in their offspring. 
+The reduced risk of unilateral retinoblastoma in their offspring is not causing the mothers’ diets. 
+Therefore, this is describing a 2) conditional causation.
+
+CONTEXT: The nutritional course for patients undergoing colon surgery can be improved by implementing early oral nutritional supplements in the PACU.
+QUESTION: What type of relationship is this describing? Select only one from:  0) no relationship, 1) correlation, 2) conditional causation, or 3) direct causation. 
+Let’s think step by step: 
+The implementation of early oral nutritional supplements is causing the improvement of the nutritional course for patients undergoing colon surgery. 
+The improvement of the nutritional course for patients undergoing colon surgery is not causing the implementation of early oral nutritional supplements. 
+Therefore, this is describing a 3) direct causation.
+
+CONTEXT: {context}
+QUESTION: What type of relationship is this describing? Select only one from:  0) no relationship, 1) correlation, 2) conditional causation, or 3) direct causation. 
+Let’s think step by step: ","CONTEXT: The high rate of text message usage makes it feasible to recruit YAMs for a prospective study in which personalized text messages are used to promote healthy behaviours.
+QUESTION: Is this a: 0) None, 1) Correlational, 2) Conditional causal, 3) Direct causal?
+Let’s think step by step: 
+REASONING: This sentence simply describes why the trial recruitment is feasible; it doesn’t establish any causative relationship.
+ANSWER: 0) None
+
+CONTEXT: The incidence of falls and poor quality of life may be partially associated with the presence of depression.
+QUESTION: Is this a: 0) None, 1) Correlational, 2) Conditional causal, 3) Direct causal?
+Let’s think step by step: 
+REASONING: A causal relationship is where one thing causes another thing, and a correlational relationship is when one thing correlates with another by does not necessarily cause it. In this sentence, depression is correlated with falls and poor quality of life but there is no statement that one causes the other.
+ANSWER: 1) Correlational
+
+CONTEXT: Our study provides preliminary evidence that mothers who consume diets higher in fruit and lower in fried foods and cured meats during pregnancy may reduce the risk of unilateral retinoblastoma in their offspring.
+QUESTION: Is this a: 0) None, 1) Correlational, 2) Conditional causal, 3) Direct causal?
+Let’s think step by step: 
+REASONING: A causal relationship is where one thing causes another thing, and a correlational relationship is when one thing correlates with another by does not necessarily cause it. A conditional causal relationship is where there may be a causal relationship, but it is not certain. Because the diet high in fruit “may” reduce retinoblastoma risk, this is a conditional causal relationship. 
+ANSWER: 2) Conditional causal
+
+CONTEXT: The nutritional course for patients undergoing colon surgery can be improved by implementing early oral nutritional supplements in the PACU.
+QUESTION: Is this a: 0) None, 1) Correlational, 2) Conditional causal, 3) Direct causal?
+Let’s think step by step: 
+REASONING: This sentence describes the fact that early nutritional supplements improves patients’ nutritional course. From this, it can be implied that the nutritional supplements are the cause of the improvement. Therefore, there is a direct causal relationship between early nutritional supplements and nutritional course. 
+ANSWER: 3) Direct causal
+
+CONTEXT: {context}
+QUESTION: Is this a: 0) None, 1) Correlational, 2) Conditional causal, 3) Direct causal?
+Let’s think step by step: 
+","CONTEXT: The high rate of text message usage makes it feasible to recruit YAMs for a prospective study in which personalized text messages are used to promote healthy behaviours.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+REASONING: The statement simply implies that the high rate of text message usage provides a better chance of conducting a study for promoting healthy behaviors in YAMs. There is no indication that text message usage has a direct positive health impact in YAMs.
+ANSWER: No claim
+
+CONTEXT: The incidence of falls and poor quality of life may be partially associated with the presence of depression.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+REASONING: The statement mentions some association between incedence of falls, poor quality of life and depression. Therefore, it is not a no claim for sure. However, it does not provide scientifically proven reason for the association.
+ANSWER: Correlational
+
+CONTEXT: Our study provides preliminary evidence that mothers who consume diets higher in fruit and lower in fried foods and cured meats during pregnancy may reduce the risk of unilateral retinoblastoma in their offspring.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+REASONING: The statement provides the preliminary evidence that a mother's diet during pregnancy can reduce a risk of unilateral retinoblastoma in their offspring.
+ANSWER: Conditional causation
+
+CONTEXT: The nutritional course for patients undergoing colon surgery can be improved by implementing early oral nutritional supplements in the PACU.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+REASONING: The statement shows that health outcomes of patients in PACU can be optimized by implementing early oral nutritional supplements, especially for patients undergoing colon surgery.
+ANSWER: Direct causation
+
+CONTEXT: {context}
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?","""CONTEXT: The high rate of text message usage makes it feasible to recruit YAMs for a prospective study in which personalized text messages are used to promote healthy behaviours.
+QUESTION: Does 2 - correlation, 3 - conditional causation, or 4 – direct causation expressed in the sentence, or it is a 1 - no relationship sentence?
+Let’s think step by step: 
+1) The sentence does not describe any correlation or causation relation between two entities.
+2) It is a no relationship sentence.
+Answer: 1 - no relationship
+
+CONTEXT: The incidence of falls and poor quality of life may be partially associated with the presence of depression.
+QUESTION: Does 2 - correlation, 3 - conditional causation, or 4 – direct causation expressed in the sentence, or it is a 1 - no relationship sentence?
+Let’s think step by step: 
+1) The sentence describes the relationship between ""the incidence of falls and poor quality of life"" and ""depression"".
+2) The relationship between them is correlation, as the authors used the language cue ""associated with"" to describe it. ""Associated with"" is a commonly used expression to indicate correlation.
+3) Therefore, the sentence expresses correlation.
+Answer: 2 - correlation
+
+CONTEXT: Our study provides preliminary evidence that mothers who consume diets higher in fruit and lower in fried foods and cured meats during pregnancy may reduce the risk of unilateral retinoblastoma in their offspring.
+QUESTION: Does 2 - correlation, 3 - conditional causation, or 4 – direct causation expressed in the sentence, or it is a 1 - no relationship sentence?
+Let’s think step by step: 
+1) The sentence describes the relationship between ""diets higher in fruit and lower in fried foods and cured meats"" and ""the risk of ""unilateral retinoblastoma in offspring"".
+2) The authors used the the verb ""reduce"", which suggests that there is a direct effect between them.
+3) When describing the effect, the authors also used a hedge word ""may"" to tone down the certainty of the effect.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation
+
+CONTEXT: The nutritional course for patients undergoing colon surgery can be improved by implementing early oral nutritional supplements in the PACU.
+QUESTION: Does 2 - correlation, 3 - conditional causation, or 4 – direct causation expressed in the sentence, or it is a 1 - no relationship sentence?
+Let’s think step by step: 
+1) The sentence describes the relationship between ""nutritional course"" and ""the risk of ""oral nutritional supplements in the PACU"".
+2) The authors used the the verb ""can be improved by"", which suggests that there is a direct effect between them.
+3) When describing the effect, the authors also used a modal verb ""can"", suggesting that the certainty of the effect is strong and direct. And no hedge word is used to tone down the certainty.
+3) Therefore, the sentence expresses causation.
+Answer: 4 - causation
+
+CONTEXT: {context}
+QUESTION: Does 2 - correlation, 3 - conditional causation, or 4 – direct causation expressed in the sentence, or it is a 1 - no relationship sentence?
+Let’s think step by step: ","CONTEXT: The high rate of text message usage makes it feasible to recruit YAMs for a prospective study in which personalized text messages are used to promote healthy behaviours.                                                                                                                                                                                                        
+QUESTION: What type of relation exists in the sentence -- no relation, correlation, conditional causation or direct causation?                                                                                                                                                                                                        
+Let’s think step by step:                                                                                                                                                                                                        
+REASONING: The sentence talks about text messages, rate of text messages and healthy behaviours. It describes a future potential prospective and because the study is in the future, no conclusions are provided. Therefore, of the four listed answer options, the correct one is no relation.                                                                                                                                                                                                        
+ANSWER: no relation                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+CONTEXT: The incidence of falls and poor quality of life may be partially associated with the presence of depression.                                                                                                                                                                                                        
+QUESTION: What type of relation exists in the sentence -- no relation, correlation, conditional causation or direct causation?                                                                                                                                                                                                        
+Let’s think step by step:                                                                                                                                                                                                        
+REASONING: The sentences states an association between the incidence of falls, poor quality of life and depression. It signals potential association through the usage of the word ""may"". Therefore, of the four listed answer options, the correct one is correlation.                                                                                                                                                                                                        
+ANSWER: correlation                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+CONTEXT: Our study provides preliminary evidence that mothers who consume diets higher in fruit and lower in fried foods and cured meats during pregnancy may reduce the risk of unilateral retinoblastoma in their offspring.                                                                                                                                                                                                        
+QUESTION: What type of relation exists in the sentence -- no relation, correlation, conditional causation or direct causation?                                                                                                                                                                                                        
+Let’s think step by step:                                                                                                                                                                                                        
+REASONING: The sentence talks about preliminary evidence of causation between diets higher in fruit and lower in fried foods and cured meats during pregnancy and resulting in reduced riks of unilateral retinoblastoma in their offspring. Words like preliminary evidence, may reduce signal causation albeit conditional as more studies are needed. Therefore, of the four listed options, the correct one is conditional causation.                                                                                                                                                                                                        
+ANSWER: conditional causation                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+CONTEXT: The nutritional course for patients undergoing colon surgery can be improved by implementing early oral nutritional supplements in the PACU.                                                                                                                                                                                                        
+QUESTION: What type of relation exists in the sentence -- no relation, correlation, conditional causation or direct causation?                                                                                                                                                                                                        
+Let’s think step by step:                                                                                                                                                                                                        
+REASONING: The sentence talks about colon surgery outcomes and nutritional supplements. It uses strong affirmation such as ""can be improved"", which establishes a causation between taking nutritional supplements and better colon surgery outcomes. Therefore, of the four listed options, the correct one is causation.                                                                                                                                                                                                        
+ANSWER: causation                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+CONTEXT: {context}                                                                                                                                                                                                   
+QUESTION: What type of relation exists in the sentence -- no relation, correlation, conditional causation or direct causation?                                                                                                                                                                                                        
+Let’s think step by step:                                                                                                                                                                                                          "

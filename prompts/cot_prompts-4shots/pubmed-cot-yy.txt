@@ -1,0 +1,32 @@
+"CONTEXT: The high rate of text message usage makes it feasible to recruit YAMs for a prospective study in which personalized text messages are used to promote healthy behaviours.
+QUESTION: Does 2 - correlation, 3 - conditional causation, or 4 – direct causation expressed in the sentence, or it is a 1 - no relationship sentence?
+Let’s think step by step: 
+1) The sentence does not describe any correlation or causation relation between two entities.
+2) It is a no relationship sentence.
+Answer: 1 - no relationship
+
+CONTEXT: The incidence of falls and poor quality of life may be partially associated with the presence of depression.
+QUESTION: Does 2 - correlation, 3 - conditional causation, or 4 – direct causation expressed in the sentence, or it is a 1 - no relationship sentence?
+Let’s think step by step: 
+1) The sentence describes the relationship between "the incidence of falls and poor quality of life" and "depression".
+2) The relationship between them is correlation, as the authors used the language cue "associated with" to describe it. "Associated with" is a commonly used expression to indicate correlation.
+3) Therefore, the sentence expresses correlation.
+Answer: 2 - correlation
+
+CONTEXT: Our study provides preliminary evidence that mothers who consume diets higher in fruit and lower in fried foods and cured meats during pregnancy may reduce the risk of unilateral retinoblastoma in their offspring.
+QUESTION: Does 2 - correlation, 3 - conditional causation, or 4 – direct causation expressed in the sentence, or it is a 1 - no relationship sentence?
+Let’s think step by step: 
+1) The sentence describes the relationship between "diets higher in fruit and lower in fried foods and cured meats" and "the risk of "unilateral retinoblastoma in offspring".
+2) The authors used the the verb "reduce", which suggests that there is a direct effect between them.
+3) When describing the effect, the authors also used a hedge word "may" to tone down the certainty of the effect.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation
+
+CONTEXT: The nutritional course for patients undergoing colon surgery can be improved by implementing early oral nutritional supplements in the PACU.
+QUESTION: Does 2 - correlation, 3 - conditional causation, or 4 – direct causation expressed in the sentence, or it is a 1 - no relationship sentence?
+Let’s think step by step: 
+1) The sentence describes the relationship between "nutritional course" and "the risk of "oral nutritional supplements in the PACU".
+2) The authors used the the verb "can be improved by", which suggests that there is a direct effect between them.
+3) When describing the effect, the authors also used a modal verb "can", suggesting that the certainty of the effect is strong and direct. And no hedge word is used to tone down the certainty.
+3) Therefore, the sentence expresses causation.
+Answer: 4 - causation

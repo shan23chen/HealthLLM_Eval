@@ -1,0 +1,12 @@
+CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: No advice.
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: Strong advice.
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: Weak advice.
+

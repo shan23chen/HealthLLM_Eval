@@ -1,0 +1,1264 @@
+type,label,context,output
+diss,0,"Although the widowed/divorced rate in Xinjiang currently accounts for approximately 5%, this group of people have a high risk of developing hypertension since they continue to experience serious work- and life-related stress [27,28]. ",":
+
+1. The context is providing information about the widowed/divorced rate in Xinjiang and the risk of developing hypertension for this group of people. 
+
+2. This is not providing any advice, so the answer is 0 - no advice."
+diss,0,"Furthermore, non-digestible material from nuts, mainly polyphenols and polysaccharides including dietary fiber seem to have a prebiotic effect by increasing Lactobacillus spp. and Bifidobacterium spp. growth and fermentation of indigestible components to short-chain fatty acids including butyrate [10,38,39] that may also alter activity of intestinal microbial enzymes [40]. ",":
+
+This text is providing information about the prebiotic effect of non-digestible material from nuts, mainly polyphenols and polysaccharides including dietary fiber. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,"Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding. ",":
+
+1. This statement is not giving any advice, it is simply stating a fact.
+
+2. Therefore, the answer is 0 - no advice."
+diss,0,This study required screening at 6 different sites and challenges were encountered in adapting conditions at each site to one conducive for screening. ,". 
+
+This statement is not giving any advice, it is simply describing a situation. Therefore, the answer is 0 - no advice."
+diss,0,"By contrast, the patients who developed CKD indeed have been found their higher serum aldosterone and ARR than essential hypertension controls. ",":
+
+1. The sentence does not provide any advice. 
+2. It is simply comparing the serum aldosterone and ARR levels of patients with CKD to those of essential hypertension controls. 
+
+Answer: 0 – no advice"
+diss,0,This study is the first longitudinal cluster-randomized controlled trial to be conducted with the specific research aim of examining the accumulation of instructional effects from first through third grade. ,":
+
+1. This statement is not giving any advice, so the answer is 0 - no advice."
+diss,0,"Cancer initiating cells (CICs) are referred as a rare cellular subpopulation of CTCs with properties of self‐renewal, tumor‐initiating, motile and invasive, increased resistance to apoptosis and are important in facilitating metastasis 10. ",":
+
+This statement is not giving any advice, it is simply providing information about Cancer Initiating Cells (CICs). Therefore, the answer is 0 - no advice."
+diss,0,"It is now widely documented that poor childhood growth is associated with an increased propensity for fat deposition (51) and greater risk of later life obesity (52), a relationship that appears to be mediated largely by reduced capacity for dietary fat oxidation (53–55). ",":
+
+This passage is discussing the relationship between poor childhood growth and later life obesity, and how this relationship is mediated by reduced capacity for dietary fat oxidation. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,"In our study, we showed that daily intake of 43 g walnuts over eight weeks significantly affected the gut microbiome by enhancing probiotic- and butyric acid-producing bacteria in healthy individuals. ",":
+
+1. The context is providing information about a study that showed that daily intake of 43 g walnuts over eight weeks significantly affected the gut microbiome. 
+
+2. This information does not provide any advice, so the answer is 0 - no advice."
+diss,0,Such vibrations may trigger a cascade effect that can lead to arterial endothelial cell dysfunction and subsequent atheroma formation closely associated with stroke33. ,":
+
+This statement is not giving any advice, it is simply describing a potential consequence of certain vibrations. Therefore, the answer is 0 - no advice."
+diss,0,There was an 11% difference in stance time variability between subjects with and without onset of mobility disability. ,".
+
+First, we need to determine what type of advice is being given. In this case, the context is providing information about a difference in stance time variability between two groups of people. This information does not provide any advice, so the answer is 0 - no advice."
+diss,0,"The original identification of SIM1 as a possible obesity gene was as a result of its disruption due to a chromosomal rearrangement (a balanced translocation) in a single individual with profound obesity [24]; this was followed by the identification, by exon sequencing, of rare SIM1 variants that co-segregate with syndromic obesity and of common variants implicated in common obesity [25], [26]. ",":
+
+0 - No advice: This is not the case here, as the text is providing information about the identification of SIM1 as a possible obesity gene.
+
+1 - Strong advice: This is also not the case here, as the text is not providing any advice.
+
+2 - Weak advice: This is the correct answer, as the text is providing information that could be used to inform decisions about the identification of SIM1 as a possible obesity gene."
+diss,0,The average effect size for gait variability was approximately 6%. ,". 
+
+This statement is providing information about the average effect size for gait variability. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,"According to previous reports, OIH and acute opioid tolerance cannot be discriminated clinically, although they may share a common mechanism involving the NMDA receptor7,8,10,20,21. ",":
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,With only 1 of 74 patients (1.4%) developing CIN the incidence in group B is even lower. ,". 
+
+First, we need to understand what CIN is. CIN stands for Cytomegalovirus Infection Nephropathy, which is a kidney infection caused by the cytomegalovirus. 
+
+Next, we need to understand the context of the statement. The statement is saying that only 1 out of 74 patients (1.4%) developed CIN. This means that the incidence of CIN in group B is even lower. 
+
+Based on this information, we can conclude that the advice is strong. This is because the statement is suggesting that the incidence of CIN in group B is very low, which implies that it is unlikely for patients in group B to develop CIN. Therefore, the advice is strong. 
+
+Therefore, the answer is 1 - strong advice."
+diss,0,"On the contrary, the other study insisted that it is unlikely that the prevalence of metabolic syndrome differs significantly between patients with primary aldosteronism and those with essential hypertension [34], and we also presented the same point. ",":
+
+1. The statement is not giving any advice. 
+2. It is simply presenting a point of view that is contrary to another study. 
+
+Therefore, the answer is 0 - no advice."
+diss,0,"The underlying neuropathology most frequently belongs to a subtype of frontotemporal lobar degeneration characterized by abnormal deposits of the transactive response DNA-binding protein 43 (Rohrer et al, 2010). ",":
+
+1. This statement is not giving any advice, it is simply providing information about the underlying neuropathology.
+
+Answer: 0 - no advice"
+diss,0,"Some COVID-19 patients develop severe hypoxemia, and thrombus formation is increased under hypoxic conditions. ",":
+
+1. What is the context of the statement?
+The context of the statement is that some COVID-19 patients develop severe hypoxemia, and thrombus formation is increased under hypoxic conditions.
+
+2. What type of advice is being given?
+No advice is being given in this statement. The statement is simply providing information about the effects of hypoxemia on thrombus formation. Therefore, the answer is 0 - no advice."
+diss,0,"For example, among the 20 studies on bicarbonate prophylaxis meta-analyzed by Zhang et al, 13 used an increase in serum creatinine of 0.5 mg/dL or 25% as CIN definition. ",":
+
+1. What is the context of the statement?
+
+The context of the statement is that 13 out of 20 studies on bicarbonate prophylaxis meta-analyzed by Zhang et al used an increase in serum creatinine of 0.5 mg/dL or 25% as CIN definition.
+
+2. What type of advice is this?
+
+This is a strong advice, as it is a recommendation based on the results of the meta-analysis."
+diss,0,"Higher density of fruit and vegetable vendors was associated with lower blood pressure, while higher density of highly processed and take-away food vendors was associated with higher blood pressure and BMI/waist circumference. ",":
+
+1. The context of the question is about the association between the density of fruit and vegetable vendors and the density of highly processed and take-away food vendors with blood pressure, BMI/waist circumference.
+
+2. Based on the context, it can be inferred that the advice is to consume more fruit and vegetables and less highly processed and take-away food.
+
+3. Therefore, the advice is strong advice (1)."
+diss,0,"However, there was a non-significant trend towards decreasing methylation with increasing age at menarche, consistent with the LUMA findings (Figure 1). ",":
+
+1. The statement is not giving any advice. 
+2. It is simply providing information about a trend that is consistent with the LUMA findings. 
+
+Therefore, the answer is 0 – no advice."
+diss,0,"Previously we suggested that permanent cardiopulmonary impairment was a possible complication in pediatric burn patients [14], and we have shown that severely burned children have significantly improved pulmonary function through regular exercise training [15]. ",":
+
+The context is discussing the possible complications of pediatric burn patients and the benefits of regular exercise training. This suggests that the advice is to encourage regular exercise training for pediatric burn patients in order to reduce the risk of permanent cardiopulmonary impairment. Therefore, the advice is strong (1)."
+diss,0,"We took great care to ensure adequate training of the neuropsychological evaluators at each site, and we monitored quality of test administration, scoring, and data entry on an ongoing basis. ",". 
+
+The statement is providing information about the steps taken to ensure quality of test administration, scoring, and data entry. This is not providing advice, so the answer is 0 - no advice."
+diss,0,"Dexamethasone suppressed cortisol levels in premenopausal women more during the early follicular (low E2) than the midluteal (high E2, high progesterone) phase of the menstrual cycle (1). ",":
+
+1. This statement is providing information about the effects of dexamethasone on cortisol levels in premenopausal women.
+
+2. This information is not providing any advice, so the answer is 0 - no advice."
+diss,0,Tasbas et al. examined MTHFR gene C677T mutation in RA patients and showed that the frequency of MTHFR C677T variant was similar in Turkish RA patients and healthy control subjects [25]. ,":
+
+1. The passage is discussing a study conducted by Tasbas et al. on the MTHFR gene C677T mutation in RA patients.
+
+2. The study showed that the frequency of the MTHFR C677T variant was similar in Turkish RA patients and healthy control subjects.
+
+3. Based on this information, the passage is not offering any advice. Therefore, the answer is 0 - no advice."
+diss,0,"This demonstrates the potential of ST410 to acquire further resistance determinants, leaving very limited therapeutic agents for treating life-threatening bacterial infections. ",":
+
+The statement is not giving any advice, but rather is providing information about the potential of ST410 to acquire further resistance determinants. Therefore, the answer is 0 - no advice."
+diss,0,"Metastases in bone are usually osteolytic, and the most common sites of involvement are the vertebrae (thoracic, lumbar, and cervical) [13], pelvis, femur, humerus and ribs [8]. ",":
+
+This statement is not giving any advice, it is simply providing information about the most common sites of metastases in bone. Therefore, the answer is 0 - no advice."
+diss,0,This effect counteracts the above-mentioned effect of γ on the degree of uncertainty reduction. ,":
+
+1. We are looking for advice related to the effect of γ on the degree of uncertainty reduction.
+2. The advice is to counteract the effect of γ on the degree of uncertainty reduction.
+
+Answer: 1 - strong advice"
+diss,0,"Alternatively, the MS4A4E variant may be associated with an aspect of cognitive function in AD patients that is not captured by the DWRT. ",":
+
+This statement is not giving any advice, it is simply suggesting an alternative. Therefore, the answer is 0 - no advice."
+diss,0,"Additionally, the TLR4 ligand lipopolysaccharide, which causes acute podocyte injury and is elevated in sera from patients with DKD (48, 49), is also necessary for trafficking of TNF to the plasma membrane (50). ",":
+
+This sentence is not giving any advice, it is simply providing additional information. Therefore, the answer is 0 - no advice."
+diss,0,"In France, three months of hormonal therapy at low doses is often prescribed at the beginning of treatment, this is not enough to produce substantial physical/psychological changes. ",". 
+
+First, let's define what advice is. Advice is a recommendation or suggestion about what someone should do. 
+
+In this case, the statement is providing information about a medical treatment, but it is not making a recommendation or suggestion about what someone should do. Therefore, the answer is 0 - no advice."
+diss,0,"In our experience, the biker position is well tolerated, even in patients with severe LV dysfunction. ",". 
+
+First, let's define what advice is. Advice is a recommendation or suggestion about what someone should do. 
+
+Next, let's look at the context. In this context, the speaker is talking about the biker position and how it is well tolerated, even in patients with severe LV dysfunction. 
+
+Based on this, we can conclude that the speaker is giving a strong advice to use the biker position. Therefore, the answer is 1 - strong advice."
+diss,0,"This effect was previously accounted for, in the model-based planning framework, by adding a new parameter that encodes the probability of stopping the search after encountering a large punishment. ",":
+
+This statement is providing advice on how to account for a certain effect in a model-based planning framework. Therefore, it is providing advice. 
+
+The statement is suggesting that a new parameter should be added to the model-based planning framework in order to account for the effect. This is a strong suggestion, so the answer is 1 - strong advice."
+diss,0,"Although the decrease in the complication rate was not confirmed when all studies were calculated, it became significant when only good-quality trials were included. ",":
+
+The statement is providing advice, so the answer is not 0 - no advice. 
+
+The statement is suggesting that only good-quality trials should be included, so the answer is 1 - strong advice."
+diss,0,HDAC1 and 2 are usually found as part of two corepressor complexes: SIN3 and NuRD. ,":
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,"First, insufficient evidence and measurement challenges complicate a definitive conclusion. ",". This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"This means, however, that the values stored on the CDI when blood is drawn for ABL analysis may not correspond exactly with the actual values of the drawn blood. ",". 
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"Case 1 presented with classical symptoms and signs of osteomalacia, complicated by secondary hyperparathyroidism, and showed an excellent response to gluten-free diet and oral calcitriol treatment. ",":
+
+1. The case presented with classical symptoms and signs of osteomalacia, complicated by secondary hyperparathyroidism.
+2. The patient showed an excellent response to gluten-free diet and oral calcitriol treatment.
+
+Based on this information, it can be concluded that the advice given is strong advice. Gluten-free diet and oral calcitriol treatment have been proven to be effective in treating osteomalacia and secondary hyperparathyroidism, so it is a strong recommendation for the patient to follow this advice. Therefore, the answer is 1 - strong advice."
+diss,0,"al, individuals who took Over-The-Counter medicines had higher beliefs in the benefits of medicines but lower beliefs in viewing medicines as harmful and overused [20]. ",":
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"However, 90% of breast cancer cases are detected by the patients themselves (Şimşek et al, 2002). ",". 
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,"Another study from the USA found a 10% increase in distance to the closest fast food restaurant to be associated with a 0.4% decrease in obesity (Mohamed, 2018). ",". 
+
+This study found a correlation between distance to the closest fast food restaurant and obesity. This means that the further away the fast food restaurant is, the lower the obesity rate. 
+
+Based on this information, we can conclude that the advice is to stay away from fast food restaurants in order to reduce obesity. This would be considered strong advice, so the answer is 1 - strong advice."
+diss,0,We might assume that for a religious pain patient his or her religious meaning system can be a readily available source in coping with the pain. ,":
+
+1. What is the context of the statement?
+The context of the statement is that a religious pain patient can use their religious meaning system to cope with the pain.
+
+2. What type of advice is this?
+This is a strong advice, as it is suggesting that the religious pain patient should use their religious meaning system to cope with the pain."
+diss,0,"However, the rats used by Brock et al were behaviorally naïve and home cage raised, whereas our STR-B mice and the rats used for Golgi studies by Gibbs and Kolb, were behaviorally tested prior to euthanasia for histological processing. ",". 
+
+This statement is not giving any advice, it is simply providing information about the rats used in the study. Therefore, the answer is 0 - no advice."
+diss,0,"First, patients fulfilling these criteria have a higher incidence of major adverse cardiovascular events and increased mortality 12,14. ",":
+
+This statement is providing information about the potential risks associated with a certain set of criteria. It is not providing any advice on how to act or what to do. Therefore, the answer is 0 - no advice."
+diss,0,"However, primary stability of isolated ventral fusion in the thoracolumbar spine is poor, compared with instrumented fusion resulting in loss of correction [14, 16]. ",":
+
+1. The sentence is providing information about the primary stability of isolated ventral fusion in the thoracolumbar spine.
+
+2. This information is being compared to the stability of instrumented fusion.
+
+3. The sentence is not providing any advice, so the answer is 0 - no advice."
+diss,0,We can hypothesize that participants with hormonal therapy have less need to assert themselves because of their bodies and their perception that their appearance is more in accordance with their stereotype. ,". 
+
+This statement is not giving any advice, it is simply hypothesizing a potential outcome. Therefore, the answer is 0 - no advice."
+diss,0,"Therefore, we investigated the effects of sodium bicarbonate prophylaxis in addition to theophylline prophylaxis in 152 patients. ",":
+
+1. The sentence states that the authors ""investigated the effects of sodium bicarbonate prophylaxis in addition to theophylline prophylaxis in 152 patients"". This means that they conducted a study to determine the effects of taking these two medications together. 
+
+2. Based on this information, we can conclude that the authors are providing strong advice to take these two medications together. Therefore, the answer is 1 - strong advice."
+diss,0,"Opioid treatment of NP is often discouraged because of concerns about ineffectiveness, the development of tolerance, the risk of addiction, and limiting side effects (Eisenberg, McNicol, & Carr, 2005; Foley, 2003; Gallagher, 2006; Jacob, 2004). ",":
+
+The passage is discussing the concerns about opioid treatment of NP. This means that the passage is not giving any advice, but rather discussing the potential risks associated with opioid treatment. Therefore, the answer is 0 - no advice."
+diss,0,"Given that timely initiation of properly directed antimicrobial therapy is a well-established determinant of survival in many severe infectious diseases, this delay poses a substantial clinical risk [13–16]. ",":
+
+1. The context of the statement is that timely initiation of properly directed antimicrobial therapy is a well-established determinant of survival in many severe infectious diseases.
+
+2. The statement is that this delay poses a substantial clinical risk.
+
+3. Therefore, the advice is that timely initiation of properly directed antimicrobial therapy is necessary to reduce the risk of severe infectious diseases.
+
+Answer: 1 - strong advice"
+diss,0,"In the present study, 16% of participants regulaly performed BSE. ",":
+
+1. What is the context of the statement?
+
+The context of the statement is that 16% of participants regularly performed BSE (breast self-examination).
+
+2. What type of advice is this?
+
+This statement is not giving any advice, so the answer is 0 - no advice."
+diss,0,We found many Australian truck drivers have poor dietary behaviors. ,":
+
+1. We need to determine what type of advice is being given.
+2. In this case, the advice is to improve dietary behaviors of Australian truck drivers.
+3. This would be considered strong advice, as it is suggesting a specific action to be taken.
+
+Answer: 1 - strong advice"
+diss,0,"Although CKD per se is considered a chronic inflammatory disorder (38), the contribution of inflammatory mediators to kidney damage remains largely unknown. ",":
+
+This statement does not provide any advice, so the answer is 0 - no advice."
+diss,0,The old rats manifested significantly slower mastication rates and reductions in bolus speed. ,".
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,"To reduce this possible difference the blood for ABL analysis was drawn at steady state bypass, meaning that blood and gas flows and blood gas values on the display were stable. ",". 
+
+This statement is providing a solution to a potential problem. Therefore, it is offering advice. 
+
+The advice is strong, as it is providing a specific solution to the problem. 
+
+Answer: 1 - strong advice"
+diss,0,"Future study must account for these factors and combine repeated measures of inflammation, growth, body composition, and diet with direct energetic analyses. ",":
+
+This statement is not giving any advice, but rather outlining the parameters of a future study. Therefore, the answer is 0 - no advice."
+diss,0,Dexamethasone has been given prior to infusion at the recommended dose of 20 mg 30 min in the majority of clinical studies. ,":
+
+1. What is the context? 
+Answer: The context is that dexamethasone has been given prior to infusion at the recommended dose of 20 mg 30 min in the majority of clinical studies.
+
+2. What type of advice is this? 
+Answer: This is strong advice, as it is recommending a specific dose and time for the administration of dexamethasone."
+diss,0,Whether angiogenin induces and/or modulates angiogenesis remains to be determined. ,":
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"Overlapping GSVs and Variable Effects Although different instances of large GSVs commonly have approximately the same boundaries [10], with a correspondingly high probability of having the same or similar phenotypic effects, smaller GSV regions routinely feature a range of overlapping GSV calls of different sizes and locations [36], [37], thereby presenting a dilemma – in the absence of strong prior information to enable modelling of the effects of different GSV variants, how should a range of variants affecting a single locus be combined when testing for association with a phenotype of interest? ",". This passage is discussing the difficulty of combining different GSV variants when testing for association with a phenotype of interest. It is not providing any advice on how to do this, so the answer is 0 - no advice."
+diss,0,"Although it was equivalent to many previous studies, we believe that it was not adequate to draw strong conclusions about the differences in the prevalence of tested parameters between males and females and between the different Classes of malocclusions. ",":
+
+The statement is not giving any advice, it is simply stating a belief. Therefore, the answer is 0 - no advice."
+diss,0,It is outside of the scope of this paper to present the many different measures and measurement methods proposed for quantifying videofluorography in humans [54]. ,":
+
+The sentence is not giving any advice, it is simply stating that the paper is not going to discuss a certain topic. Therefore, the answer is 0 - no advice."
+diss,0,The GRS63 explained ≅3% of the variance in FN-BMD in all three cohorts while the GRS16 explained less than 1.0%. ,":
+
+The statement is providing information about the variance in FN-BMD in three cohorts. It is not providing any advice. Therefore, the answer is 0 - no advice."
+diss,0,Selection bias could explain the relatively low levels of comorbidities. ,":
+
+Selection bias could explain the relatively low levels of comorbidities.
+
+This statement is not giving any advice, so the answer would be 0 - no advice."
+diss,0,"Elevated antibody titers are also not specific for active infection, and may be seen in previously infected patients who have received treatment or are no longer shedding organisms. ",":
+
+1. The statement is providing information about elevated antibody titers.
+
+2. It is also suggesting that these titers may not be indicative of an active infection.
+
+3. Therefore, the statement is providing weak advice to consider that elevated antibody titers may not be indicative of an active infection.
+
+Answer: 2 - weak advice"
+diss,0,"Future studies might include more broad measures, directly related to tolerance and the processes within Oxford House that may help foster those beneficial effects. ",". 
+
+This statement is not giving any advice, but rather suggesting a potential area of study. Therefore, the answer is 0 - no advice."
+diss,0,"Most truck cabs lack the equipment necessary to store and prepare healthy foods,16 and it is easier for drivers to eat conveniently-wrapped take-away foods than healthier food options such as salads 17. ",":
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"On postoperative day 1, the pain intensity in group N was slightly higher than that in group R, but this had no clinical implication. ",". 
+
+First, we need to understand what the statement is saying. The statement is saying that the pain intensity in group N was slightly higher than that in group R, but this had no clinical implication. 
+
+Based on this statement, we can conclude that the statement is giving no advice. Therefore, the answer is 0 - no advice."
+diss,0,"Institutional efforts to improve pain management (1996) Concomitant with an increased number of LSS at St. Jude, a Pain Committee was formed in 1996, which included the following disciplines: nursing, oncology, surgery, anesthesiology, neurology, psychology, and child life; a pain management service was established in 2000. ",":
+
+This is not advice, as it is simply describing an institutional effort to improve pain management.
+
+Therefore, the answer is 0 - no advice."
+diss,0,"This could help to integrate public and private services, and streamline what is currently a long and costly process of serial consultation. ",":
+
+1. What is the context of the statement? 
+The context of the statement is that it could help to integrate public and private services, and streamline what is currently a long and costly process of serial consultation. 
+
+2. What type of advice is being given? 
+The type of advice being given is strong advice, as it is suggesting that this could help to integrate public and private services and streamline the process. 
+
+Answer: 1 - strong advice"
+diss,0,Some of these subgroup findings seem easy to understand in the context of the care delivery system in which the study was conducted. ,". 
+
+This statement is not giving any advice, so the answer is 0 - no advice."
+diss,0,"In a recent study, Bayram et al. examined Turkish osteoarthritis patients to determine the frequency of I/D polymorphism genotypes of ACE gene and similarly they reported that there was a statistically significant difference between the groups with respect to genotype distribution (P\0.001). ",". 
+
+The statement provided is a result of a study conducted by Bayram et al. It is not providing any advice, but rather reporting the findings of the study. Therefore, the answer is 0 - no advice."
+diss,0,Whether experiments for longer durations were undertaken is not clear from the source documents. ,":
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 – no advice."
+diss,0,"When we restricted our analysis to the subset of women with high grade breast cancer, SNPs in 34 genes displayed associations among women with high grade disease. ",":
+
+1. This statement is not giving any advice, it is simply providing information about the results of a study.
+
+2. Therefore, the answer is 0 - no advice."
+diss,0,"To our knowledge, this is the first study to report the predominance of abnormalities in the NeuroCom LOS test in subjects with mild to moderate TBI in comparison with the SOT. ",":
+
+1. The statement is not giving any advice, it is simply reporting the findings of a study.
+
+2. Therefore, the answer is 0 - no advice."
+diss,0,Current transplant center procedural habits (even for those committed to participation in this KIR DS trial) in donor searching are likely the reasons for this failure. ,". 
+
+This statement is not giving any advice. It is simply stating the likely cause of a failure. Therefore, the answer is 0 - no advice."
+diss,0,The roles of HLA-DQ status and potential immunogenetic mechanisms in symptom generation in IBS-D patients are controversial. ,":
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"In the recent decades, the advances in the treatment such as new therapies including antiepidermal growth factor receptor antibody therapy and antiangiogenic agents have only partially improved the survival of CRC patients with distant‐stage disease, with a 2‐year relative survival rate increased from 21% to 35% for colon cancer with distant stage and from 22% to 39% for rectal cancer with distant stage between 1989–1992 and 2009–2012 5, 20, 21, 22. ",":
+
+This passage is not giving any advice, it is simply providing information about the advances in treatment for CRC patients with distant-stage disease. Therefore, the answer is 0 - no advice."
+diss,0,"Therefore, we can hypothesize that an individual may provide a normal or abnormal score depending on where he/she is in the course of the disorder. ",". This statement is not giving any advice, it is simply making a hypothesis. Therefore, the answer is 0 - no advice."
+diss,0,"In contrast, the current study found a decrease in alcohol and illicit drug use on days of cannabis abstinence and slightly less tobacco use. ",":
+
+1. The context is talking about a study that found a decrease in alcohol and illicit drug use on days of cannabis abstinence and slightly less tobacco use. 
+
+2. This is not giving any advice, it is simply reporting the findings of the study. 
+
+Answer: 0 – no advice"
+diss,0,"Proximal stress-shielding is a common feature of the femoral replacement, either with or without cement fixation. ",":
+
+1. The statement is providing information about a feature of femoral replacement, either with or without cement fixation.
+
+2. This statement is not providing any advice, so the answer is 0 - no advice."
+diss,0,"/high-power field) were normally distributed, and the coefficients of variation were 53%, 57%, and 32%, respectively. ",". 
+
+First, we need to determine what type of advice is being given. In this case, the statement is providing information about the distribution of three variables, so it is not providing any advice. Therefore, the answer is 0 - no advice."
+diss,0,"The St. Jude pain management guidelines recommend an initial dose of 5 mg/kg/day given in three divided doses every 8 hours and dose escalation every 2 to 3 days to a maximum of 70 mg/kg/day, not to exceed 3600 mg/day (Dworkin et al., 2003; Fassoulaki, Triga, Melemeni, & Sarantopoulos, 2005; Krane, Golianu, & Leong, 2003; McClain & Ennevor, 2000). ",":
+
+1. The text provides a set of recommendations for pain management.
+2. The recommendations are specific and provide a clear set of instructions.
+3. The recommendations are backed up by research from multiple sources.
+
+Based on the above, this type of advice is a strong advice (1)."
+diss,0,The principal findings of this study were as follows: 1) the NLR had a better overall diagnostic performance than maternal serum CRP levels in predicting PIR and distinguishing HCA from funisitis; 2) patients with a high NLR were at risk of impending preterm delivery in the context of normal CRP levels; and 3) the combined use of NLR and CRP levels measured before treatments can predict poor pregnancy outcomes in patients with PIR. ,":
+
+The principal findings of this study are not giving any advice. They are simply presenting the results of the study. Therefore, the answer is 0 - no advice."
+diss,0,"In this context, the term ‘transmodal’ was introduced to collectively designate constituents of the heteromodal, paralimbic and limbic cortical zones (Mesulam, 1998). ",":
+
+1. The term 'transmodal' is being introduced.
+2. It is being used to collectively designate constituents of the heteromodal, paralimbic and limbic cortical zones.
+
+Based on this information, it is safe to say that this is not advice, but rather a definition of a term. Therefore, the answer is 0 - no advice."
+diss,0,Cytokines were produced by different tissues and cleared by the kidney [22]. ,". This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,The overexpression of Dicer was associated with shorter survival time in CRC patients57. ,":
+
+1. The statement is providing information about a correlation between Dicer overexpression and shorter survival time in CRC patients.
+
+2. This information does not provide any advice on what to do.
+
+Answer: 0 – no advice"
+diss,0,"The respirable dust fraction that is most pathogenic is generally invisible to the naked eye (15,16). ",":
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,MDS plotting indicated significant dissimilarities of approximately 5% between bacterial clustering during the walnut and the control diets after eight weeks of intervention (p = 0.02). ,":
+
+1. The MDS plotting indicated significant dissimilarities of approximately 5% between bacterial clustering during the walnut and the control diets after eight weeks of intervention.
+
+2. The p-value for this result was 0.02.
+
+3. A p-value of 0.02 indicates that there is a statistically significant difference between the two groups, which suggests that the walnut diet had an effect on the bacterial clustering.
+
+4. Therefore, this result provides strong advice that the walnut diet had an effect on the bacterial clustering.
+
+Answer: 1 - strong advice"
+diss,0,"MS4A4E, a gene with no previously identified function, is part of a gene cluster whose members have a common genomic structure including a transmembrane domain found in cell surface proteins [Liang et al  2001], and has been associated with Braak tangle and plaque scores in the parietal lobe of AD cases and cognitively normal controls [Karch et al  2012]. ",".
+
+This statement does not provide any advice, it simply provides information about the gene MS4A4E. Therefore, the answer is 0 - no advice."
+diss,0,"Hormonal therapy can be beneficial for anxiety and mood disorders [Citation], which could explain why the individuals who were receiving hormonal therapy presented fewer disturbances on the Psychasthenia dimension compared with those who were not receiving hormonal therapy. ",":
+
+1. This statement is not giving any advice, as it is simply presenting a possible explanation for the results of a study.
+
+Answer: 0 – no advice"
+diss,0,"However, only few feeding trials have examined the prebiotic effect of nuts, especially walnuts. ",". 
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"In this study, we analyzed the relationship between stress level and atopic dermatitis, adjusting for age, current smoking status, current alcohol consumption, maternal educational level, paternal educational level, economic status, living situation, and size of city. ",":
+
+This statement is not giving any advice, it is simply describing the parameters of the study. Therefore, the answer is 0 - no advice."
+diss,0,"Addition of epidural analgesia (a bimodal approach) (1990) In our series, 81.9% of patients with lower extremity LSS received epidural analgesia (118 of 144). ",":
+
+1. This statement is providing information about the use of epidural analgesia in a series of patients with lower extremity LSS.
+
+2. It is not providing any advice on whether or not to use epidural analgesia.
+
+Answer: 0 – no advice"
+diss,0,"We assume that the CP patient, by praying, reframes his pain condition in more positive and meaningful terms. ",". 
+
+We are looking for the type of advice given in the context. The context states that the CP patient is reframing his pain condition in more positive and meaningful terms by praying. Therefore, the advice given is to pray in order to reframe the pain condition in more positive and meaningful terms. 
+
+The advice given is strong advice, so the answer is 1 - strong advice."
+diss,0,"Reducing DUP, in addition to obtaining a better response to symptomatic medications, may improve long-term prognosis by attenuating ongoing neurotoxicity (McGlashan, 1999;Guo et al, 2013;Penttilä et al, 2013). ",":
+
+1. The context is about reducing DUP (drug use period) in order to improve long-term prognosis. 
+2. This is a form of advice, as it is suggesting a course of action that could lead to a better outcome. 
+3. The advice is strong, as it is backed up by evidence from three sources. 
+
+Answer: 1 - strong advice"
+diss,0,"In future studies, data on these outcomes would help clarify the health implications of our findings. ",":
+
+The statement is suggesting that future studies should be conducted to gain more information on the health implications of the findings. This is a suggestion for further research, which is a form of advice. 
+
+Therefore, the answer is 2 - weak advice."
+diss,0,"Second, our greater emphasis on the SEM over the SCT may have been problematic. ",". 
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"If any of these toxicities reappear in subsequent cycles in a patient exhibiting clinical benefit, the dose may be further reduced. ",":
+
+This statement is giving advice on how to handle a situation. Therefore, the type of advice is either strong or weak. 
+
+To determine which type of advice it is, we need to consider the language used. In this case, the statement is using the word ""may"" which implies that the action is optional. Therefore, the type of advice is weak. 
+
+Answer: 2 - weak advice"
+diss,0,"Using Hi-C data, we prioritized significant novel melanomarelated genes from chromatin interaction mapping; the top 10 genes identified all have immune and cytokine signaling functions. ",":
+
+1. Is the statement providing advice? Yes.
+
+2. Is the advice strong or weak? It is strong advice, as the statement is providing a clear recommendation to prioritize the top 10 genes identified with immune and cytokine signaling functions."
+diss,0,This fallacy is an important reason for the decreased rates of BSE among women. ,". 
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"Methylation profiling by RT-MeDIP revealed that methylation is clustered within BIM 5′UTR, at least in SU-DHL-1 (Figure 2D). ",":
+
+1. The statement is providing information about the results of a methylation profiling study.
+
+2. The statement does not provide any advice or recommendations.
+
+Answer: 0 – no advice"
+diss,0,Injury to staff is fortunately rare. ,":
+
+This statement is not giving any advice, it is simply making an observation. Therefore, the answer is 0 - no advice."
+diss,0,"The well-known risk factors for the persistence/recurrence of CIN after cervical conization include older age, high cytological grade, and positive margins [8]. ",":
+
+This statement is providing information about risk factors for CIN persistence/recurrence after cervical conization. It is not providing any advice on how to prevent or manage CIN. Therefore, the answer is 0 - no advice."
+diss,0,"This study has a number of strengths including the prospective design and well-phenotyped study population in which individuals of both European and African ancestry are represented, the large sample size, the survey of 20 recently identified AD-associated loci, and the availability of longitudinal as well as cross-sectional measures of cognition acquired in midlife but there are also limitations. ",":
+
+This statement is not giving any advice, it is simply describing the strengths and limitations of the study. Therefore, the answer is 0 - no advice."
+diss,0,"One possible reason for this is that the correlations with BSID scores were with global white matter development, while correlations with regions that involved particular functions were not able to reach the statistical significance with the limited sample size. ",". 
+
+The statement is providing a possible explanation for why certain correlations were not able to reach statistical significance. It is not providing any advice. Therefore, the answer is 0 - no advice."
+diss,0,Genetic factors are involved in its onset and progression [1]. ,":
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"The rate of breast cancer in those with menarche at ages below 12 years was 7.8% in a study conducted in Turkey (Özaydın et al, 2009); however, in the present study, that rate was 19.6%. ",":
+
+1. This statement is not giving any advice, it is simply providing information about the results of two different studies.
+
+2. Therefore, the answer is 0 - no advice."
+diss,0,"At the individual level, we found that 23 patients in the LA group had a HOOS-PS score of over 88 points—as compared to 27 in the PA group, giving a non-signifi cant absolute risk reduction of 7% (95% CI: −14 to 28). ",":
+
+1. The statement is about the results of a study, so it is not giving advice.
+
+2. Therefore, the answer is 0 – no advice."
+diss,0,"Other metallic devices (such as syringe drivers and prostheses) would also be detected, but this could be verified with reference to the deceased's medical case-notes. ",". 
+
+First, we need to understand what the context is. In this case, the context is that other metallic devices, such as syringe drivers and prostheses, may be detected in a deceased person, and that this can be verified by looking at the deceased's medical case-notes. 
+
+Now, we need to determine what type of advice is being given. In this case, the advice is to look at the deceased's medical case-notes in order to verify if any other metallic devices are present. This is a strong advice, as it is a clear recommendation to take a specific action. Therefore, the answer is 1 - strong advice."
+diss,0,"Given that active commuting is decreasing in LMICs while NCDs are increasing, there is a need for more research in LMICs to inform context-specific built environment strategies to increase physical activity. ",". 
+
+This statement is not giving any advice, but rather making an observation and suggesting a need for further research. Therefore, the answer is 0 - no advice."
+diss,0,"We tested more subgroups than typical according to a review of subgroup analysis practices, which found a median of 4 variables selected for subgroup analysis[citation]. ",":
+
+1. We need to determine what type of advice is being given in the context.
+2. The context states that ""We tested more subgroups than typical according to a review of subgroup analysis practices, which found a median of 4 variables selected for subgroup analysis[citation].""
+3. This statement is suggesting that it is beneficial to test more subgroups than the median of 4 variables.
+4. Therefore, the type of advice being given is strong advice (1)."
+diss,0,"In the current study and in almost all prior studies, the large majority of attempts to change cannabis fail (Moore & Budney, 2003) (Calabria et al, 2010). ",":
+
+1. The context is discussing the results of prior studies on attempts to change cannabis use. 
+2. The question is asking what type of advice is being given. 
+3. The answer is 0 - no advice. The statement is simply summarizing the results of prior studies, without offering any advice or opinion."
+diss,0,"However, neither of the above interpretations can adequately explain why cortex in male LMC and STR mice is selectively affected, particularly, since males and females do not significantly differ in their corticosterone response as infants (Table 1). ",":
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,"Therefore, compared with ST131, ST410 is predicted to be a slightly older lineage of E. coli, even though the prevalence of ST131 is far higher than that of ST410. ",". 
+
+This statement is not giving any advice, it is simply making a prediction. Therefore, the answer is 0 - no advice."
+diss,0,"In most cases, a private sector hierarchy—from shop to private allopath/doctor to hospital—supplanted the public sector hierarchy from clinic to health complex to hospital. ",". 
+
+This statement is not giving any advice, it is simply describing a situation. Therefore, the answer is 0 - no advice."
+diss,0,"Despite the limitations of the study, the results indicated that three traits of emotion dysregulation (non-acceptance of emotions, lack of clarity and lack of awareness) were associated with higher symptoms of social anxiety among adolescents, while three traits of dispositional mindfulness (increased acting with awareness, not reacting to inner experience, and being able to describe inner experience) were associated with lower symptoms. ",":
+
+1. This statement does not provide any advice.
+2. Therefore, the answer is 0 – no advice."
+diss,0,"In this study participants were slightly more educated than Finnish population in general [34] and the mean age was rather high, which has been associated with higher eating competence [6,11], as seen also in our study (Table 1). ",":
+
+1. The sentence is providing information about the participants in the study.
+2. It is not providing any advice.
+
+Answer: 0 – no advice"
+diss,0,"Up until 1995, school age children in Hawai‘i's public school system were annually screened for vision problems by the Hawai‘i State Department of Health. ",". 
+
+This statement is not giving any advice, it is simply providing information about a past event. Therefore, the answer is 0 - no advice."
+diss,0,"Instead, in some prior studies, employment had a positive effect on QoL6,8; however, data on occupation were unavailable for participants in our study and therefore we were unable to examine this association in our sample. ",":
+
+The statement is not giving any advice, it is simply providing information about the limitations of the study. Therefore, the answer is 0 - no advice."
+diss,0,"On the other hand, in our study those who tried to quit and failed early on during the IVR period were more, not less, likely to make later quit attempts than those who did not try to quit. ",". 
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"In addition, we did not observe an association between these erythrocyte membrane protein deletion mutations and alterations in the prevalence or density of asymptomatic blood-stage malaria infection. ",":
+
+The sentence is providing information about the results of an experiment, but it is not providing any advice. Therefore, the answer is 0 - no advice."
+diss,0,"This could potentially occur in response to a specific environmental exposure, or in the context of expression of other genes such as the APOE ε 4 allele as suggested by the results of the stratified analysis for rs670139. ",":
+
+1. The context of the statement is about a potential response to a specific environmental exposure or expression of other genes.
+2. The statement is suggesting that the results of the stratified analysis for rs670139 should be taken into consideration.
+
+Based on the information provided, this statement is offering weak advice. It is suggesting that the results of the stratified analysis should be taken into consideration, but it is not providing a definitive answer or solution."
+diss,0,Our overall results are congruent with beneficial effects of nurse- and pharmacist-led hypertension control interventions conducted in other care settings[citation]. ,":
+
+1. The statement is providing evidence that supports the beneficial effects of nurse- and pharmacist-led hypertension control interventions. 
+
+2. This evidence is being used to provide advice to the reader. 
+
+3. Therefore, this statement is providing strong advice. 
+
+Answer: 1 - strong advice"
+diss,0,"Implications for Human Life History, Adaptation, and Evolution. ",":
+
+This is not a statement that is giving advice, so the answer is 0 - no advice."
+diss,0,This in vitro model was performed to simplify experimental variables and to isolate different components and study them in well-controlled and reproducible conditions. ,":
+
+This statement is not giving any advice, it is simply describing the purpose of the in vitro model. Therefore, the answer is 0 - no advice."
+diss,0,"To determine the clinical utility of these genetic risk scores for the prediction of BMD, BMD change and fracture risk in elderly subjects, three large well-characterized prospective cohorts of older men and women were evaluated. ",":
+
+This statement is not giving any advice, it is simply describing the evaluation process that was used to determine the clinical utility of genetic risk scores. Therefore, the answer is 0 - no advice."
+diss,0,"This dense fibrous matrix is reminiscent of the vascular pathology seen in HGPS 4, 8. ",":
+
+1. What is the context of this statement?
+
+This statement is referring to a dense fibrous matrix that is similar to a vascular pathology seen in HGPS 4, 8.
+
+2. What type of advice is being given?
+
+No advice is being given in this statement."
+diss,0,We observed a strong cytokine dysregulation with the enhanced production of plasma proinflammatory factors in CRS Type 5 patients with the increases in apoptosis rate in RTCs incubated with this plasma. ,":
+
+1. This statement does not provide any advice, so the answer is 0 - no advice."
+diss,0,"Thus, the use of an animal models is required to answer many specific experimental questions. ",". The sentence is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"Overall, eating competence, an indicator of positive eating-related behaviour and attitude, was associated with health-promoting lifestyle, a lower likelihood of having new type 2 diabetes, metabolic syndrome and its main components: abdominal obesity, insulin resistance, impaired glucose tolerance, hypertriglyceridaemia and decreased HDL cholesterol. ",":
+
+1. The context is discussing the association between eating competence and health-promoting lifestyle, and the likelihood of having new type 2 diabetes, metabolic syndrome and its main components. 
+
+2. This suggests that having a positive eating-related behaviour and attitude is associated with better health outcomes. 
+
+3. Therefore, the advice here is to have a positive eating-related behaviour and attitude, which would be considered strong advice. 
+
+Answer: 1 - strong advice"
+diss,0,"Future studies should consider a more diverse group of CP patients, including those who are undergoing pain treatment or those who are hospitalized. ",": 
+
+This statement is giving advice to future studies, so it is offering some type of advice. 
+
+The advice is to consider a more diverse group of CP patients, which is a strong recommendation. 
+
+Therefore, the answer is 1 - strong advice."
+diss,0,"Within these peak atrophy sites, cortical volume was 53–64% less than control values whereas average volume elsewhere in the left hemisphere maintained, on average, 92% of control values. ",".
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,"IL-6, a multifunctional inflammatory cytokine and a key component of the inflammatory mediator network, is associated with inflammation; its rapid increase after exposure to bacterial components can be used as an early marker for bacterial infection with efficacy superior to that of procalcitonin [citation]. ",":
+
+This statement is providing information about IL-6, a cytokine associated with inflammation, and its potential use as an early marker for bacterial infection. It is also providing a citation to support the efficacy of this marker. 
+
+Based on this information, it is not providing any advice, so the answer is 0 - no advice."
+diss,0,"The progesterone treated group did not exhibit an advantage, compared with the placebo group at 6 months post-injury, in their ability to undergo neuropsychological testing, their raw scores on the neuropsychological measures, or the obtainment of favorable versus unfavorable outcomes. ",":
+
+The statement is providing information about the results of a study, which is not advice. Therefore, the answer is 0 - no advice."
+diss,0,"The miR-SNP rs3742330 in DICER1 contributes to T-cell lymphoma, renal cell carcinoma, oral premalignant lesions, and CRC19,63–65. ",":
+
+This statement is not giving any advice, it is simply providing information about the miR-SNP rs3742330 in DICER1 and its potential contribution to various types of cancer. Therefore, the answer is 0 - no advice."
+diss,0,"In this study, we evaluated the influence of HLA-DQ2/8 genotypes on mucosal barrier function, mucosal inflammation, and GI transit in unselected IBS-D patients. ",":
+
+This study is evaluating the influence of HLA-DQ2/8 genotypes on mucosal barrier function, mucosal inflammation, and GI transit in unselected IBS-D patients. Therefore, it is not providing any advice.
+
+Answer: 0 – no advice"
+diss,0,"Several classifications have been proposed to distinguish subgroups among CVID patients, mainly using peripheral B- and/or T-cell immunophenotyping 24–27,44,45. ",":
+
+This statement is not giving any advice, it is simply providing information about the different classifications that have been proposed for CVID patients. Therefore, the answer is 0 - no advice."
+diss,0,"Open debridement and anterior fusion in severe osteomyelitis of the spine offers the advantage of eradication of the focus of infection and improvement of conditions for bony fusion of the affected vertebral bodies [2, 7, 10, 13]. ",":
+
+1. This statement is providing information about the advantages of open debridement and anterior fusion in severe osteomyelitis of the spine. 
+
+2. It is not providing any advice, but rather presenting facts about the potential benefits of this treatment. 
+
+3. Therefore, the answer is 0 – no advice."
+diss,0,"Although the 2 associations above provide tentative support for the original reports that these loci may play a role in obesity, they are nevertheless insufficient to survive correction for multiple testing. ",". 
+
+The statement is providing advice on the original reports that these loci may play a role in obesity. It is suggesting that the associations are not strong enough to survive correction for multiple testing. 
+
+Therefore, this statement is providing strong advice that the original reports should not be relied upon. 
+
+Answer: 1 - strong advice"
+diss,0,"Our results are well in line with previous publications that have reported an inverse association of eating competence with BMI in most [6,7,12,13,15,39], although not in all studies [9,10]. ",":
+
+1. The statement is not giving any advice, it is simply reporting the results of previous studies.
+
+2. Therefore, the answer is 0 - no advice."
+diss,0,"Cervical conization is part of the diagnosis and treatment of CIN and is performed mainly for the treatment of high-grade CIN (e.g., Grade III) [citation]. ",":
+
+1. Cervical conization is part of the diagnosis and treatment of CIN.
+2. It is mainly performed for the treatment of high-grade CIN (e.g., Grade III).
+
+Answer: 1 - strong advice"
+diss,0,"Not surprisingly, we found C. trachomatis antibody titers to be elevated when direct detection methods were negative in a large percentage (11%) of cases. ",":
+
+The statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"It may be, therefore, speculated that in setting of systemic sclerosis, the MCP-1 −2518*G allele represents a marker in linkage disequilibrium (LD) with supposed “casual” allele located nearby. ",". The sentence is not giving any advice, it is simply speculating. Therefore, the answer is 0 - no advice."
+diss,0,Food vendor density within 400 m of participant households had a closer relationship with cardiovascular risk factors than food vendor density within 1600 m and distance to the nearest food vendor. ,":
+
+1. The context of the question is about the relationship between food vendor density and cardiovascular risk factors. 
+
+2. The question states that the closer relationship is within 400 m of participant households than food vendor density within 1600 m and distance to the nearest food vendor. 
+
+3. Therefore, the advice is to consider the food vendor density within 400 m of participant households when assessing cardiovascular risk factors. 
+
+Answer: 1 - strong advice"
+diss,0,We found a positive relationship between densities of highly processed and take-away food vendors with both SBP and DBP. ,":
+
+1. What is the context of the statement?
+
+The context of the statement is that there is a positive relationship between densities of highly processed and take-away food vendors with both SBP and DBP.
+
+2. What type of advice is being given?
+
+No advice is being given."
+diss,0,"In our previous research, we had reported that CD133+CD44+CD54+ subpopulation of CTCs in the peripheral blood was associated with liver metastasis and could be used as an auxiliary diagnostic marker for liver metastasis among CRC patients 19. ",":
+
+1. The statement is not giving any advice, it is simply reporting the results of a research study.
+
+2. Therefore, the answer is 0 - no advice."
+diss,0,"The clinical implications here are the recognition that even those with TBI who are quite functional and not falling may still experience problems with daily activities consequent to impaired balance, perhaps especially dynamic balance. ",":
+
+The statement is not giving any advice, it is simply recognizing that people with TBI may experience problems with balance. Therefore, the answer is 0 - no advice."
+diss,0,"Further, the instruments used to measure pain severity and pain tolerance were assessments with no comparison psychometrics. ",". 
+
+The sentence is not giving any advice, it is simply providing information about the instruments used to measure pain severity and pain tolerance. Therefore, the answer is 0 - no advice."
+diss,0,"A preliminary report of a randomized, controlled trial of GI and colonic transit in IBS-D patients exposed to gluten (34) showed no significant difference in SB or colonic transit with a GFD compared with a gluten-containing diet. ",":
+
+1. The report is preliminary, so it is not yet definitive.
+2. The report does not show a significant difference in SB or colonic transit with a GFD compared with a gluten-containing diet.
+
+Based on these two points, it is safe to say that this report provides no advice. Therefore, the answer is 0 - no advice."
+diss,0,"If Donor Centers or Registries were assured that added value in pre-search KIR genotyping of their donor files would accelerate the search process and provide useful data to provide the best donors quickly, these cost and time restrictions perceived by the Transplant Centers could be overcome. ",". 
+
+This statement is not directly giving advice, but it is suggesting that if certain conditions are met, then a certain outcome will result. This is a form of advice, but it is not a strong or weak form of advice. Therefore, the answer is 0 - no advice."
+diss,0,Prophylaxis with bicarbonate is based on two major principles. ,":
+
+1. Prophylaxis with bicarbonate is based on two major principles.
+2. This statement is providing advice on how to use bicarbonate for prophylaxis.
+
+Answer: 1 - strong advice"
+diss,0,"However, the simple comparison of an ERAS group with an historical cohort is not possible in our case. ",". 
+
+The sentence is not giving any advice, it is simply stating that a comparison of an ERAS group with an historical cohort is not possible. Therefore, the answer is 0 - no advice."
+diss,0,At risk for unilateral amblyopia were the two children with the ‘refer’ recommendation for anisometropia. ,". 
+
+The statement is saying that two children have been recommended to be referred for anisometropia. Anisometropia is a condition where there is a difference in the refractive power of the two eyes. 
+
+Therefore, the advice given is a strong advice, as it is important to refer the two children for anisometropia in order to prevent unilateral amblyopia. 
+
+Answer: 1 - strong advice"
+diss,0,The main reason for this result might be the difference between these two viruses. ,":
+
+This statement is not giving any advice, it is simply stating the reason for a result. Therefore, the answer is 0 - no advice."
+diss,0,"The mutant genotype of rs1130214 had 1.71 times risk to suffer from CHD, compared with the common genotype, and even the mutant allele was also 1.63 times risk. ",":
+
+1. This statement is providing information about the risk of suffering from CHD associated with a particular genotype.
+
+2. This information is suggesting that the mutant genotype and the mutant allele are associated with an increased risk of suffering from CHD.
+
+3. Therefore, this statement is providing strong advice to individuals with this genotype or allele to take extra precautions to reduce their risk of suffering from CHD.
+
+Answer: 1 - strong advice"
+diss,0,Clinical information is not consistently provided with samples. ,":
+
+1. Read the statement: Clinical information is not consistently provided with samples.
+2. Analyze the statement: This statement is suggesting that clinical information should be provided with samples.
+3. Determine the advice: This statement is giving strong advice to provide clinical information with samples.
+
+Answer: 1 - strong advice"
+diss,0,We based the sample size calculation on the HOOS-PS subscale with 10 points as the MCID between groups. ,". 
+
+First, we need to understand what the context is saying. The context is saying that the sample size calculation was based on the HOOS-PS subscale with 10 points as the MCID between groups. 
+
+Next, we need to determine what type of advice this is. Since the context is providing information about the sample size calculation, this is considered strong advice. Therefore, the answer is 1 - strong advice."
+diss,0,A chemical reaction also causes an explosion: at 180.5 °C lithium melts and reacts with the gaseous iodine to release in less than 1 second the energy which would be expended over several years (about 64 kcal/mol). ,". 
+
+This statement is not providing any advice, so the answer is 0 - no advice."
+diss,0,"Our results suggest that, presence of D allele of the ACE gene and C allele of MTHFR gene may constitute a risk for developing osteoarthritis. ",":
+
+1. The context is providing information about a potential risk factor for developing osteoarthritis. 
+
+2. This information is suggesting that the presence of certain alleles of the ACE and MTHFR genes may increase the risk of developing osteoarthritis. 
+
+3. Therefore, the advice being given is to be aware of the potential risk associated with these alleles. 
+
+Answer: 0 – no advice"
+diss,0,"Taken together, these observations support a causative role for local TNF expression in the development of kidney disease and more broadly in peripheral cell injury. ",":
+
+This statement is not giving any advice, it is simply making an observation. Therefore, the answer is 0 - no advice."
+diss,0,The oral cavity geometry of the rat is less curvilinear and longer than that of the human. ,":
+
+This statement is not giving any advice, it is simply providing information about the differences between the oral cavity geometry of the rat and the human. Therefore, the answer is 0 - no advice."
+diss,0,"While we found no impact of market food consumption on relationships between immune function and growth, detailed macronutrient and micronutrient analyses are needed to isolate dietary effects. ",". 
+
+This statement is not giving any advice, but rather suggesting that further research is needed. Therefore, the answer is 0 - no advice."
+diss,0,"Because lutein/zeaxanthin exert immunological properties via the immune system, an interaction between lutein/zeaxanthin and Dicer could reduce CRC risk via an underlying immune system effect. ",":
+
+This statement is not giving any advice, but rather making an observation about the potential interaction between lutein/zeaxanthin and Dicer and its potential effect on reducing the risk of CRC. Therefore, the answer is 0 - no advice."
+diss,0,Ruminococcaceae spp. are an abundant fraction of the human gastrointestinal microbiota and are associated with several important metabolic functions within the Clostridiales order (Clostridium sp. cluster IV) [1] due to the production of butyric acid. ,":
+
+1. This statement is not giving any advice, it is simply providing information about the Ruminococcaceae spp. and their associated metabolic functions.
+
+2. Therefore, the answer is 0 - no advice."
+diss,0,"The determinants of DUP are complex, and include social factors such as accessibility to health care services and social stigma, pathological factors such as the nature, intensity and the velocity of accumulation of symptoms, the toleration of the patient’s environment to deviant behavior, and the patient’s unique insight and distress. ",":
+
+This statement is not giving any advice, it is simply describing the various factors that can contribute to the development of a disorder. Therefore, the answer is 0 - no advice."
+diss,0,So the interaction of gene polymorphism with environmental factor was analyzed. ,":
+
+The statement provided does not provide any advice, so the answer is 0 - no advice."
+diss,0,"There was considerable spatial variation in prevalence from the cross-sectional surveys, with local site prevalence as high as 50%. ",":
+
+The sentence is providing information about the results of a survey, so it is not providing any advice. Therefore, the answer is 0 - no advice."
+diss,0,"Few other labs have previously conducted quantitative morphological assessments of cortex in mice, in response to early environmental exposure. ",". 
+
+This statement is not giving any advice, it is simply providing information about what other labs have done. Therefore, the answer is 0 - no advice."
+diss,0,"DEF8 encodes an activator of intracellular signal transduction, is close to rs4268748 at chromosome 16q24, and is associated with risk of cutaneous squamous cell carcinoma (47). ",". 
+
+First, we need to determine what type of advice is being given. In this case, the context is providing information about a gene, DEF8, and its association with a certain type of cancer. This information does not provide any advice on how to act or what to do, so the answer is 0 - no advice."
+diss,0,"Examination of the association of the AD GWAS variants and baseline cognitive function also revealed significant associations with seven of the polymorphisms (ABCA7, CELF1, CLU, FERMT2, and INPP5D in whites, and CR1 and CD33 in African-Americans). ",":
+
+This statement is not giving any advice, it is simply providing information about the results of an examination. Therefore, the answer is 0 - no advice."
+diss,0,"Moreover, the very low incidence of bone metastases as the first metastatic sign (1.3%) in this study could possibly be explained by the fact that the great majority of the cases concerned intra-abdominal tumours. ",":
+
+1. The sentence is not giving any advice. 
+2. It is simply providing an explanation for the low incidence of bone metastases. 
+
+Therefore, the answer is 0 - no advice."
+diss,0,"Ellison et al[20] reported that patients who undergo LPNs have shorter hospital stay durations compared with those who undergo RAPNs; however, pooled meta-analysis found no significant differences between the 2 surgeries[citation]. ",":
+
+1. The statement is reporting the findings of a study, so it is not providing advice.
+
+2. Therefore, the answer is 0 – no advice."
+diss,0,"Given the significant association between HLA region and outcome of HBV infection in previous studies, together with our robust statistic results, it is natural to speculate that polymorphisms in such region may also associated with the progression to LC in patients with CHB. ",":
+
+This statement is not giving any advice, but rather making a speculation based on the evidence presented. Therefore, the answer is 0 - no advice."
+diss,0,"It appears that mild deficiency can lead to so called pre-osteomalacia,20 in which increased bone turnover caused by secondary hyperparathyroidism is associated with accelerated bone loss. ",":
+
+This statement is not giving any advice, it is simply providing information about the effects of mild deficiency. Therefore, the answer is 0 - no advice."
+diss,0,"Because regimens that combine pharmacologic and nonpharmacologic treatments have received even less attention in patients with persistent pain, it is unclear whether the addition of physical and/or psychological therapy provides additional benefit. ",":
+
+The statement is not giving any advice, but rather is making an observation about the lack of research on combining pharmacologic and nonpharmacologic treatments for persistent pain. Therefore, the answer is 0 - no advice."
+diss,0,"Indeed, no student who received 3 years of ISI reading instruction had a standard score below 85 and only 2 of the students who received ISI reading instruction all 3 years had a third-grade reading standard score that was less than 90 (national mean = 100, SD = 15; < 85 is considered below grade expectations); 75% of students who received 3 years of ISI reading instruction had standard scores above 100. ",". 
+
+First, we need to determine what type of advice is being given. In this case, the context is providing information about the results of a study on the effectiveness of ISI reading instruction. The information provided suggests that the ISI reading instruction is effective, as no student who received 3 years of instruction had a standard score below 85, and only 2 of the students had a third-grade reading standard score that was less than 90. Additionally, 75% of students who received 3 years of instruction had standard scores above 100. 
+
+Based on this information, we can conclude that the advice being given is strong advice. The results of the study suggest that ISI reading instruction is effective, and that it can help students achieve higher scores than the national mean. Therefore, the advice given is strong advice."
+diss,0,"Similar questions were advised for the coroner's form E, but have not been implemented. ",":
+
+1. What type of advice is being discussed?
+The advice being discussed is related to the coroner's form E. 
+
+2. What is the nature of the advice?
+The advice is to implement similar questions on the form E. 
+
+3. What is the strength of the advice?
+The strength of the advice is not specified, so we can only assume that it is either strong or weak. 
+
+Answer: 0 – no advice"
+diss,0,"Gardner [22] reported that nineteen genes were upregulated in the 20% O2 group, while twelve genes were downregulated compared to the 5% O2 group. ",":
+
+Gardner [22] reported that nineteen genes were upregulated in the 20% O2 group, while twelve genes were downregulated compared to the 5% O2 group.
+
+This statement is simply providing information about the results of a study. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,"Recent studies have identified increased serum TNF, TNFR1, and TNFR2 to predict the progression of DKD (9, 10, 12), but a causal role of these cytokines in the development and/or progression of DKD has not been established. ",":
+
+This statement is not giving any advice, it is simply stating the findings of recent studies. Therefore, the answer is 0 - no advice."
+diss,0,"Another possible liability is that the repeated measurement was reactive; example, decreased cannabis use. ",".
+
+This statement is not giving any advice, it is simply stating a potential liability. Therefore, the answer is 0 - no advice."
+diss,0,"Weill and Scarlat observed that the 22.4% lucencies and 13.8% migration rates with the CLW titanium screw ring (Protek AG, Bern, CH) when polished decreased to 3.3% and 0.4% respectively when rough [28]. ",".
+
+First, we need to understand what the context is saying. Weill and Scarlat observed that when the CLW titanium screw ring (Protek AG, Bern, CH) was polished, the lucencies and migration rates decreased significantly.
+
+Second, we need to determine what type of advice this is. Based on the context, it appears that the authors are suggesting that polishing the CLW titanium screw ring will result in a decrease in lucencies and migration rates. This would be considered strong advice, as the authors are recommending a specific action that will result in a desired outcome. Therefore, the answer is 1 - strong advice."
+diss,0,"During the 1990s, epidural analgesia became largely acceptable for use in children after orthopedic surgery of the lower extremities (Bruera & Kim, 2003; Caraceni et al., 2004; Desparmet, Hardart, & Yaster, 2003; Giaufre, Dalens, & Gombert, 1996; Goodarzi, 1999; Krane, Jacobson, Lynn, Parrot, & Tyler, 1987; Lovstad, Halvorsen, Raeder, & Steen, 1997). ",":
+
+This is not a statement of advice, as it does not provide any guidance or recommendations. Instead, it is a summary of research findings, as it provides a list of references to studies that have been conducted on the topic. Therefore, the answer is 0 - no advice."
+diss,0,Early clinical results with the Alloclassic-SL stem in primary THR have been promising. ,":
+
+1. What is the context?
+The context is that early clinical results with the Alloclassic-SL stem in primary THR have been promising.
+
+2. What type of advice is this?
+This is a statement of fact, so it is not offering any advice. Therefore, the answer is 0 - no advice."
+diss,0,"Previous studies have provided options for “ideal” PEEP scanning, such as global dynamic compliance25 and intratidal compliance–volume curves[Citation]. ",":
+
+Previous studies have provided options for “ideal” PEEP scanning, such as global dynamic compliance25 and intratidal compliance–volume curves[Citation].
+
+This statement is providing information about the options available for PEEP scanning. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,Both types of operation showed an approximately identical rate of complications. ,".
+
+The statement is comparing two types of operations and noting that they have an approximately identical rate of complications. This statement does not provide any advice, so the answer is 0 - no advice."
+diss,0,"The Australian study also showed that sex remained associated with social anxiety, with adolescent girls reporting higher social anxiety than boys [5]. ",":
+
+This statement is not giving any advice, it is simply providing information about the results of a study. Therefore, the answer is 0 - no advice."
+diss,0,"Similar to other studies25,26 in head injured subjects, we found significant correlations between performance on the neuropsychological measures and the GOSE, including some of the same domains and tests used in those studies evaluating memory (Selective Reminding), executive functioning (Trail Making), and fine motor coordination/dexterity (Grooved Pegboard). ",":
+
+1. The sentence does not contain any advice. 
+2. It is simply comparing the findings of the current study to other studies. 
+
+Therefore, the answer is 0 - no advice."
+diss,0,"In 1990, clinicians at St Jude prepared to implement epidural analgesia by developing policies, procedures, and training for medical and nursing staff. ",". This statement is not giving any advice, it is simply describing what clinicians at St Jude did in 1990. Therefore, the answer is 0 - no advice."
+diss,0,"Despite the statutory questions on the cremation form B, we have found that some pacemakers remain in the body during cremation. ",":
+
+1. The context of the question is about cremation forms and pacemakers. 
+2. The statement is that some pacemakers remain in the body during cremation. 
+3. This statement implies that it is strongly advised to remove pacemakers before cremation. 
+
+Answer: 1 - strong advice"
+diss,0,"The vascular response to hypoxia is primarily controlled by hypoxia-induced transcription factors, targeting genes responsible for regulation of thrombus formation 37. ",":
+
+This statement is not giving any advice, it is simply providing information about the vascular response to hypoxia. Therefore, the answer is 0 - no advice."
+diss,0,"Since many of those who try to change fail and quickly try again, we believe future research and treatment should focus on helping with a series of attempts to change, not just one. ",":
+
+1. The statement is suggesting that future research and treatment should focus on helping with a series of attempts to change, not just one. 
+2. This is a strong recommendation, as it is suggesting that future research and treatment should be focused on a specific approach. 
+
+Answer: 1 - strong advice"
+diss,0,"Thus, we evaluated a sample of patients and found that they were not at high risk (the ARISCAT score no higher than 44). ",". 
+
+First, we need to understand what the context is telling us. The context is saying that the sample of patients evaluated were not at high risk, as indicated by the ARISCAT score being no higher than 44. 
+
+Now, based on this information, we can determine what type of advice is being given. Since the sample of patients evaluated were not at high risk, the advice being given is that they do not need to take any special precautions. Therefore, the type of advice is 0 - no advice."
+diss,0,"This mechanism of regulation can be inhibited by the phosphorylation of FOXO3a, which results in the exclusion of the transcription factor from the nucleus and thus in its functional inactivation [52,53]. ",":
+
+This statement is providing information about a mechanism of regulation and how it can be inhibited. It is also providing references to back up the information. This statement is not providing any advice, so the answer is 0 - no advice."
+diss,0,"In contrast, the retrospective nature of the study, the reduced number of patients and the heterogeneity of population represent potential limitations of the trial because they may have affected statistical analysis of the results. ",". 
+
+The statement is not giving any advice, but rather pointing out potential limitations of the trial. Therefore, the answer is 0 - no advice."
+diss,0,"Notably, we have found that acute and energetically costly (5, 42) inflammation (i.e., CRP elevation) exhibits a particularly detrimental effect on corresponding short-term growth. ",":
+
+The sentence is providing information about the detrimental effect of inflammation on short-term growth. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,Other limitations include a small sample size and differential follow-up across the two treatment arms. ,". 
+
+This statement is not giving any advice, it is simply stating a limitation. Therefore, the answer is 0 - no advice."
+diss,0,"In previous studies of the direct effects of ANP on cancer cells, both inhibitory and stimulatory effects of ANP on the growth of cancer cells have been reported (22, 23); therefore, the direct effects of ANP on cancer cells remain controversial. ",":
+
+This statement is not giving any advice, it is simply summarizing the findings of previous studies. Therefore, the answer is 0 - no advice."
+diss,0,"According to the KYRBWS-VI survey, the mean age of menarche was 12 years old. ",":
+
+1. The KYRBWS-VI survey provides information about the mean age of menarche.
+
+2. This information does not provide any advice.
+
+Answer: 0 – no advice"
+diss,0,"On the other hand, clinical investigations have been sparse and conflicting (6, 11, 31, 32). ",". 
+
+This statement is not giving any advice, it is simply stating that clinical investigations have been sparse and conflicting. Therefore, the answer is 0 - no advice."
+diss,0,The downregulation of Dicer was found to be a prognostic indicator underlying tumor development in CRC56. ,":
+
+1. The statement is about a prognostic indicator underlying tumor development in CRC56.
+2. This statement is providing advice about the downregulation of Dicer.
+3. Therefore, this statement is providing strong advice about the downregulation of Dicer.
+
+Answer: 1 - strong advice"
+diss,0,"According to recent meta-analyses balanced fluid therapy can reduce the complication rate even up to 50% [27,28]. ",":
+
+This statement is providing evidence that balanced fluid therapy can reduce the complication rate. This is a form of advice, as it is suggesting that balanced fluid therapy should be used. Therefore, the answer is 1 - strong advice."
+diss,0,"In their work, Southworth and co-workers found that values obtained by the CDI were comparable in accuracy to those obtained by traditional laboratory analyzers (7). ",":
+
+The sentence is providing information about the findings of Southworth and co-workers. It is not providing any advice. Therefore, the answer is 0 – no advice."
+diss,0,The semantic PPA and semantic dementia designations refer to a family of neurodegenerative syndromes characterized by selective atrophy of the anterior temporal lobes. ,":
+
+1. The given statement is not giving any advice.
+
+2. Therefore, the answer is 0 - no advice."
+diss,0,"In Guangxi study by Ming et al, use of ARV drugs was associated with better QoL. ",":
+
+1. What is the context of the statement?
+
+The context of the statement is that a study conducted in Guangxi found that the use of ARV drugs was associated with better quality of life.
+
+2. What type of advice is being given?
+
+The statement is not giving any advice, so the answer is 0 - no advice."
+diss,0,"Therefore, at least in ALCL cells, two different mechanisms, phosphorylation of FOXO3a through the activation of the PI3K-AKT pathway and BIM epigenetic silencing, may converge to inactivate the potent proapoptotic signal of BIM, thus protecting the lymphoma cells from apoptosis. ",". 
+
+This statement is not giving any advice. It is simply describing two different mechanisms that may be involved in protecting lymphoma cells from apoptosis. Therefore, the answer is 0 - no advice."
+diss,0,"Although inhibition of NFAT with CsA may directly rescue podocyte dysfunction in glomerular injury (22), long-term treatment with calcineurin inhibitors is associated with significant toxicity (58). ",". 
+
+The sentence is discussing the potential benefits and risks of long-term treatment with calcineurin inhibitors. It is not giving any advice, but rather presenting information about the potential risks and benefits of the treatment. Therefore, the answer is 0 - no advice."
+diss,0,"This study is the largest single institution review of the experience with PPLS over the 6 months period after LSS, covering a span of 26 years. ",":
+
+1. This study is providing information about the experience with PPLS over the 6 months period after LSS.
+2. This study is not providing any advice.
+
+Answer: 0 - no advice"
+diss,0,"Simulation results showed that the model prunes effectively in a synthetic grid world, and that it explains several patterns reported in humans/animals. ",":
+
+Simulation results showed that the model prunes effectively in a synthetic grid world, and that it explains several patterns reported in humans/animals.
+
+This statement does not provide any advice, so the answer is 0 - no advice."
+diss,0,"Instead, posterior hysterectomy is best performed when inflammation has subsided, more than 4 weeks after conization. ",". 
+
+This statement is giving advice on when to perform a posterior hysterectomy. Therefore, it is giving advice. 
+
+The statement is quite specific and clear, so it is strong advice. 
+
+Answer: 1 - strong advice"
+diss,0,"However, our approach annotated all of those significant risk loci that were discovered through the largest international meta-analysis of melanoma susceptibility. ",":
+
+1. The sentence is providing information about a particular approach that was taken.
+
+2. This approach was successful in annotating significant risk loci that were discovered through a meta-analysis.
+
+3. Therefore, this sentence is not providing any advice, so the answer is 0 - no advice."
+diss,0,Residents living in neighborhoods with a diversity of destinations and the availability of walking and bicycling facilities were more likely to choose active modes of commuting. ,":
+
+This statement is providing information about the correlation between certain factors (diversity of destinations, availability of walking and bicycling facilities) and a certain behavior (choosing active modes of commuting). This statement is not providing any advice, so the answer is 0 - no advice."
+diss,0,"However, there was a significant difference between socioeconomic groups in the time between the patients realized their first symptoms and presented to a physician (Macleod et al, 2009). ",". 
+
+This statement is not giving advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"As development proceeds, maternally-inherited molecules decay, accompanied by gradual activation of the embryonic genome, which is responsible for the comprehensive regulation of embryonic development. ",". This statement is not giving any advice, it is simply describing a process. Therefore, the answer is 0 - no advice."
+diss,0,The Ricketts pentamorphic 5 arch forms can fit most of the dental arches and facial forms. ,". 
+
+This statement is providing information about the Ricketts pentamorphic 5 arch forms, which can fit most of the dental arches and facial forms. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,"According to Osman et al., female sex hormones released during the menstrual cycle affect the expression of atopic dermatitis [35]. ",":
+
+Osman et al. are providing information about the effects of female sex hormones on atopic dermatitis. They are not providing any advice on how to manage or treat the condition. Therefore, the answer is 0 - no advice."
+diss,0,"Another limitation with the present study is that only Caucasians were included, and since the genetic background varies for different populations, we cannot generalize our findings to other races or ethnic populations. ",":
+
+The statement is providing advice, so the answer is not 0 - no advice. 
+
+The statement is suggesting that the findings of the study should not be generalized to other races or ethnic populations, so the advice is to be cautious when generalizing the findings. This is considered to be a weak advice, so the answer is 2 - weak advice."
+diss,0,"Overall, these data are suggestive of the hypothesis that the reduced expression of TJ structures may mediate increased permeability and might be a target for treatment with larazotide, which has been shown to regulate epithelial TJs in vitro in IEC-6 and Caco-2 cells (citation). ",":
+
+The statement is suggesting that reduced expression of TJ structures may mediate increased permeability and that larazotide may be a target for treatment. This is a strong recommendation, as it is suggesting that larazotide should be used as a treatment for increased permeability. Therefore, the answer is 1 - strong advice."
+diss,0,"No record of visits to these departments exists, which would allow this hypothesis to be further assessed. ",":
+
+1. This statement is not giving any advice, it is simply stating a fact.
+
+Answer: 0 - no advice"
+diss,0,"Because dietary intake affects lutein/zeaxanthin serum levels, these levels, either alone or together, were decreased in patients with gastrointestinal cancer26, colorectal polyps27,28, and colorectal neoplasms29 compared with those in controls. ",":
+
+This statement is not giving any advice, it is simply providing information about the effects of dietary intake on lutein/zeaxanthin serum levels. Therefore, the answer is 0 - no advice."
+diss,0,"Students who attended ISI classrooms all 3 years achieved reading skills that were well above grade-level expectations by the end of third grade, as measured by nationally normed reading-achievement tests. ",". 
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,Primary cementless total hip arthroplasty with the ZweymuÈller-AlloclassicÒ prosthesis failed in the short term because of insufficient postoperative primary stability. ,":
+
+1. The primary context of this statement is a primary cementless total hip arthroplasty with the ZweymuÈller-AlloclassicÒ prosthesis.
+
+2. The statement is that this procedure failed in the short term due to insufficient postoperative primary stability.
+
+3. Based on this information, the type of advice given is strong advice, as it is suggesting that this procedure should not be used in the future due to its failure in the short term. 
+
+Answer: 1 - strong advice"
+diss,0,These findings indicate that energetic tradeoffs between immune function and growth result from the activity of multiple forms of immunity. ,":
+
+The sentence is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"Mechanisms of anomia: troubleshooting with NOMINA The classification of the 140 naming errors on the NOMINA showed that the anomias of left anterior temporal atrophy could be attributed to mechanisms that ranged from pure retrieval deficits to complex associative errors, and that the associative errors were more likely to reflect a perturbation of word than of object representations. ",". This statement is not giving any advice, it is simply describing the results of a study. Therefore, the answer is 0 - no advice."
+diss,0,These data showed that Korean adolescents' alcohol consumption rate was lower than the US. ,":
+
+This data is not providing any advice, it is simply presenting information. Therefore, the answer is 0 - no advice."
+diss,0,"In an in vivo study, impaired DICER1 function indicated a stemness phenotype and metastasis in colon cancer58. ",":
+
+This statement is not giving any advice, it is simply providing information about the results of an in vivo study. Therefore, the answer is 0 - no advice."
+diss,0,"In the present investigation, cortisol-mediated ACTH suppression was greatest in women who received E2 addback compared with women without E2 addback, as well compared with men with or without T addback. ",":
+
+1. This statement is not giving any advice. 
+2. It is simply presenting the results of an investigation. 
+
+Answer: 0 – no advice"
+diss,0,"This effect was not observed for children, among whom pre-hospital delays were of similar magnitude for poor and non-poor households. ",":
+
+The statement is not giving any advice, it is simply stating an observation. Therefore, the answer is 0 - no advice."
+diss,0,"In each cohort, the increased NRI was the result of a roughly equal contribution from a correct upward reclassification of those with a fracture, and a correct downward reclassification in those without a fracture. ",". 
+
+The sentence is providing information about the result of a cohort, and is not providing any advice. Therefore, the answer is 0 - no advice."
+diss,0,Whether CD133+CD54+CD44+ cellular subpopulation of CTCs involved CICs or MICs in the peripheral blood still needs further study. ,":
+
+This statement is not giving any advice, it is simply stating that further study is needed. Therefore, the answer is 0 - no advice."
+diss,0,"From July 2010 to December 2012, the Lions of District 50 completed vision screenings using traditional visual screening methods in 16,901 pre-school, elementary and intermediate school children 41. ",". 
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,"Moreover, a rather small number of participants with IGT (n = 153) in our study could reduce the power to observe an association between eating competence and IGT. ",":
+
+1. What is the context of the statement?
+
+The context of the statement is that a small number of participants with IGT could reduce the power to observe an association between eating competence and IGT.
+
+2. What type of advice is being given?
+
+The type of advice being given is weak advice, as the statement is suggesting that the small number of participants could reduce the power to observe an association, but is not providing a specific action to take."
+diss,0,"Increasing numbers of case-control association studies and GWASs have demonstrated that several variants in HLA class II region were associated with persistent HBV infection as well as HCC progression in patients with HBV32,33,34. ",":
+
+This statement is not giving any advice, it is simply providing information about the results of various studies. Therefore, the answer is 0 - no advice."
+diss,0,"This analysis showed significant differences in the relative abundance of three microbial representatives (Ruminococcaceae spp., Lachnospiraceae sp., Bacteroidaceae spp.) between the different diet types, whereby no distinct tendency could be observed after pairwise comparison. ",":
+
+1. The analysis showed significant differences in the relative abundance of three microbial representatives between the different diet types.
+2. No distinct tendency could be observed after pairwise comparison.
+
+Based on this information, it is safe to say that there is no advice given in this statement. Therefore, the answer is 0 - no advice."
+diss,0,"In addition, the sample used in that study was collected from only one treatment center in Jeddah 39. ",":
+
+This statement is not giving any advice, it is simply providing additional information about the sample used in the study. Therefore, the answer is 0 - no advice."
+diss,0,"In this study, high lutein/zeaxanthin intake while carrying a G allele (AG + GG) for DICER1 rs3742330 showed a significant interaction, thus resulting in a reduced CRC risk compared with that for low lutein/zeaxanthin intake among AA homozygous individuals. ",":
+
+1. What is the purpose of this study?
+
+The purpose of this study is to investigate the relationship between lutein/zeaxanthin intake and the risk of colorectal cancer (CRC) among individuals with different genotypes for the DICER1 rs3742330 gene.
+
+2. What is the conclusion of the study?
+
+The conclusion of the study is that high lutein/zeaxanthin intake while carrying a G allele (AG + GG) for DICER1 rs3742330 showed a significant interaction, thus resulting in a reduced CRC risk compared with that for low lutein/zeaxanthin intake among AA homozygous individuals.
+
+3. What type of advice is this?
+
+Based on the conclusion of the study, this is a strong advice to individuals with the AA homozygous genotype for the DICER1 rs3742330 gene to increase their lutein/zeaxanthin intake in order to reduce their risk of colorectal cancer. Therefore, the answer is 1 - strong advice."
+diss,0,"The timing of the installation of the new suspended ceiling (July 17–August 9, 2002) is consistent with an outbreak source near August 5 through August 9. ",":
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,"A significant portion of the NCD burden is concentrated in LMICs; however, research on environmental correlates of active commuting is lacking that represents the diverse contexts of LMICs. ",":
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"As noted above, increasing cohort size to give improved power and/or reduced type I error rate may not be readily achievable for highly specific phenotypes. ",":
+
+The statement is giving advice on how to improve power and/or reduce type I error rate. Therefore, the type of advice is 1 - strong advice."
+diss,0,It also cannot be excluded that the apparent reversal in the direction of associations between the SNP near MS4A4E and change in scores for the DWRT may be due to residual confounding or to chance. ,":
+
+1. The statement is not giving any advice. 
+2. It is simply stating that it cannot be excluded that the apparent reversal in the direction of associations between the SNP near MS4A4E and change in scores for the DWRT may be due to residual confounding or to chance. 
+
+Therefore, the answer is 0 - no advice."
+diss,0,We offer four possible explanations for these null findings. ,":
+
+This statement is offering four possible explanations for null findings. It is not offering any advice, so the answer is 0 - no advice."
+diss,0,"In addition, only one of the SNPs (rs6485758 (CELF1)) was associated with higher scores on all three cognitive tests at baseline in whites while none of the variants appeared to influence more than one cognitive domain in African-Americans. ",":
+
+1. The statement is providing information about the results of a study, not offering advice.
+
+2. Therefore, the answer is 0 - no advice."
+diss,0,"A multidisciplinary team approach is reported to be essential in providing optimal postoperative pain management by consistently evaluating pain syndromes and formulating plans for comprehensive continuing care (citation, 2002). ",":
+
+This statement is providing information about the importance of a multidisciplinary team approach in providing optimal postoperative pain management. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,"Post-operative pain is a type of nociceptive pain; however, it also comprises inflammatory, neurogenic, and visceral mechanisms, leading experts to consider it a transient type of neuropathic pain (Dahl, Mathiesen, & Moiniche, 2004; Milch, 2005). ",":
+
+This passage is discussing post-operative pain and the various mechanisms that contribute to it. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,"In contrast, elevated mean ICA flow velocity was seen across all ages in HGPS. ",":
+
+The sentence is providing information about a study, not giving advice. Therefore, the answer is 0 - no advice."
+diss,0,"The study showed that laparoscopic gastrectomy with D2 lymphadenectomy combined with the ERAS protocol was safe and feasible, and provided satisfactory short-term clinical outcomes. ",":
+
+The study is providing information about the safety and feasibility of laparoscopic gastrectomy with D2 lymphadenectomy combined with the ERAS protocol. It is also providing information about the satisfactory short-term clinical outcomes. 
+
+Based on this information, it is not providing any advice. Therefore, the answer is 0 - no advice."
+diss,0,The use of modified extract could lead to a better compliance and patient adherence to treatment by reaching the therapeutic dose in a shorter period of time.,":
+
+1. What is the context of the statement?
+
+The context of the statement is that the use of modified extract could lead to better compliance and patient adherence to treatment.
+
+2. What type of advice is being given?
+
+The type of advice being given is strong advice, as it is suggesting that the use of modified extract could lead to better compliance and patient adherence to treatment."
+diss,0,This study suggests an association between age at menarche and DNA methylation. ,":
+
+This study suggests an association between age at menarche and DNA methylation.
+
+This statement is not offering any advice, so the answer is 0 - no advice."
+diss,0,These layer specific changes were similar to the cortical thickness increases we saw in the same cortical layers when our Balb/CByJ mice were exposed to “classic” environmental enrichment conditions (see Fig. 2). ,":
+
+1. The sentence is providing evidence to support a claim that was made in a previous sentence.
+2. The sentence is referencing a figure that provides further evidence to support the claim.
+
+Based on these two points, it can be concluded that the sentence is providing strong advice."
+diss,0,"In one study, postmenopausal women under low E2 exhibited less ACTH suppression by a feedback signal than estrogen-sufficient premenopausal women and manifested higher acute HPA stress responses (3). ",":
+
+This statement is not giving any advice, it is simply providing information about a study. Therefore, the answer is 0 - no advice."
+diss,0,"Case-control studies have shown that CRC and lutein/zeaxanthin intake, either individually21,22 or together23, are significantly inversely associated. ",":
+
+1. The statement is providing evidence from case-control studies that suggest that CRC and lutein/zeaxanthin intake are inversely associated. 
+
+2. This evidence suggests that lutein/zeaxanthin intake may be beneficial in reducing the risk of CRC. 
+
+3. Therefore, this statement is providing strong advice to increase lutein/zeaxanthin intake in order to reduce the risk of CRC. 
+
+Answer: 1 - strong advice"
+diss,0,Our own statistical study with failure defined as definite SL-stem loosening indicated a 8 year survivorship of 99.3%. ,":
+
+1. The context of the question is a statistical study with a defined failure rate. 
+2. The study indicates a 8 year survivorship of 99.3%. 
+3. This suggests that the advice is strong, as the study indicates a high success rate. 
+
+Answer: 1 - strong advice"
+diss,0,We experienced several study limitations. ,":
+
+We experienced several study limitations.
+
+0 - No advice"
+diss,0,"The risk scores of Kazakh, Uygur, Mongolian, and Tajikh were 3, 5, 5, and 2, respectively, and corresponding to the OR were 1.31, 1.64, 1.58, and 1.19, respectively. ",":
+
+The risk scores and ORs provided in the context are numerical values, which means that this is not a type of advice. Therefore, the correct answer is 0 – no advice."
+diss,0,"Rats also typically perform successive swallows with a significant part of the bolus remaining in the oral cavity, rather than taking discrete bites and performing single swallows. ",". 
+
+This statement is not giving any advice, it is simply describing the behavior of rats. Therefore, the answer is 0 - no advice."
+diss,0,"These modified allergens must have a greatly reduced allergenic reactivity compared with the native allergen while retaining immunogenicity, thus maintaining the capacity of inducing tolerance [16]. ",". 
+
+The sentence is providing information about modified allergens and their capacity to induce tolerance. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,"Drivers have limited access to grocery stores,3 and truck stops provide few healthy food options, instead offering foods high in saturated fat and kilojoules 15. ",":
+
+1. The context of the statement is that drivers have limited access to grocery stores and truck stops provide few healthy food options.
+
+2. The statement is that these truck stops offer foods high in saturated fat and kilojoules.
+
+3. Therefore, the advice is to avoid these truck stops and seek out healthier food options.
+
+Answer: 1 - strong advice"
+diss,0,"Bifidobacterium spp. are the normal inhabitants of a healthy human gut, thus, a shift in their relative abundance and composition is one of the most frequent features present in various gastrointestinal diseases including inflammatory bowel disease and colorectal cancer [17,27,28,29]. ",":
+
+This statement is not giving any advice, but rather providing information about the role of Bifidobacterium spp. in various gastrointestinal diseases. Therefore, the answer is 0 - no advice."
+diss,0,Evidence of heavy levels of infection in lungs and lymphatic tissue is further supported by the results of the cross-sectional part of this study. ,":
+
+1. This statement is not giving any advice. It is simply providing evidence to support a conclusion.
+
+Answer: 0 - no advice"
+diss,0,"What's more, the combined effects of gene polymorphisms and environment on CHD are found in our study. ",":
+
+This statement is not giving any advice, it is simply stating the findings of a study. Therefore, the answer is 0 - no advice."
+diss,0,"Additionally, some confounding variables may not have been included in this study. ",":
+
+This statement is not giving any advice, it is simply pointing out that there may be other variables that were not included in the study. Therefore, the answer is 0 - no advice."
+diss,0,This hypothesis is further supported by the fact that several flow cytometric abnormalities detected in PAD patients were also found in AFM (Figure 7). ,":
+
+The hypothesis is being supported by the fact that several flow cytometric abnormalities were found in both PAD and AFM patients. This statement does not provide any advice, so the answer is 0 - no advice."
+diss,0,"In another survey, 6% of cremation forms had incorrect or incomplete details of pacemaker or radioactive implants, with over 25% of forms being unsatisfactorily completed13. ",". 
+
+This statement is not giving any advice, it is simply providing information. Therefore, the answer is 0 - no advice."
+diss,0,Our 3.4% rate of femoral shaft fracture is comparable to those reported with either cementless [27] or cemented [22] femoral components. ,":
+
+The sentence is providing a comparison between two different types of femoral components. It is not providing any advice, so the answer is 0 - no advice."
+diss,0,Epidemiological investigation revealed links between the patients indicating that both could be true outbreaks. ,":
+
+Epidemiological investigation revealed links between the patients indicating that both could be true outbreaks.
+
+This statement is not giving any advice, so the answer is 0 - no advice."
+diss,0,"Amitriptyline is the TCA most commonly used in cancer patients with NP (Mercadante, Arcuri, Tirelli, Villari, & Casuccio, 2002). ",":
+
+1. The context is providing information about Amitriptyline, a TCA (tricyclic antidepressant) commonly used in cancer patients with NP (neuropathic pain). 
+
+2. This information is providing advice to use Amitriptyline as a treatment for cancer patients with NP. 
+
+3. Therefore, the advice is strong advice (1)."
+diss,0,"Therefore, future studies should consider addressing different styles and content of prayer and the relationship of different prayer types with pain outcomes, including any moderating/mediating effects of these distinct aspects. ",". 
+
+This statement is suggesting that future studies should consider certain aspects of prayer and its relationship with pain outcomes. This is a suggestion for future studies, so it is a form of advice. 
+
+The statement is quite specific and direct, so it is a strong advice. 
+
+Therefore, the answer is 1 - strong advice."
+diss,0,A potential role for angiogenin in inflammatory conditions is supported by its angiogenic activity. ,":
+
+This statement is not giving any advice, it is simply providing information about the potential role of angiogenin in inflammatory conditions. Therefore, the answer is 0 - no advice."
+diss,0,The same phenomenon was observed in dyslipidemia between primary aldosteronism and essential hypertension. ,":
+
+The sentence is describing a phenomenon that has been observed in dyslipidemia between primary aldosteronism and essential hypertension. This sentence does not provide any advice, so the answer is 0 - no advice."
+diss,0,"The environmental sampling was, therefore, like looking for a ""needle in a haystack."" ",":
+
+The phrase ""needle in a haystack"" is a metaphor used to describe a situation that is difficult to find something in a large amount of something else. In this case, the environmental sampling was difficult to find something in a large amount of something else.
+
+Therefore, this phrase is giving a strong advice that the environmental sampling is difficult and will require a lot of effort.
+
+Answer: 1 - strong advice"
+diss,0,Social support was also a significant predictor of social anxiety. ,":
+
+1. Social support was a significant predictor of social anxiety.
+2. This statement is providing information about the importance of social support in relation to social anxiety.
+
+Answer: 0 - no advice"
+diss,0,This enhancement involves not only a lower rate of attenuation artifacts but also lower heart-to-detector distances and lower amplitudes in breathing-related cardiac motion. ,":
+
+1. The statement is providing information about an enhancement that involves lower rate of attenuation artifacts, lower heart-to-detector distances, and lower amplitudes in breathing-related cardiac motion. 
+
+2. This statement is not providing any advice, but rather is providing information about the enhancement. 
+
+Answer: 0 – no advice"
+diss,0,"As temporal lobe atrophy and disease severity increase, word comprehension is likely to become compromised even at the generic level, at which time the excessive taxonomic interference effect may paradoxically disappear, as inter-category boundaries become just as blurred as intra-category boundaries (Mesulam et al, 2009). ",". 
+
+The passage is discussing the effects of temporal lobe atrophy and disease severity on word comprehension. It is not offering any advice, so the answer is 0 - no advice."
+diss,0,"However, some surprising results were that street connectivity, safety from crime, and aesthetics were inversely related to active commuting. ",". 
+
+This statement is not giving any advice, it is simply stating the results of a study. Therefore, the answer is 0 - no advice."
+diss,0,"Patients with postinfectious IBS-D had greater intestinal permeability (17), suggesting that symptom generation reflects disruption of the SB mucosal integrity. ",":
+
+This statement is not giving any advice, it is simply making an observation. Therefore, the answer is 0 - no advice."
+diss,0,"Among various cytokines, many studies in the past investigated IL-6, as it could be measured relatively easily. ",":
+
+This statement is not giving any advice, it is simply providing information about the past studies that have been conducted. Therefore, the answer is 0 - no advice."
+diss,0,These results parallel findings of other red blood cell polymorphisms where genotypic differences are observed at the level of severe malaria morbidity with no discernable effect on susceptibility to blood-stage infection [13]. ,":
+
+The sentence is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"Therefore, adolescents are at risk for conditions associated with stress. ",". 
+
+This statement is not giving any advice, it is simply stating a fact. Therefore, the answer is 0 - no advice."
+diss,0,"The overall accuracy and precision of the CDI estimates of pH, pCO2, and pO2 were not significantly different when calibrated, gas or ABL calibration. ",":
+
+The statement is providing information about the accuracy and precision of CDI estimates of pH, pCO2, and pO2. It is not providing any advice or recommendation. Therefore, the answer is 0 - no advice."
+diss,0,"Although laboratory experiments involve unnatural dosage levels and transmission routes, Manabe et al (2002) found that Microtus species voles infected via an intraperitoneal injection of M. microti were visibly ill and moribund by 8-weeks post-infection, and all showed pathological signs of advanced disease. ",".
+
+This statement is not providing any advice. It is simply providing information about the results of a laboratory experiment. Therefore, the answer is 0 - no advice."
+diss,0,"In previous outbreak investigations, test results of environmental air or straw samples for C. burnetii have also more often been negative (15,22–23) than positive (4,24). ",":
+
+This statement is not giving any advice, it is simply providing information about the results of previous investigations. Therefore, the answer is 0 - no advice."
+diss,0,"Consistent with the original meta-analysis (30), which used functional annotation tools such as HaploReg and RegulomeDB (30) or positional mapping focused on nearby genes within 10 kb (3,4,16,17), we mapped SNPs to genes and verified several melanoma susceptibility-related genes, including MC1R, CDKN2A, TERT, OCA2 and ARNT/SETDB1. ",":
+
+1. The sentence is providing information about the methods used in the original meta-analysis.
+2. It is not providing any advice.
+
+Answer: 0 – no advice"
+diss,0,"These conclusions are in keeping with functional imaging experiments that have demonstrated the activation of the left anterior temporal lobe in tasks of synonym identification (Gitelman et al, 2005), and in tasks that require high levels of taxonomic specificity during lexical retrieval (Damasio et al, 1996; Grabowski et al, 2001). ",". 
+
+The passage is providing evidence to support a conclusion. It is not providing advice. Therefore, the answer is 0 - no advice."
+diss,0,"Concentration of potential bacterial contaminants was attempted in the PCR tests, but analysis was performed on small aliquots of extract, and bacterial DNA could therefore easily have been missed. ",":
+
+1. The statement is providing information about the PCR tests and the potential for bacterial DNA to be missed. 
+2. It is not providing any advice or recommendations. 
+
+Therefore, the answer is 0 - no advice."

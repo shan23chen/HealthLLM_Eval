@@ -1,0 +1,12 @@
+CONTEXT: NLR may be a predictive marker of PIR and could be used as a cost-effective parameter for identifying women at risk of PIR.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: Weak advice.
+
+CONTEXT: We recommend gas calibration of the CDI before use in the period before in-vivo calibration.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: Strong advice.
+
+CONTEXT: Five patients with GPA and PR3-ANCA were evaluated (2 male, 3 female), mean age 34 (22-52) years.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: No advice.
+

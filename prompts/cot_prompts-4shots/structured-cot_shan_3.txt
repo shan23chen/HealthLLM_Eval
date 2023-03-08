@@ -1,0 +1,20 @@
+CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The context states the necessity of further research, which is not an advice.
+2. The answer is no advice.
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The terms "we recommend" and "suggest" indicate that there is an advice in the context.
+2. "Recommend" and "suggest" indicate a directive opinion.
+3. The answer is strong advice.
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice? Let's think step by step.
+ANSWER:
+1. The term "would be a viable option" indicates that there is an advice in the context.
+2. "Would be" indicates that the opinion is not strong.
+3. The answer is weak advice.
+

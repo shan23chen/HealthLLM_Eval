@@ -1,0 +1,16 @@
+CONTEXT: Postoperatively, an additional 20.5% developed a psychiatric disorder.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+ANSWER: 0) No claim
+
+CONTEXT: Early subjective clinical judgment of physicians correlates more closely with 3-month outcome after ICH than prognostic scales.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+ANSWER: 1) Correlational
+
+CONTEXT: Interventions to promote earlier HIV diagnosis and treatment and integrating nutrition counseling at all stages of ART implementation may improve ART outcomes in this vulnerable population.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+ANSWER: 2) Conditional causal
+
+CONTEXT: Pregnancy does not lead to immediate or medium-term adverse effects for CF patients.
+QUESTION: Is this a: (0) no claim, (1) correlational, (2) conditional causal, (3) direct causal?
+ANSWER: 3) Direct causal
+

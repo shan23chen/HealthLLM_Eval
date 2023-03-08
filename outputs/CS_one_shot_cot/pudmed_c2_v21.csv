@@ -1,0 +1,1348 @@
+label,context,output
+1,The improvement in glucose and insulin measures did not exceed the day-to-day variability of measurement for approximately 80% of the participants independent of exercise amount or intensity.,"
+1) The sentence describes the relationship between ""exercise amount or intensity"" and ""the day-to-day variability of measurement"".
+2) The authors used the the verb ""did not exceed"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+1,This risk determination identifies a potentially modifiable risk factor for early readmission.,"
+1) The sentence describes the relationship between ""risk determination"" and ""early readmission"".
+2) The authors used the the verb ""identifies"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,This study is the first to reveal significant associations between SSRI use and metabolic abnormalities in patients with schizophrenia or bipolar disorder.,"
+1) The sentence describes the relationship between ""SSRI use"" and ""metabolic abnormalities in patients with schizophrenia or bipolar disorder"".
+2) The authors used the the verb ""reveal"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Dulaglutide was well tolerated and had a low risk of hypoglycemia when used without insulin secretagogues or insulin.,"
+1) The sentence describes the relationship between ""Dulaglutide"" and ""low risk of hypoglycemia"".
+2) The authors used the the verb ""had"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"The present study supports that important risk factors for PD are very young age group (especially under 1 year old), lack of breastfeeding and malnutrition.","
+1) The sentence describes the relationship between ""very young age group (especially under 1 year old), lack of breastfeeding and malnutrition"" and ""risk factors for PD"".
+2) The authors used the the verb ""support"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Patients with T2DM who underwent RHA and RKA procedures had more IHPC after controlling for the effects of possible confounders.,"
+1) The sentence describes the relationship between ""T2DM"" and ""IHPC"".
+2) The authors used the the verb ""had"", which suggests that there is a direct effect between them.
+3) When describing the effect, the authors also used the phrase ""after controlling for the effects of possible confounders"" to suggest that the effect is conditional on the presence of certain factors.
+4) Therefore, the sentence expresses conditional causation.
+Answer: 3 - conditional causation"
+1,Elderly caregivers of elderly people who have higher levels of burden have lower perceived social support.,"
+1) The sentence describes the relationship between ""higher levels of burden"" and ""lower perceived social support"".
+2) The authors used the the verb ""have"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"""Condom use  did increase over time in both groups.""","
+1) The sentence describes the relationship between ""condom use"" and ""over time in both groups"".
+2) The authors used the the verb ""increase"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,A physical activity-friendly school environment is associated with lower risk of obesity.,"
+1) The sentence describes the relationship between ""a physical activity-friendly school environment"" and ""lower risk of obesity"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"At month 24, there were significant visual and anatomic improvements in both groups, with subjects in the 0.5 mg RBZ group gaining more vision.","
+1) The sentence describes the relationship between ""0.5 mg RBZ group"" and ""gaining more vision"".
+2) The authors used the the verb ""gaining"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Intra-abdominal organomegaly was related to  nutritional status independently from renal function deterioration.,"
+1) The sentence describes the relationship between ""intra-abdominal organomegaly"" and ""nutritional status"".
+2) The authors used the the verb ""related"", which suggests that there is a correlation between them.
+3) The authors also used the phrase ""independently from renal function deterioration"" to suggest that the correlation is not affected by other factors.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Everolimus based treatment has meaningful activity in heavily pretreated patients with HR-positive MBC but is associated with considerable toxicity and requirement for dose adjustment.,"
+1) The sentence describes the relationship between ""Everolimus based treatment"" and ""considerable toxicity and requirement for dose adjustment"".
+2) The authors used the the verb ""associated with"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Glucose control may be associated with breast cancer outcomes\\u2029.,"
+1) The sentence describes the relationship between ""glucose control"" and ""breast cancer outcomes"".
+2) The authors used the the verb ""may be associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Epidemiological trends are more or less common to those of developing countries with a predominance of invasive ductal carcinoma.,"
+1) The sentence describes the relationship between ""epidemiological trends"" and ""invasive ductal carcinoma"".
+2) The authors used the the verb ""are more or less common to"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,There was also a link between slow-wave sleep duration and insulin resistance.,"
+1) The sentence describes the relationship between ""slow-wave sleep duration"" and ""insulin resistance"".
+2) The authors used the the verb ""link"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Pathological mother-child relations, lower parental education levels, and smoking may be predictors of childrens overweight/obesity.","
+1) The sentence describes the relationship between ""pathological mother-child relations, lower parental education levels, and smoking"" and ""childrens overweight/obesity"".
+2) The authors used the the verb ""may be predictors"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,These findings suggest that obesity and possibly alcohol overuse are independent risk factors for the development of infection following surgery for a fracture of the ankle.,"
+1) The sentence describes the relationship between ""obesity"" and ""alcohol overuse"" and ""the development of infection following surgery for a fracture of the ankle"".
+2) The authors used the the verb ""are"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Significant weight loss after bariatric surgery is weakly associated with IOP lowering.,"
+1) The sentence describes the relationship between ""significant weight loss after bariatric surgery"" and ""IOP lowering"".
+2) The authors used the the verb ""associated"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Furthermore, several factors such as gender or region were found to be associated with preferences for characteristics of caregivers.","
+1) The sentence describes the relationship between ""factors such as gender or region"" and ""preferences for characteristics of caregivers"".
+2) The authors used the the verb ""associated"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,This study demonstrates that hypercholesterolemia is associated with NAION in younger patients.,"
+1) The sentence describes the relationship between ""hypercholesterolemia"" and ""NAION in younger patients"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,""" PU incidence is related to severity of the patients condition and predicted by Braden Scale score.","
+1) The sentence describes the relationship between ""Braden Scale score"" and ""PU incidence"".
+2) The authors used the the verb ""related"" and ""predicted"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Age, female gender, smoking, physical inactivity, diabetes were independent predictors for presence of PAD.","
+1) The sentence describes the relationship between ""age, female gender, smoking, physical inactivity, diabetes"" and ""presence of PAD"".
+2) The authors used the the verb ""predictors"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Patients with new onset rheumatoid arthritis at our institution received similar disease modifying anti-rheumatic drug treatment irrespective of their age.,"
+1) The sentence describes the relationship between ""age"" and ""disease modifying anti-rheumatic drug treatment"".
+2) The authors used the the verb ""received"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,BMI SDS and WC were reduced after 1.5 years of treatment.,"
+1) The sentence describes the relationship between ""treatment"" and ""BMI SDS and WC"".
+2) The authors used the the verb ""reduced"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 - direct causation"
+1,"""A rise in ketones following alcohol ingestion occurred despite subjects being in a strictly controlled environment with no interruption in insulin administration.""","
+1) The sentence describes the relationship between ""alcohol ingestion"" and ""a rise in ketones"".
+2) The authors used the the verb ""occurred"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Established measures of T2D risk remain the best predictor of T2D risk in this population.,"
+1) The sentence describes the relationship between ""established measures of T2D risk"" and ""T2D risk in this population"".
+2) The authors used the the verb ""remain"", which suggests that there is a strong correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"On the basis of a systematic review of studies that were judged to be of high or medium quality, there is an indication that some nutritional factors seem to be associated with an increased fracture risk among children.","
+1) The sentence describes the relationship between ""some nutritional factors"" and ""an increased fracture risk among children"".
+2) The authors used the the verb ""seem to be associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Higher serum cholesterol levels are associated with lower AVG failure risk over a 1000-day period, which probably corresponds to the worse disease status of the patients with lower cholesterol values.","
+1) The sentence describes the relationship between ""higher serum cholesterol levels"" and ""lower AVG failure risk"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"""Current smokers are also at risk for systolic hypertension, especially in those subjects aged 60  years or older.""","
+1) The sentence describes the relationship between ""current smokers"" and ""systolic hypertension"".
+2) The authors used the the verb ""at risk for"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"""Diabetes is associated with an increased risk of hearing loss, and this difference is manifest particularly in adults <50 years old.""","
+1) The sentence describes the relationship between ""diabetes"" and ""an increased risk of hearing loss"".
+2) The authors used the the verb ""associated"", which suggests that there is a correlation between them.
+3) When describing the effect, the authors also used a qualifier ""particularly in adults <50 years old"" to specify the effect.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Multi-level obstruction is more prevalent in obstructive sleep apnoea and is associated with increased severity.,"
+1) The sentence describes the relationship between ""multi-level obstruction"" and ""increased severity"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"In this 2-year prospective study in a hospital-based cohort of high-risk hemodialysis patients, elevated CRP, but not raised PCT, was associated with increased mortality.","
+1) The sentence describes the relationship between ""elevated CRP"" and ""increased mortality"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"In this observational study, HIV-infected individuals after first ACS exhibited worse lipid profiles than controls particularly during the first 6 months while receiving less potent statins.","
+1) The sentence describes the relationship between ""HIV-infected individuals after first ACS"" and ""worse lipid profiles than controls"".
+2) The authors used the the verb ""exhibited"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Serum ferritin is a significant predictor of 10-year hard CHD risk for HANDLS study participants, a low-income, urban population.","
+1) The sentence describes the relationship between ""serum ferritin"" and ""10-year hard CHD risk"".
+2) The authors used the the verb ""predictor"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Incident gallstones and the metabolic syndrome share common risk factors.,"
+1) The sentence describes the relationship between ""incident gallstones"" and ""the metabolic syndrome"".
+2) The authors used the the verb ""share"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"More than three-fourths of the patients in this study had a history of smoking, which is considered a triggering or aggravating factor for PPP.","
+1) The sentence describes the relationship between ""a history of smoking"" and ""PPP"".
+2) The authors used the the phrase ""triggering or aggravating factor"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,A model using routinely available clinical measurements can accurately predict CKD progression in T2DM.,"
+1) The sentence describes the relationship between ""routinely available clinical measurements"" and ""CKD progression in T2DM"".
+2) The authors used the the verb ""predict"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Greater HbA1c variability predicts retinopathy, early nephropathy, and CAN, in addition to established risk factors, in adolescents with T1D.","
+1) The sentence describes the relationship between ""greater HbA1c variability"" and ""retinopathy, early nephropathy, and CAN"".
+2) The authors used the the verb ""predicts"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Despite higher transfusion rates in moderately anemic patients, they had significantly lower Hb on CPB and in the postoperative period.","
+1) The sentence describes the relationship between ""transfusion rates"" and ""Hb on CPB and in the postoperative period"".
+2) The authors used the the verb ""had"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"""Ultrasound measures of fetal size and growth used in this study are not sufficiently accurate to predict those infants likely to be at risk from the  adverse effects of fetal hyperinsulinaemia.""","
+1) The sentence describes the relationship between ""ultrasound measures of fetal size and growth"" and ""the adverse effects of fetal hyperinsulinaemia"".
+2) The authors used the the verb ""predict"", which suggests that there is a direct effect between them.
+3) However, the authors also used the phrase ""not sufficiently accurate"" to indicate that the effect is not certain.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Diabetics and controls exhibited increased adiponectin levels due to  falciparum malaria but differed in response in terms of leptin levels.,"
+1) The sentence describes the relationship between ""falciparum malaria"" and ""adiponectin and leptin levels"".
+2) The authors used the the verb ""increased"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Preoperative inflammation-based prognostic factors predict early and late recurrence of HCC after curative resection.,"
+1) The sentence describes the relationship between ""preoperative inflammation-based prognostic factors"" and ""early and late recurrence of HCC after curative resection"".
+2) The authors used the the verb ""predict"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Patients had a dramatic improvement in BMI after bariatric surgery and those with prior bariatric surgery had a lower risk of re-operation and revision in the short- and mid-term after a subsequent THA.,"
+1) The sentence describes the relationship between ""bariatric surgery"" and ""a lower risk of re-operation and revision in the short- and mid-term after a subsequent THA"".
+2) The authors used the the verb ""had"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Low newborn birth weight was related to the deteriorated nutritional status in terms of low anthropometric and abnormal biochemical measures.,"
+1) The sentence describes the relationship between ""low newborn birth weight"" and ""deteriorated nutritional status"".
+2) The authors used the the verb ""related"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Based on available clinical and pathological prognostic factors and by stratification of patients into three disease risk groups it is possible to predict the possibility of disease.,"
+1) The sentence describes the relationship between ""available clinical and pathological prognostic factors"" and ""the possibility of disease"".
+2) The authors used the the verb ""predict"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,A minor increased risk of breast cancer was found in women with a history of uterine myoma.,"
+1) The sentence describes the relationship between ""uterine myoma"" and ""breast cancer"".
+2) The authors used the the verb ""increased"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"When controlling for other factors, the authors report no differences in care based solely on payor type.","
+1) The sentence describes the relationship between ""care"" and ""payor type"".
+2) The authors used the the verb ""no differences"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+1,"In conclusion, engagement in physical activity was related to better health-related quality of life among breast cancer survivors.","
+1) The sentence describes the relationship between ""engagement in physical activity"" and ""better health-related quality of life among breast cancer survivors"".
+2) The authors used the the verb ""related"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"The adverse effect of high BMI on PF trajectories appeared to be more pronounced in men than in women, making more extremely obese Russian men  an important target population to prevent/slow down the process of decline in PF.","
+1) The sentence describes the relationship between ""high BMI"" and ""the process of decline in PF"".
+2) The authors used the the verb ""appeared to be more pronounced"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Gender (male), duration of diabetes, and diabetic retinopathy may serve as indicators of DN.","
+1) The sentence describes the relationship between ""gender (male), duration of diabetes, and diabetic retinopathy"" and ""DN"".
+2) The authors used the the verb ""may serve as indicators"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Among patients with type 1 diabetes who were receiving insulin, the  proportion of patients who achieved a glycated hemoglobin level lower than 7.0% with no severe hypoglycemia or diabetic ketoacidosis was larger in the group that received sotagliflozin than in the placebo group.","
+1) The sentence describes the relationship between ""sotagliflozin"" and ""achieving a glycated hemoglobin level lower than 7.0% with no severe hypoglycemia or diabetic ketoacidosis"".
+2) The authors used the the verb ""was larger"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Furthermore, it was in correlation with the age of patients and the existence of  chronic kidney disease, which are well-established predispositions for poor nutritional status.","
+1) The sentence describes the relationship between ""the age of patients"" and ""the existence of chronic kidney disease"" and ""poor nutritional status"".
+2) The authors used the the verb ""correlation"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,OSA is frequently found in the acute phase of ischaemic heart disease and its presence is associated with more severe ACS and a poorer left ventricle systolic function.,"
+1) The sentence describes the relationship between ""OSA"" and ""more severe ACS and a poorer left ventricle systolic function"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Individuals with high plasma concentrations of methionine, choline,  and betaine may be at reduced risk of CRC.","
+1) The sentence describes the relationship between ""high plasma concentrations of methionine, choline, and betaine"" and ""the risk of CRC"".
+2) The authors used the the verb ""reduced"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"""Disease-related weight loss may be an important and heretofore unknown indicator of poor prognosis in MM.""","
+1) The sentence describes the relationship between ""disease-related weight loss"" and ""poor prognosis in MM"".
+2) The authors used the the verb ""may be"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"In this prospective study, a higher baseline dietary energy density  was associated with higher incidence of type 2 diabetes among postmenopausal women, both overall, and in women with elevated waist circumference.","
+1) The sentence describes the relationship between ""dietary energy density"" and ""incidence of type 2 diabetes"".
+2) The authors used the the verb ""associated with"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Our study suggests that the ATM rs189037 polymorphism is associated with reduced risk of T2DM in older adult population in China.,"
+1) The sentence describes the relationship between ""the ATM rs189037 polymorphism"" and ""reduced risk of T2DM in older adult population in China"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"It can be regarded as an index for the relationship of apoA-I and apoB to the early, still clinically asymptomatic, steps of the pathogenesis of coronary disease.","
+1) The sentence describes the relationship between ""apoA-I and apoB"" and ""the early, still clinically asymptomatic, steps of the pathogenesis of coronary disease"".
+2) The authors used the the verb ""regarded"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Although both are characterized by increased intestinally derived lipoprotein particles, HDL is reduced only in SCH.","
+1) The sentence describes the relationship between ""increased intestinally derived lipoprotein particles"" and ""HDL is reduced only in SCH"".
+2) The authors used the the verb ""reduced"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,There is a close association between elevated lipids and hepatic  steatosis.,"
+1) The sentence describes the relationship between ""elevated lipids"" and ""hepatic steatosis"".
+2) The authors used the the verb ""close association"", which suggests that there is a strong correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Serum TTR did not show a significant difference by nutrition support  in massively burned patients with >20% of TBSA burned.,"
+1) The sentence describes the relationship between ""nutrition support"" and ""serum TTR"".
+2) The authors used the the verb ""did not show a significant difference"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+1,"The prevalence of peanut allergy is high in South African children with AD, but significantly lower in blacks compared to mixed race patients.","
+1) The sentence describes the relationship between ""the prevalence of peanut allergy"" and ""South African children with AD"".
+2) The authors used the the verb ""is high"" and ""significantly lower"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,""" In the long term, breast cancer survivors are at increased risk of mild LV systolic dysfunction, increased NT-proBNP levels, and cardiovascular disease compared with matched controls, even after adjustment for cardiovascular  risk factors.","
+1) The sentence describes the relationship between ""breast cancer survivors"" and ""increased risk of mild LV systolic dysfunction, increased NT-proBNP levels, and cardiovascular disease"".
+2) The authors used the the verb ""increased"", which suggests that there is a direct effect between them.
+3) When describing the effect, the authors also used the phrase ""even after adjustment for cardiovascular risk factors"" to suggest that the effect is not due to other factors.
+4) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Patients bridged to emergency HT on short-term MCS are exposed to an increased risk of postoperative complications and mortality.,"
+1) The sentence describes the relationship between ""bridging to emergency HT on short-term MCS"" and ""an increased risk of postoperative complications and mortality"".
+2) The authors used the the verb ""exposed"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Additional markers detected using metabolomics are likely related to these measures as they did not enhance the overall prediction in a combined model.,"
+1) The sentence describes the relationship between ""additional markers detected using metabolomics"" and ""these measures"".
+2) The authors used the the verb ""likely related"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Key messages Sleep  duration was associated with diabetes, but whether it is a real cause of incident diabetes especially in Chinese still remains to be elucidated.","
+1) The sentence describes the relationship between ""sleep duration"" and ""incident diabetes"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) When describing the effect, the authors also used a hedge word ""whether"" to tone down the certainty of the effect.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"The association between lower cholesterol levels and higher frequency of prior ischemic stroke in patients with cholesterol <5.5\\xa0mmol/L cannot be solely an effect of aggressive statin treatment in patients with prior ischemic stroke, as the association pertained also to patients who did not use statin.","
+1) The sentence describes the relationship between ""lower cholesterol levels"" and ""higher frequency of prior ischemic stroke"".
+2) The authors used the the verb ""cannot be solely an effect"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,We observed an association between EH/EC and a history of gestational diabetes specific to younger women.,"
+1) The sentence describes the relationship between ""EH/EC"" and ""a history of gestational diabetes specific to younger women"".
+2) The authors used the the verb ""observed"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"In addition, the risks for cardiovascular outcomes were not elevated in DPP-4i-treated patients compared with sulfonylurea-treated patients.","
+1) The sentence describes the relationship between ""DPP-4i-treated patients"" and ""sulfonylurea-treated patients"" and ""cardiovascular outcomes"".
+2) The authors used the the verb ""not elevated"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+1,Physical activity is also associated with favorable HDL-C.,"
+1) The sentence describes the relationship between ""physical activity"" and ""favorable HDL-C"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,The results have revealed the higher plasma level of lipids in psoriatic patients.,"
+1) The sentence describes the relationship between ""plasma level of lipids"" and ""psoriatic patients"".
+2) The authors used the the verb ""revealed"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,High BMI and alcohol consumption and abstinence are risk factors for  CLD in post-menopausal women.,"
+1) The sentence describes the relationship between ""high BMI and alcohol consumption and abstinence"" and ""CLD in post-menopausal women"".
+2) The authors used the the verb ""are"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,The low grade of emulsification (12.9 %) in  our patients could not be related to LMWC or cholesterol changes.,"
+1) The sentence describes the relationship between ""low grade of emulsification"" and ""LMWC or cholesterol changes"".
+2) The authors used the the verb ""could not be related"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+1,"Patients who are super obese are at increased risk for serious complications compared with patients with morbid obesity, whose risks are elevated relative to patients whose BMI is less than 40 kg/m2.","
+1) The sentence describes the relationship between ""super obesity"" and ""serious complications"" and ""morbid obesity"" and ""risks"".
+2) The authors used the the verb ""increased"" and ""elevated"" which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"No significant differences in weight gain, growth, or nutritional status were observed at hospital discharge between the two feeding strategies.","
+1) The sentence describes the relationship between ""two feeding strategies"" and ""weight gain, growth, or nutritional status"".
+2) The authors used the the verb ""observed"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,A rate-based transfusion definition identifies a difference in mortality in patients who receive greater than 4 U/h of PRBCs.,"
+1) The sentence describes the relationship between ""a rate-based transfusion definition"" and ""a difference in mortality in patients who receive greater than 4 U/h of PRBCs"".
+2) The authors used the the verb ""identifies"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Resistance to fluconazole was considerably greater among the C. non-albicans isolates from T2DM group.,"
+1) The sentence describes the relationship between ""resistance to fluconazole"" and ""C. non-albicans isolates from T2DM group"".
+2) The authors used the the verb ""was considerably greater"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"""Of 11 atherothrombotic biomarkers assessed at baseline, the total cholesterol-HDL-C ratio and CRP were the strongest independent predictors of development of peripheral arterial disease.""","
+1) The sentence describes the relationship between ""total cholesterol-HDL-C ratio and CRP"" and ""development of peripheral arterial disease"".
+2) The authors used the the verb ""predictors"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,The frequencies of CETP gene -629 genotype and allele in the Tianjin  Han Chinese population was significantly different from that in Other domestic and foreign populations.,"
+1) The sentence describes the relationship between ""CETP gene -629 genotype and allele"" and ""the frequencies in the Tianjin Han Chinese population"".
+2) The authors used the the verb ""was significantly different"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"The present study suggests a link between overweight/obesity and altered sleep quality due to compromised non-rapid eye movement sleep, an indirect marker of sleep quality.","
+1) The sentence describes the relationship between ""overweight/obesity"" and ""altered sleep quality"".
+2) The authors used the the verb ""suggests"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,The prevalence of hypertension and the yearly increase of mean blood pressure were disturbingly high in these patients.,"
+1) The sentence describes the relationship between ""the prevalence of hypertension"" and ""the yearly increase of mean blood pressure"".
+2) The authors used the the verb ""were"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"The current available evidence from prospective studies suggests that there is an inverse association between Lp(a) concentration and risk of type-2 diabetes, with a higher risk of type-2 diabetes at low Lp(a) concentrations (approximately\\xa0<7\\xa0mg/dL).","
+1) The sentence describes the relationship between ""Lp(a) concentration"" and ""risk of type-2 diabetes"".
+2) The authors used the the verb ""inverse association"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"There was evidence of neurological changes in the cortical location and in the bandwidth targeted by the intervention, and changes in EEG activity were predictive of symptom reduction.","
+1) The sentence describes the relationship between ""neurological changes"" and ""changes in EEG activity"".
+2) The authors used the the verb ""predictive"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Nondiabetic patients who perform higher, yet still modest, amounts of PA following RYGB have greater energy deficits and lose more weight and FM, while maintaining higher skeletal muscle mass.","
+1) The sentence describes the relationship between ""performing higher, yet still modest, amounts of PA following RYGB"" and ""greater energy deficits and lose more weight and FM, while maintaining higher skeletal muscle mass"".
+2) The authors used the the verb ""have"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"However, for sthenia syndromes such as Qi stagnation syndrome (QSS), heart blood stasis syndrome (HBSS), and CCS, there was no obvious difference.","
+1) The sentence describes the relationship between ""sthenia syndromes such as Qi stagnation syndrome (QSS), heart blood stasis syndrome (HBSS), and CCS"" and ""no obvious difference"".
+2) The authors used the the verb ""was"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship sentence"
+1,The best predictors of ICIs are physical findings of trauma to the head and history of LOC.,"
+1) The sentence describes the relationship between ""physical findings of trauma to the head and history of LOC"" and ""ICIs"".
+2) The authors used the the verb ""predictors"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Our investigation suggests that the ST14CC-PBP3IIb/A clonal group is associated with increased clinical virulence, resistance to several antimicrobial agents, and is persistent over time.","
+1) The sentence describes the relationship between the ""ST14CC-PBP3IIb/A clonal group"" and ""increased clinical virulence, resistance to several antimicrobial agents, and persistence over time"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,The percentage of young women with risk factors for breast cancer was found to be alarmingly high.,"
+1) The sentence describes the relationship between ""the percentage of young women with risk factors for breast cancer"" and ""being alarmingly high"".
+2) The authors used the the verb ""found"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Obesity is associated with increased IOP compared with normal weight controls, but not with the magnitude of postural IOP change across different seated and supine positions.","
+1) The sentence describes the relationship between ""obesity"" and ""increased IOP compared with normal weight controls"".
+2) The authors used the the verb ""associated"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,The application of 1% MBD as a single technique in breast cancer SNB has favorable identification rates and predictive values.,"
+1) The sentence describes the relationship between ""the application of 1% MBD"" and ""favorable identification rates and predictive values"".
+2) The authors used the the verb ""has"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Hypercoagulability also correlated with inflammatory markers.,"
+1) The sentence describes the relationship between ""hypercoagulability"" and ""inflammatory markers"".
+2) The authors used the verb ""correlated"", which suggests that there is a direct relationship between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"""T3 levels were relatively high or normal, both before and during GH treatment, indicating that PWS children have increased T4 to T3 conversion.""","
+1) The sentence describes the relationship between ""T3 levels"" and ""T4 to T3 conversion"".
+2) The authors used the the verb ""indicating"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Elevated immunoglobulin E and immunoglobulin A levels were independently and positively associated with prediabetes prevalence.,"
+1) The sentence describes the relationship between ""elevated immunoglobulin E and immunoglobulin A levels"" and ""prediabetes prevalence"".
+2) The authors used the the verb ""associated"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"""The children who were overweight at 13 years of age gained more weight than their normal-weight peers by the age of 2 or 3 years onward.""","
+1) The sentence describes the relationship between ""being overweight at 13 years of age"" and ""gaining more weight than their normal-weight peers"".
+2) The authors used the the verb ""gained"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Nonetheless, the level of HDLc was negatively associated with the level of the inflammatory marker MRP8/14, which is in accordance with the concept of inflammation as an important driver for premature development of atherosclerosis in JIA.","
+1) The sentence describes the relationship between ""the level of HDLc"" and ""the level of the inflammatory marker MRP8/14"".
+2) The authors used the the verb ""associated"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Adherence to healthful dietary patterns is associated with favorable concentrations of many cardiometabolic and endocrine biomarkers.,"
+1) The sentence describes the relationship between ""adherence to healthful dietary patterns"" and ""favorable concentrations of many cardiometabolic and endocrine biomarkers"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,We found limited evidence linking sitting and incident diabetes over  13 years in this occupational cohort of civil servants.,"
+1) The sentence describes the relationship between ""sitting"" and ""incident diabetes"".
+2) The authors used the the verb ""linking"", which suggests that there is a correlation between them.
+3) When describing the effect, the authors also used a hedge word ""limited"" to tone down the certainty of the effect.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,It provided the evidence for association of SCAP with SBP.,"
+1) The sentence describes the relationship between ""SCAP"" and ""SBP"".
+2) The authors used the the verb ""association"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"The self-monitoring behaviors of self-weigh-in, daily steps, high-intensity activity, and persistent food logging were significant predictors of weight loss during a 6-month intervention.","
+1) The sentence describes the relationship between ""self-monitoring behaviors"" and ""weight loss"".
+2) The authors used the the verb ""predictors"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Furthermore, FCR is frequent among women, particularly when closer in time to primary surgery.","
+1) The sentence describes the relationship between ""women"" and ""FCR"".
+2) The authors used the the verb ""frequent"", which suggests that there is a direct effect between them.
+3) When describing the effect, the authors also used a hedge word ""particularly"" to tone down the certainty of the effect.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,High mammographic density is an independent risk factor of local and locoregional recurrence but is neither associated with distant metastasis nor survival.,"
+1) The sentence describes the relationship between ""high mammographic density"" and ""local and locoregional recurrence"".
+2) The authors used the the verb ""is an independent risk factor"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"The ability of HDL to attenuate endothelial inflammation is impaired in acute MI, and this metric of HDL function may serve as a predictor of new MACE, even independent of HDL cholesterol and apolipoprotein A-I.","
+1) The sentence describes the relationship between ""HDL to attenuate endothelial inflammation"" and ""predictor of new MACE"".
+2) The authors used the the verb ""may serve as"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Our data suggest that higher than while sedentary behavior is related to worse fasting glucose, this relationship is attenuated when PA is taken into account.","
+1) The sentence describes the relationship between ""higher than while sedentary behavior"" and ""worse fasting glucose"".
+2) The authors used the the verb ""related"", which suggests that there is a correlation between them.
+3) When describing the effect, the authors also used the phrase ""when PA is taken into account"" to suggest that the relationship is conditional.
+4) Therefore, the sentence expresses correlation and conditional causation.
+Answer: 2 - correlation and 3 - conditional causation"
+1,Reductions in LDL-C were greater among women randomized to both calcium+vitamin D and hormone therapy than for those randomized to either intervention alone or to placebo.,"
+1) The sentence describes the relationship between ""calcium+vitamin D and hormone therapy"" and ""reductions in LDL-C"".
+2) The authors used the the verb ""were greater"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Ever consuming alcohol and ever smoking cigarette after starting ART, depression, not adhering to ART and being in the second lowest wealth quintile were significantly associated with malnutrition.","
+1) The sentence describes the relationship between ""ever consuming alcohol and ever smoking cigarette after starting ART, depression, not adhering to ART and being in the second lowest wealth quintile"" and ""malnutrition"".
+2) The authors used the the verb ""associated with"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Mini Nutritional Assessment was able to predict the development of PUs.,"
+1) The sentence describes the relationship between ""Mini Nutritional Assessment"" and ""the development of PUs"".
+2) The authors used the the verb ""predict"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Also individually green tea consumption and abdominal obesity have failed to find an independent relationship with lacunar infarction after adjustment by all risk factors.,"
+1) The sentence describes the relationship between ""green tea consumption"" and ""abdominal obesity"" and ""lacunar infarction"".
+2) The authors used the the verb ""failed to find"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+1,Small LSG  at baseline is at higher risk of dilatation.,"
+1) The sentence describes the relationship between ""small LSG at baseline"" and ""the risk of dilatation"".
+2) The authors used the the verb ""higher risk"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Relationships between TE doses and serum TE concentrations vary for each TE and underlying clinical conditions.,"
+1) The sentence describes the relationship between ""TE doses"" and ""serum TE concentrations"".
+2) The authors used the verb ""vary"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Although artificially sweetened beverages and fruit juice also showed positive associations with incidence of type 2 diabetes, the findings were likely to involve bias.","
+1) The sentence describes the relationship between ""artificially sweetened beverages and fruit juice"" and ""incidence of type 2 diabetes"".
+2) The authors used the the verb ""showed"", which suggests that there is a correlation between them.
+3) When describing the effect, the authors also used a hedge word ""likely"" to tone down the certainty of the effect.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"""This difference in functioning appears to be largely explained by diabetes-associated neuropathy, differences in exertional leg symptoms, and greater cardiovascular disease in patients with diabetes.""","
+1) The sentence describes the relationship between ""difference in functioning"" and ""diabetes-associated neuropathy, differences in exertional leg symptoms, and greater cardiovascular disease in patients with diabetes"".
+2) The authors used the verb ""appears to be largely explained by"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Moreover, the levels of MMP-9 and TGF-Î²1, factors involved in the breakdown of basement membrane and fibroproliferation, were lower in patients with PDR having simvastatin medication.","
+1) The sentence describes the relationship between ""simvastatin medication"" and ""levels of MMP-9 and TGF-Î²1"".
+2) The authors used the the verb ""lower"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,The pre-frail condition was inversely associated with overweight.,"
+1) The sentence describes the relationship between ""pre-frail condition"" and ""overweight"".
+2) The authors used the the verb ""inversely associated"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,"Although artificially sweetened beverages and fruit juice also showed positive associations with incidence of type 2 diabetes, the findings were likely to involve bias.","
+1) The sentence describes the relationship between ""artificially sweetened beverages and fruit juice"" and ""incidence of type 2 diabetes"".
+2) The authors used the the verb ""showed"", which suggests that there is a correlation between them.
+3) When describing the effect, the authors also used a hedge word ""likely"" to tone down the certainty of the effect.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,The early onset of peripheral neuropathy might be a robust predictor for TTF in patients with metastatic breast cancer treated with paclitaxel.,"
+1) The sentence describes the relationship between ""early onset of peripheral neuropathy"" and ""TTF in patients with metastatic breast cancer treated with paclitaxel"".
+2) The authors used the the verb ""predictor"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Hydroxychloroquine use was associated with lower lipid levels but not with the plasma glucose in this RA cohort.,"
+1) The sentence describes the relationship between ""hydroxychloroquine use"" and ""lower lipid levels"" and ""plasma glucose"".
+2) The authors used the the verb ""associated"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Advances in knowledge: The association of LN with FEA at biopsy was more frequently associated with ADH at surgery than with pure FEA.,"
+1) The sentence describes the relationship between ""LN with FEA at biopsy"" and ""ADH at surgery"".
+2) The authors used the the verb ""associated"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,"Furthermore, HDL-C levels in the phlegm turbidity group were lower than those of the non-phlegm group.","
+1) The sentence describes the relationship between ""HDL-C levels"" and ""the phlegm turbidity group"".
+2) The authors used the the verb ""were lower"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Patients with AUS-detected metastases had a higher axillary tumour burden than those with SNB-detected metastases.,"
+1) The sentence describes the relationship between ""AUS-detected metastases"" and ""axillary tumour burden"".
+2) The authors used the the verb ""had"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,Early subjective clinical judgment of physicians correlates more closely with 3-month outcome after ICH than prognostic scales.,"
+1) The sentence describes the relationship between ""early subjective clinical judgment of physicians"" and ""3-month outcome after ICH"".
+2) The authors used the the verb ""correlates"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,Total blood cholesterol tended to decrease with increasing injury severity.,"
+1) The sentence describes the relationship between ""total blood cholesterol"" and ""injury severity"".
+2) The authors used the verb ""tended to decrease"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+1,The rs1122608 is associated with the risk of CAD and TG level.,"
+1) The sentence describes the relationship between ""rs1122608"" and ""the risk of CAD and TG level"".
+2) The authors used the the verb ""associated"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+1,A history of a previous DFI episode did not predict a greater likelihood of any antibiotic-resistant isolate in subsequent episodes.,"
+1) The sentence describes the relationship between ""a history of a previous DFI episode"" and ""the likelihood of any antibiotic-resistant isolate in subsequent episodes"".
+2) The authors used the the verb ""did not predict"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+2,Our trial suggested that the effects of cooking classes focussing on salt reduction for housewives could be transferred to family members (UMIN-CTR: 000018870).,"
+1) The sentence describes the relationship between ""cooking classes focussing on salt reduction for housewives"" and ""effects transferred to family members"".
+2) The authors used the the verb ""could be transferred"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,"""Results suggest a potential moderating role of BMI in low back pain outcomes.""","
+1) The sentence describes the relationship between ""BMI"" and ""low back pain outcomes"".
+2) The authors used the the verb ""suggest"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+2,"Because medium and small LDL particles are more highly associated with cardiovascular disease than are larger LDL, the present results suggest that very high saturated fat intake may increase cardiovascular disease risk in phenotype B individuals.","
+1) The sentence describes the relationship between ""very high saturated fat intake"" and ""cardiovascular disease risk in phenotype B individuals"".
+2) The authors used the the verb ""increase"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,Surgical resection with SRS may improve outcomes in patients with a limited number of large BMs compared with SRS alone.,"
+1) The sentence describes the relationship between ""surgical resection with SRS"" and ""outcomes in patients with a limited number of large BMs"".
+2) The authors used the the verb ""improve"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,"Additionally, a large number  of benign biopsies were undertaken, with likely resultant psychological impact.","
+1) The sentence describes the relationship between ""a large number of benign biopsies"" and ""psychological impact"".
+2) The authors used the the verb ""undertaken"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,"These results suggest rare CNVs might have a role in breast cancer susceptibility, at least for disease at a young age.","
+1) The sentence describes the relationship between ""rare CNVs"" and ""breast cancer susceptibility"".
+2) The authors used the the verb ""might have a role"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+2,Interventions to promote earlier HIV diagnosis and treatment and integrating nutrition counseling at all stages of ART implementation may improve  ART outcomes in this vulnerable population.,"
+1) The sentence describes the relationship between ""interventions to promote earlier HIV diagnosis and treatment and integrating nutrition counseling"" and ""ART outcomes"".
+2) The authors used the the verb ""improve"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,GDM appears to influence fetoplacental apelin metabolism.,"
+1) The sentence describes the relationship between ""GDM"" and ""fetoplacental apelin metabolism"".
+2) The authors used the verb ""influence"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,"Although not significant, IR levels decreased over time, which could be indicative of a clinical improvement.","
+1) The sentence describes the relationship between ""IR levels"" and ""clinical improvement"".
+2) The authors used the the verb ""decreased"", which suggests that there is a direct effect between them.
+3) However, the authors also used the phrase ""not significant"" to indicate that the effect is not strong enough to be considered reliable.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+2,Interventions to reduce the risk of exacerbations in patients with COPD may reduce disease burden.,"
+1) The sentence describes the relationship between ""interventions to reduce the risk of exacerbations in patients with COPD"" and ""disease burden"".
+2) The authors used the the verb ""reduce"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,Our findings seem suggest that improving muscular fitness as well as an adherence to the SEADiet could be an important strategy to reduce clustered cardiometabolic risk in youth.,"
+1) The sentence describes the relationship between ""improving muscular fitness"" and ""adherence to the SEADiet"" and ""reduce clustered cardiometabolic risk in youth"".
+2) The authors used the the verb ""reduce"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,Previous irradiation does not appear to increase the risk of early postoperative complications associated with acellular dermal matrix use in tissue expander/implant breast reconstruction.,"
+1) The sentence describes the relationship between ""previous irradiation"" and ""the risk of early postoperative complications associated with acellular dermal matrix use in tissue expander/implant breast reconstruction"".
+2) The authors used the the verb ""not appear to increase"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+2,"It may be an effective approach to solve the dialysis problem for the economically week population in China, especially for people with a smaller body size with lower transport membrane.","
+1) The sentence describes the relationship between ""dialysis problem"" and ""people with a smaller body size with lower transport membrane"".
+2) The authors used the the verb ""may be an effective approach"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,"Therefore, intravitreal steroids may be useful in DME with HEs in the fovea.","
+1) The sentence describes the relationship between ""intravitreal steroids"" and ""DME with HEs in the fovea"".
+2) The authors used the the verb ""may be useful"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,PFASs exposure in obese children may play a role in adverse skeletal  and cardiovascular risk profiles.,"
+1) The sentence describes the relationship between ""PFASs exposure"" and ""adverse skeletal and cardiovascular risk profiles"".
+2) The authors used the the verb ""may play a role"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,"These results indicate that oxidative stress, impairment of the antioxidant system and abnormal lipid metabolism may play a role in the pathogenesis and progression of psoriasis and its related complications.","
+1) The sentence describes the relationship between ""oxidative stress, impairment of the antioxidant system and abnormal lipid metabolism"" and ""the pathogenesis and progression of psoriasis and its related complications"".
+2) The authors used the the verb ""may play a role"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,Ensuring sufficient serum 25-hydroxyvitamin D concentrations might play an important role in decreasing the risk of bladder cancer.,"
+1) The sentence describes the relationship between ""ensuring sufficient serum 25-hydroxyvitamin D concentrations"" and ""decreasing the risk of bladder cancer"".
+2) The authors used the the verb ""decreasing"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,"Moreover, TT genotype may reduce the risk of CAD in diabetic patients.","
+1) The sentence describes the relationship between ""TT genotype"" and ""the risk of CAD in diabetic patients"".
+2) The authors used the the verb ""may reduce"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,"Also, these fatty acids may able to decrease serum hs-CRP and LDL cholesterol.","
+1) The sentence describes the relationship between ""fatty acids"" and ""serum hs-CRP and LDL cholesterol"".
+2) The authors used the the verb ""decrease"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,"However, there is no evidence that ABCB1 C3435T polymorphism could play a role in susceptibility to breast cancer in Morocco.","
+1) The sentence describes the relationship between ""ABCB1 C3435T polymorphism"" and ""susceptibility to breast cancer in Morocco"".
+2) The authors used the the verb ""could"", which suggests that there is a possibility of a relationship between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+2,"With the majority of patients presenting after 8 hours, widening of the therapeutic window with new potential reperfusion treatments would not appreciably increase treatment utilisation.","
+1) The sentence describes the relationship between ""widening of the therapeutic window with new potential reperfusion treatments"" and ""treatment utilisation"".
+2) The authors used the the verb ""would not appreciably increase"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation only.
+Answer: 4 – direct causation"
+2,This might be the result of an adaptation process achieved through a decrease of growth velocity.,"
+1) The sentence describes the relationship between ""an adaptation process"" and ""a decrease of growth velocity"".
+2) The authors used the the verb ""result"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 - direct causation"
+2,"In this study population, 2.0 mg RBZ does not appear to provide additional benefit over 0.5 mg RBZ.","
+1) The sentence describes the relationship between ""2.0 mg RBZ"" and ""0.5 mg RBZ"".
+2) The authors used the the verb ""does not appear to provide additional benefit"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+2,Variability in withdrawal of life-sustaining therapy may have a potential impact both on rates of cDCD success and quality of palliative care.,"
+1) The sentence describes the relationship between ""variability in withdrawal of life-sustaining therapy"" and ""rates of cDCD success and quality of palliative care"".
+2) The authors used the the verb ""may have a potential impact"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+2,"Instead, patient and surgeon variables may be responsible for the differences observed, and should be targeted in future research to improve equity.","
+1) The sentence describes the relationship between ""patient and surgeon variables"" and ""the differences observed"".
+2) The authors used the the verb ""may be responsible"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+2,"This notion may have an impact on self-perception  and dieting behaviour in certain individuals, precipitating and promoting disturbed eating attitudes and behaviour that may lead to the onset of eating disorders.","
+1) The sentence describes the relationship between ""notion"" and ""disturbed eating attitudes and behaviour"".
+2) The authors used the verb ""may lead to"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,Age stratification may improve evaluation of risk for CVD and mortality in early RA.,"
+1) The sentence describes the relationship between ""age stratification"" and ""evaluation of risk for CVD and mortality in early RA"".
+2) The authors used the the verb ""improve"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,The bidirectional association between AN diagnosis and CD warrants attention in the initial assessment and follow-up of these conditions because underdiagnosis and misdiagnosis of these disorders likely cause protracted and unnecessary morbidity.,"
+1) The sentence describes the relationship between ""AN diagnosis"" and ""CD"".
+2) The authors used the the verb ""association"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+2,"Lower plasma concentration of high-density lipoprotein cholesterol,  total antioxidant capacity, and Î±-tocopherol levels, and a dietary pattern that is low in fish and high in red meat might contribute to the cognition impairment  in older Chinese adults.","
+1) The sentence describes the relationship between ""lower plasma concentration of high-density lipoprotein cholesterol, total antioxidant capacity, and Î±-tocopherol levels"" and ""cognition impairment in older Chinese adults"".
+2) The authors used the the verb ""contribute"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,"Application of either form of therapy  alone may only have relatively miniscule effects on the aforementioned factors, in relation to the aggregate.","
+1) The sentence describes the relationship between ""either form of therapy"" and ""the aforementioned factors"".
+2) The authors used the the verb ""may have"", which suggests that there is a potential effect between them.
+3) When describing the effect, the authors also used a hedge word ""relatively miniscule"" to tone down the certainty of the effect.
+4) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+2,"There was, however, a trend toward a protective effect in patients with uncontrolled diabetes mellitus, suggesting that such patients may benefit from perioperative antibiotic use.","
+1) The sentence describes the relationship between ""uncontrolled diabetes mellitus"" and ""benefit from perioperative antibiotic use"".
+2) The authors used the the verb ""trend toward a protective effect"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+2,"""However, the results confirm that the vaccine is safe and suggest that vaccination may have clinical benefit in patients with low HER2-expressing tumors, specifically TNBC.""","
+1) The sentence describes the relationship between ""vaccination"" and ""clinical benefit in patients with low HER2-expressing tumors, specifically TNBC"".
+2) The authors used the the verb ""suggest"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,It adds to the literature suggesting that abdominoplasties in select  patients may improve incontinence symptoms.,"
+1) The sentence describes the relationship between ""abdominoplasties"" and ""improvement of incontinence symptoms"".
+2) The authors used the the verb ""may improve"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,"These may represent a precursor or forme fruste of the  osteosarcopenic obesity phenotype in young healthy overweight/obese subjects, who may progressively develop osteosarcopenia in its full form at an older age.","
+1) The sentence describes the relationship between ""a precursor or forme fruste of the osteosarcopenic obesity phenotype"" and ""progressively develop osteosarcopenia in its full form at an older age"".
+2) The authors used the the verb ""may represent"" and ""may progressively develop"", which suggests that there is a potential relationship between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+2,Our findings suggest that Mg may inhibit vascular calcification.,"
+1) The sentence describes the relationship between ""Mg"" and ""vascular calcification"".
+2) The authors used the the verb ""inhibit"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,"Moreover, its graphical representation may be helpful for clinical decision making.","
+1) The sentence does not describe any relationship between two variables. 
+2) Therefore, it is a no relationship sentence.
+Answer: 1 - no relationship sentence"
+2,"A healthier dietary pattern, better exercise self-efficacy and adequate sleep (more than six hours a night) may increase the likelihood of AHT adherence in individuals with high BP.","
+1) The sentence describes the relationship between ""a healthier dietary pattern, better exercise self-efficacy and adequate sleep"" and ""the likelihood of AHT adherence in individuals with high BP"".
+2) The authors used the the verb ""increase"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,It represents a reproducible and potentially beneficial approach within the context of the Brazilian public health system.,"
+1) The sentence describes the relationship between ""a reproducible and potentially beneficial approach"" and ""the Brazilian public health system"".
+2) The authors used the the verb ""represent"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,Physical therapy in conjunction with nutritional therapy may help prevent weakness in HSCT recipients.,"
+1) The sentence describes the relationship between ""physical therapy"" and ""nutritional therapy"" and ""preventing weakness in HSCT recipients"".
+2) The authors used the the verb ""may help"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,Daily glucose fluctuation may have an effect on coronary plaque vulnerability in patients with CAD pre-treated with lipid-lowering therapy.,"
+1) The sentence describes the relationship between ""daily glucose fluctuation"" and ""coronary plaque vulnerability in patients with CAD pre-treated with lipid-lowering therapy"".
+2) The authors used the the verb ""may have an effect"", which suggests that there is a potential effect between them.
+3) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,"Diet may influence the pharmacokinetics of ASA, but effects may be through modulation of glycine conjugation rather than glucuronidation.","
+1) The sentence describes the relationship between ""diet"" and ""the pharmacokinetics of ASA"".
+2) The authors used the the verb ""may influence"", which suggests that there is a potential effect between them.
+3) When describing the effect, the authors also used a hedge word ""may"" to tone down the certainty of the effect.
+4) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+2,Monitoring growth trajectories may improve chronic disease prevention.,"
+1) The sentence describes the relationship between ""monitoring growth trajectories"" and ""chronic disease prevention"".
+2) The authors used the the verb ""improve"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+2,""" Our findings suggest that greater levels of social support may improve certain indicators of physical and mental wellbeing in older adults with  type 2 diabetes, regardless of the presence of diabetes complications and other chronic pathologies.""","
+1) The sentence describes the relationship between ""greater levels of social support"" and ""certain indicators of physical and mental wellbeing in older adults with type 2 diabetes"".
+2) The authors used the the verb ""improve"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Liver resection for NCNSO metastases is feasible and results in long-term survival are similar to colorectal metastases.,"
+1) The sentence describes the relationship between ""liver resection for NCNSO metastases"" and ""long-term survival"".
+2) The authors used the the verb ""results in"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Lower dialysis dose with lower daily protein intake can achieve a lower-level nitrogen balance and does not lead to malnutrition.,"
+1) The sentence describes the relationship between ""lower dialysis dose with lower daily protein intake"" and ""lower-level nitrogen balance and does not lead to malnutrition"".
+2) The authors used the the verb ""can achieve"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,The absence of two mtDNA mutations  in ND1 gene rules out the possibility of involvement of these mutations in early  onset diabetes in Pakistani population.,"
+1) The sentence describes the relationship between ""the absence of two mtDNA mutations in ND1 gene"" and ""early onset diabetes in Pakistani population"".
+2) The authors used the the verb ""rules out"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation only.
+Answer: 4 - direct causation"
+3,"In our trial, inhibition of PCSK9 with evolocumab on a background of statin therapy lowered LDL cholesterol levels to a median of 30 mg per deciliter  (0.78 mmol per liter) and reduced the risk of cardiovascular events.","
+1) The sentence describes the relationship between ""inhibition of PCSK9 with evolocumab on a background of statin therapy"" and ""the risk of cardiovascular events"".
+2) The authors used the the verb ""lowered"" and ""reduced"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Active intervention resulted in better outcomes at 6\\xa0months.,"
+1) The sentence describes the relationship between ""active intervention"" and ""better outcomes at 6 months"".
+2) The authors used the the verb ""resulted"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Mucous fistula refeeding is safe and can decrease risk of anastomotic complication and parental nutrition related cholestasis.,"
+1) The sentence describes the relationship between ""mucous fistula refeeding"" and ""decrease risk of anastomotic complication and parental nutrition related cholestasis"".
+2) The authors used the the verb ""decrease"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"A higher BMI and a greater prevalence of comorbidities had driven patients to seek a more radical solution for their obesity, i.e., surgery.","
+1) The sentence describes the relationship between ""a higher BMI and a greater prevalence of comorbidities"" and ""seeking a more radical solution for their obesity, i.e., surgery"".
+2) The authors used the the verb ""had driven"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Visual attention is an interference factor in terms of the safe performance of driving after a stroke.,"
+1) The sentence describes the relationship between ""visual attention"" and ""the safe performance of driving after a stroke"".
+2) The authors used the the verb ""is"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Both general and central adiposity have causal effects on CHD and type 2 diabetes mellitus.,"
+1) The sentence describes the relationship between ""general and central adiposity"" and ""CHD and type 2 diabetes mellitus"".
+2) The authors used the the verb ""have causal effects"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,High total serum cholesterol levels tend to increase graft failure rates whilst it did not influence implant failures.,"
+1) The sentence describes the relationship between ""high total serum cholesterol levels"" and ""graft failure rates"".
+2) The authors used the the verb ""increase"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Our data suggests that a chronic high dAGE diet could lead to a vascular dysfunction and inflammatory activation, contributing to the development of vascular complications in subjects with type 2 diabetes.","
+1) The sentence describes the relationship between ""a chronic high dAGE diet"" and ""the development of vascular complications in subjects with type 2 diabetes"".
+2) The authors used the the verb ""could lead to"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Infants born with isolated SNHL due to cCMV were found to benefit from prolonged antiviral treatment.,"
+1) The sentence describes the relationship between ""isolated SNHL due to cCMV"" and ""prolonged antiviral treatment"".
+2) The authors used the the verb ""benefit"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Iliofemoral stent implantation is a safe and efficacious treatment for vascular access site and access-related complications during transfemoral TAVR.,"
+1) The sentence describes the relationship between ""iliofemoral stent implantation"" and ""vascular access site and access-related complications during transfemoral TAVR"".
+2) The authors used the the verb ""safe and efficacious"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"In newly diagnosed severe OHS, Bi-level PAP and CPAP resulted in similar improvements in ventilatory failure, HRQoL and adherence.","
+1) The sentence describes the relationship between ""Bi-level PAP and CPAP"" and ""improvements in ventilatory failure, HRQoL and adherence"".
+2) The authors used the the verb ""resulted in"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"In high-risk patients with dysglycemia (prediabetes and early diabetes), mild and moderate chronic kidney disease significantly increased cardiovascular events.","
+1) The sentence describes the relationship between ""dysglycemia"" and ""cardiovascular events"".
+2) The authors used the the verb ""increased"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Surgery provides a significant survival benefit to trimodality-eligible esophageal adenocarcinoma patients with locally advanced disease.,"
+1) The sentence describes the relationship between ""surgery"" and ""survival benefit to trimodality-eligible esophageal adenocarcinoma patients with locally advanced disease"".
+2) The authors used the the verb ""provides"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Findings from the current study support better cardiometabolic benefits of burst exercise compared with MICT over 3 months in patients with newly diagnosed T2D.,"
+1) The sentence describes the relationship between ""burst exercise"" and ""cardiometabolic benefits"" in patients with newly diagnosed T2D.
+2) The authors used the the verb ""support"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Early detection and referral by both the patient and general practitioner are crucial for optimal foot ulcer healing.,"
+1) The sentence describes the relationship between ""early detection and referral"" and ""optimal foot ulcer healing"".
+2) The authors used the the verb ""are crucial"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Our data suggest that the protective effect of obesity in locally advanced NSCLC is not solely due to short-term treatment effects, decreased smoking exposure, or poor prognostic factors from underweight patients.","
+1) The sentence describes the relationship between ""obesity"" and ""protective effect in locally advanced NSCLC"".
+2) The authors used the the verb ""suggest"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+3,Adiponectin is shown as one of the mechanisms by which Ï‰-3 improves  cardiometabolic profile in persons with cardiovascular risk.,"
+1) The sentence describes the relationship between ""Ï‰-3"" and ""cardiometabolic profile in persons with cardiovascular risk"".
+2) The authors used the the verb ""improves"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,The results of this study showed that TPVBRA combined with bupivacaine and dexmedetomidine can enhance the duration and quality of analgesia without serious adverse events.,"
+1) The sentence describes the relationship between ""TPVBRA combined with bupivacaine and dexmedetomidine"" and ""the duration and quality of analgesia without serious adverse events"".
+2) The authors used the the verb ""enhance"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Implementation of the package by family doctors was feasible and improved prescribing and some lifestyle changes.,"
+1) The sentence describes the relationship between ""implementation of the package"" and ""improved prescribing and some lifestyle changes"".
+2) The authors used the the verb ""improved"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Statins equivalent to or stronger than atorvastatin 20 mg are more effective than lower intensity statins.,"
+1) The sentence describes the relationship between ""statin equivalent to or stronger than atorvastatin 20 mg"" and ""more effective than lower intensity statins"".
+2) The authors used the the verb ""more effective"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Treatment with insulin lispro resulted in weight gain and an increased risk of hypoglycemia.,"
+1) The sentence describes the relationship between ""treatment with insulin lispro"" and ""weight gain and an increased risk of hypoglycemia"".
+2) The authors used the the verb ""resulted in"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"In patients with OHS, a 3-month comprehensive rehabilitation programme, in addition to NIV, resulted in improved weight loss, exercise capacity and QOL at the end of the rehabilitation period, but these effects were  not demonstrated at 12 months, in part, due to the limited retention of patients  at 12 months.","
+1) The sentence describes the relationship between ""a 3-month comprehensive rehabilitation programme"" and ""improved weight loss, exercise capacity and QOL"".
+2) The authors used the the verb ""resulted in"", which suggests that there is a direct effect between them.
+3) However, the authors also used the phrase ""but these effects were not demonstrated at 12 months"" to indicate that the effects were not sustained over time.
+4) Therefore, the sentence expresses direct causation, but with limited retention of the effects.
+Answer: 4 – direct causation"
+3,Effects increased for individuals with more advanced cancer stages.,"
+1) The sentence describes the relationship between ""more advanced cancer stages"" and ""effects"".
+2) The authors used the the verb ""increased"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"""Amelioration of hyperinsulinemia and hyperandrogenemia with dietary intervention or metformin treatment improves significantly the clinical features  and reproductive function in overweight PCOS women.""","
+1) The sentence describes the relationship between ""dietary intervention or metformin treatment"" and ""the clinical features and reproductive function in overweight PCOS women"".
+2) The authors used the the verb ""improves"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Breast cancer has a significant negative effect on the individual incomes of survivors, even at 13 years after diagnosis.","
+1) The sentence describes the relationship between ""breast cancer"" and ""the individual incomes of survivors"".
+2) The authors used the the verb ""has a significant negative effect"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Daily consumption of 3\\xa0g of soluble fiber from 70\\xa0g\\xa0of oats leads to beneficial effects on the lipid parameters, specifically total cholesterol and low-density lipoprotein cholesterol in hypercholesterolemic Asian Indians.","
+1) The sentence describes the relationship between ""daily consumption of 3 g of soluble fiber from 70 g of oats"" and ""beneficial effects on the lipid parameters"".
+2) The authors used the the verb ""leads to"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Biological therapies increased the level of the anti-atherogenic lipid apoA1.,"
+1) The sentence describes the relationship between ""biological therapies"" and ""the level of the anti-atherogenic lipid apoA1"".
+2) The authors used the the verb ""increased"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Enteropathogens were found in only about half of the patients and the most common cause of PD was secondary lactase deficiency.,"
+1) The sentence describes the relationship between ""enteropathogens"" and ""the most common cause of PD"".
+2) The authors used the the verb ""found"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+3,Same-statin rechallenge was highly tolerable and efficacious.,"
+1) The sentence describes the relationship between ""same-statin rechallenge"" and ""tolerable and efficacious"".
+2) The authors used the the verb ""was"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"IMT ameliorates pHDL index and significantly improves anti-oxidative  function, as measured by PON1.","
+1) The sentence describes the relationship between ""IMT"" and ""PON1"".
+2) The authors used the the verb ""ameliorates"" and ""improves"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Given that supplementation with vitamin D (Â± calcium) has been shown to reduce the risk of fragility fractures and improve fracture healing, monitoring of 25-OH vitamin D and supplementation should be considered in patients with fractures.","
+1) The sentence describes the relationship between ""supplementation with vitamin D (Â± calcium)"" and ""the risk of fragility fractures and improve fracture healing"".
+2) The authors used the the verb ""reduce"" and ""improve"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Coronary artery disease negatively influences the cumulative patency of vascular access.,"
+1) The sentence describes the relationship between ""coronary artery disease"" and ""the cumulative patency of vascular access"".
+2) The authors used the the verb ""negatively influences"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,HbA1c-CV improves 3-year prediction of new-onset albuminuria.,"
+1) The sentence describes the relationship between ""HbA1c-CV"" and ""new-onset albuminuria"".
+2) The authors used the the verb ""improves"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"In this multicenter, prospective analysis, the authors found no significant acellular dermal matrix effects on complications, time to exchange, or patient-reported outcome in immediate expander/implant breast reconstruction.","
+1) The sentence describes the relationship between ""acellular dermal matrix"" and ""complications, time to exchange, or patient-reported outcome in immediate expander/implant breast reconstruction"".
+2) The authors used the the verb ""found no significant"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,PDS and NACT plus IDS achieved comparable results in terms of progression-free and OS in patients with advanced EOC.,"
+1) The sentence describes the relationship between ""PDS and NACT plus IDS"" and ""progression-free and OS in patients with advanced EOC"".
+2) The authors used the the verb ""achieved"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"However, the effects on ultrafiltration and fluid accumulation disappear with time.","
+1) The sentence describes the relationship between ""ultrafiltration and fluid accumulation"" and ""disappear with time"".
+2) The authors used the the verb ""disappear"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Moreover, the benefit varies according to the adiponectin basal level and adiponectin variation after supplementation.","
+1) The sentence describes the relationship between ""adiponectin basal level and adiponectin variation after supplementation"" and ""the benefit"".
+2) The authors used the the verb ""varies"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Whey-protein supplementation also lowered 24-h ambulatory SBP and DBP.,"
+1) The sentence describes the relationship between ""whey-protein supplementation"" and ""24-h ambulatory SBP and DBP"".
+2) The authors used the the verb ""lowered"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Possibly the polyphenols and DF contributed to the beneficial effects.,"
+1) The sentence describes the relationship between ""polyphenols and DF"" and ""beneficial effects"".
+2) The authors used the the verb ""contributed"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"The NFFD prenatal combined lifestyle intervention had a significant effect on TPA-level in late pregnancy among women entering pregnancy normal-weight or physically active, thereby preventing the downward trend typically seen during pregnancy.","
+1) The sentence describes the relationship between ""NFFD prenatal combined lifestyle intervention"" and ""TPA-level in late pregnancy"".
+2) The authors used the the verb ""had a significant effect"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Severe childhood diarrhea is mostly caused by rotavirus infection.,"
+1) The sentence describes the relationship between ""severe childhood diarrhea"" and ""rotavirus infection"".
+2) The authors used the the verb ""caused"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"""Robotic procedure was feasible and could be implemented for treating  the first setting of mixed indications for gynecologic surgery.""","
+1) The sentence describes the relationship between ""robotic procedure"" and ""treating the first setting of mixed indications for gynecologic surgery"".
+2) The authors used the the verb ""could be implemented"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"""In this randomised trial, adjuvant treatment using tamoxifen for 2 years reduced the incidence of contralateral breast cancer by 50% in all premenopausal women, and by 90% in women <40 years of age.""","
+1) The sentence describes the relationship between ""adjuvant treatment using tamoxifen for 2 years"" and ""the incidence of contralateral breast cancer"".
+2) The authors used the the verb ""reduced"", which suggests that there is a direct effect between them.
+3) The authors also provided a numerical value to quantify the effect, which further suggests that there is a direct effect between them.
+4) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Intake of flavanols and flavanones increases milk oxidation risk, which is relevant to develop diet recommendations.","
+1) The sentence describes the relationship between ""intake of flavanols and flavanones"" and ""milk oxidation risk"".
+2) The authors used the the verb ""increases"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"ESG delays gastric emptying, induces early satiation, and significantly reduces body weight.","
+1) The sentence describes the relationship between ""ESG"" and ""body weight"".
+2) The authors used the the verb ""reduces"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Preconception counseling and clinical care to obtain a healthy weight prior to pregnancy along  with routine obstetric care on gestational weight gain is critical to improve birth outcomes.,"
+1) The sentence describes the relationship between ""preconception counseling and clinical care to obtain a healthy weight prior to pregnancy"" and ""improve birth outcomes"".
+2) The authors used the the verb ""improve"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"In particular, prefrailty and body mass index were key factors that affected nutritional status in older adults.","
+1) The sentence describes the relationship between ""prefrailty and body mass index"" and ""nutritional status in older adults"".
+2) The authors used the the verb ""affected"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"""RGPC did not appear to directly affect general risk-taking behaviors  or STIs, since it focuses on diabetes and reproductive health issues.""","
+1) The sentence describes the relationship between ""RGPC"" and ""general risk-taking behaviors or STIs"".
+2) The authors used the the verb ""did not appear to directly affect"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,"Collectively, these findings indicate that energy-matched high intensity and moderate intensity exercise are effective at decreasing IHL and NAFLD risk that is not contingent upon reductions in abdominal adiposity or body  mass.","
+1) The sentence describes the relationship between ""energy-matched high intensity and moderate intensity exercise"" and ""decreasing IHL and NAFLD risk"".
+2) The authors used the the verb ""effective"", which suggests that there is a direct effect between them.
+3) The authors also used the phrase ""not contingent upon reductions in abdominal adiposity or body mass"" to indicate that the effect is not dependent on other factors.
+4) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Caffeine intake reduced the odds of prevalent ED, especially an intake equivalent to approximately 2-3 daily cups of coffee (170-375 mg/day).","
+1) The sentence describes the relationship between ""caffeine intake"" and ""the odds of prevalent ED"".
+2) The authors used the the verb ""reduced"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Stosstherapy is a safe, cheap and effective method of treating nutritional rickets.","
+1) The sentence describes the relationship between ""Stosstherapy"" and ""treating nutritional rickets"".
+2) The authors used the the verb ""effective"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,The effect of a LGI diet was similar to a high-cereal fibre diet on  hs-cTnI and galectin-3 levels in otherwise healthy individuals with T2DM over a 6-month period.,"
+1) The sentence describes the relationship between ""LGI diet"" and ""hs-cTnI and galectin-3 levels"" in individuals with T2DM.
+2) The authors used the the verb ""similar"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+3,Eyes with previous surgical procedure was prone to CCD occurrence and longer axial length was protective against CCD.,"
+1) The sentence describes the relationship between ""previous surgical procedure"" and ""CCD occurrence"" and ""longer axial length"" and ""protective against CCD"".
+2) The authors used the the verb ""prone"" and ""protective"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"""3D MRI reconstruction after NAC could accurately detects the residual tumors after neoadjuvant chemotherapy, and contribute to select patients who received breast conserving therapy after NAC with tumor downstaging.""","
+1) The sentence describes the relationship between ""3D MRI reconstruction after NAC"" and ""selecting patients who received breast conserving therapy after NAC with tumor downstaging"".
+2) The authors used the the verb ""contribute"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,This study suggests that known genetic risk variants contribute a significant but small amount to overall T2D risk variation in Malaysian population groups.,"
+1) The sentence describes the relationship between ""known genetic risk variants"" and ""overall T2D risk variation"".
+2) The authors used the the verb ""contribute"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Clozapine is of benefit in reducing the clinical severity of ASPD.,"
+1) The sentence describes the relationship between ""Clozapine"" and ""the clinical severity of ASPD"".
+2) The authors used the the verb ""reducing"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"The risk was similar to that in smokers, implying that smokers will not reduce their risk of type 2 diabetes by changing to snus use.","
+1) The sentence describes the relationship between ""smokers"" and ""the risk of type 2 diabetes"".
+2) The authors used the the verb ""implying"", which suggests that there is a correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+3,"The presence of a multidisciplinary rehabilitation nutrition team increased the frequency of sarcopenia evaluation and practice of rehabilitation nutrition.J. Med.Invest.64: 140-145, February, 2017.","
+1) The sentence describes the relationship between ""the presence of a multidisciplinary rehabilitation nutrition team"" and ""the frequency of sarcopenia evaluation and practice of rehabilitation nutrition"".
+2) The authors used the the verb ""increased"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Use of exergaming in community pediatric weight management did not improve weight status at the end of programming, and study implementation was limited by small sample and missing data.","
+1) The sentence describes the relationship between ""use of exergaming"" and ""weight status"".
+2) The authors used the the verb ""did not improve"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,The presence of an in situ stent did not interfere with surgery.,"
+1) The sentence describes the relationship between ""the presence of an in situ stent"" and ""surgery"".
+2) The authors used the the verb ""did not interfere"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,"Undernutrition did not increase the risk of death; however, it did increase the relative risk for a longer hospital stay by 2.5.","
+1) The sentence describes the relationship between ""undernutrition"" and ""a longer hospital stay"".
+2) The authors used the the verb ""increase"", which suggests that there is a direct effect between them.
+3) The authors also provided a numerical value (2.5) to quantify the effect.
+4) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Lower bodylift is the only procedure, which can restore circumferential body contour.","
+1) The sentence describes the relationship between ""lower bodylift"" and ""restore circumferential body contour"".
+2) The authors used the the verb ""can"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Both functional and anatomical effects were observed in the first 3 months after injection.,"
+1) The sentence describes the relationship between ""injection"" and ""functional and anatomical effects"".
+2) The authors used the the verb ""observed"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Ziv-aflibercept appears to be safe and effective in patients with refractory DME previously treated with other anti-VEGF agents in the short term.,"
+1) The sentence describes the relationship between ""Ziv-aflibercept"" and ""patients with refractory DME previously treated with other anti-VEGF agents"".
+2) The authors used the the verb ""appears to be safe and effective"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"â€œMetformin decreased the BMI z score and improved inflammatory and cardiovascular-related obesity parameters only in prepubertal children, but a differential effect of metformin was not observed in prepubertal compared to pubertal children.","
+1) The sentence describes the relationship between ""metformin"" and ""BMI z score, inflammatory and cardiovascular-related obesity parameters"".
+2) The authors used the the verb ""decreased"" and ""improved"", which suggests that there is a direct effect between them.
+3) However, the authors also stated that the effect was only observed in prepubertal children, which suggests that the effect is conditional.
+4) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+3,"Based on the results of this study, health coaching improved the QoL of T2D and CAD patients with moderate costs.","
+1) The sentence describes the relationship between ""health coaching"" and ""the QoL of T2D and CAD patients"".
+2) The authors used the the verb ""improved"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"In a 12-week clinical trial in overweight adults, YY-312 resulted in significantly greater reduction in body fat vs. placebo, while being safe and well tolerated.","
+1) The sentence describes the relationship between ""YY-312"" and ""reduction in body fat"".
+2) The authors used the the verb ""resulted in"", which suggests that there is a direct effect between them.
+3) The authors also used the phrase ""significantly greater"" to emphasize the effect.
+4) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"The interaction of green tea consumption and non obesity have reduced risk of lacunar infarction, but not after adjustment for age, diet factors, vascular risk factors and atherogenic index.","
+1) The sentence describes the relationship between ""green tea consumption and non obesity"" and ""the risk of lacunar infarction"".
+2) The authors used the the verb ""reduced"", which suggests that there is a direct effect between them.
+3) However, the authors also mentioned that the effect was not seen after adjustment for other factors, which suggests that the effect is conditional.
+4) Therefore, the sentence expresses conditional causation only.
+Answer: 3 - conditional causation"
+3,"At the doses given, the two amino acids did not affect subjective appetite feelings.","
+1) The sentence describes the relationship between ""the two amino acids"" and ""subjective appetite feelings"".
+2) The authors used the the verb ""did not affect"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,"On the other hand, harbouring 6R-tetrahydrobiopterin responsive genotypes did not predispose patients to better physical outcomes.","
+1) The sentence describes the relationship between ""harbouring 6R-tetrahydrobiopterin responsive genotypes"" and ""better physical outcomes"".
+2) The authors used the the verb ""did not predispose"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,"Although the register has not been reported to improve care coordination, it has contributed to increased reported prevalence of gestational  diabetes among high risk Aboriginal women, in a routinely collected jurisdiction-wide pregnancy dataset.","
+1) The sentence describes the relationship between ""the register"" and ""increased reported prevalence of gestational diabetes among high risk Aboriginal women"".
+2) The authors used the the verb ""contributed to"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"""Our results support the theory that in most cases neither DP nor torticollis is congenital, but rather develops and worsens synergistically in early infancy.""","
+1) The sentence describes the relationship between ""DP nor torticollis"" and ""develops and worsens synergistically in early infancy"".
+2) The authors used the the verb ""support"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,The high rates of stunting generally observed in indigenous children may fuel the acquisition of respiratory bacteria that can lead to respiratory and invasive disease.,"
+1) The sentence describes the relationship between ""high rates of stunting"" and ""the acquisition of respiratory bacteria"".
+2) The authors used the the verb ""fuel"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Ezetimibe increased the efficiency of reverse cholesterol transport  from rapidly mixing plasma and tissue pools into the stool.,"
+1) The sentence describes the relationship between ""ezetimibe"" and ""the efficiency of reverse cholesterol transport"".
+2) The authors used the the verb ""increased"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Findings reinforce the key role of MVPA for childrens health.,"
+1) The sentence describes the relationship between ""MVPA"" and ""childrens health"".
+2) The authors used the the verb ""reinforce"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,(2) It shows that DBT can improve conspicuity of ILC.,"
+1) The sentence describes the relationship between ""DBT"" and ""the improvement of conspicuity of ILC"".
+2) The authors used the the verb ""improve"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"""The effect of tamoxifen was not significantly dependent on time.""","
+1) The sentence describes the relationship between ""tamoxifen"" and ""time"".
+2) The authors used the the verb ""not significantly dependent"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,"""Weight reduction is an effective treatment for overweight and obese  women with UI.""","
+1) The sentence describes the relationship between ""weight reduction"" and ""overweight and obese women with UI"".
+2) The authors used the the verb ""effective"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"While LSG weakens the LES immediately, it does not predictably affect postoperative GERD symptoms; therefore, distensibility is not the only factor affecting development of postoperative GERD, confirming the multifactorial nature of post-LSG GERD.","
+1) The sentence describes the relationship between ""LSG"" and ""postoperative GERD symptoms"".
+2) The authors used the the verb ""does not affect"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,"Weight-based norepinephrine dosing using actual body weight did not result in more tachycardia in the morbidly obese compared to normal weight patients, despite greater total exposure.","
+1) The sentence describes the relationship between ""weight-based norepinephrine dosing using actual body weight"" and ""tachycardia in the morbidly obese compared to normal weight patients"".
+2) The authors used the the verb ""did not result in"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,Primary care nurses play a pivotal role in self-management support for patients with a chronic condition.,"
+1) The sentence describes the relationship between ""primary care nurses"" and ""self-management support for patients with a chronic condition"".
+2) The authors used the the verb ""play a pivotal role"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Correct and meticulous placement of the flap inside the cystic cavity is the most critical issue for the success of the procedure.,"
+1) The sentence describes the relationship between ""correct and meticulous placement of the flap inside the cystic cavity"" and ""the success of the procedure"".
+2) The authors used the the verb ""is"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Both COC use and higher BMI increase risk for VTE, and the greatest relative risks are for those with both risk factors based on a body of evidence graded as Level II-2, fair to poor  quality.","
+1) The sentence describes the relationship between ""COC use"" and ""higher BMI"" and ""VTE"".
+2) The authors used the the verb ""increase"", which suggests that there is a direct effect between them.
+3) The authors also used the phrase ""greatest relative risks"" to indicate that the effect is significant.
+4) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Our findings suggest that DPP-4i use did not increase the risk of HF compared with sulfonylurea.,"
+1) The sentence describes the relationship between ""DPP-4i use"" and ""the risk of HF"".
+2) The authors used the the verb ""did not increase"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,Prescribing micronutrient-fortified SQ-LNS to ill children presenting for primary care in rural Gambia had a very small effect on linear growth and did not reduce morbidity compared to unfortified SQ-LNS.,"
+1) The sentence describes the relationship between ""prescribing micronutrient-fortified SQ-LNS"" and ""linear growth and morbidity"".
+2) The authors used the the verb ""had a very small effect"" and ""did not reduce"", which suggests that there is a weak correlation between them.
+3) Therefore, the sentence expresses correlation only.
+Answer: 2 - correlation"
+3,"The present data suggest that elastic resistance exercise exerted benefits on the body composition, MQ, and physical function in patients with sarcopenic obesity.","
+1) The sentence describes the relationship between ""elastic resistance exercise"" and ""benefits on the body composition, MQ, and physical function"".
+2) The authors used the the verb ""exerted"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,The presence and severity of ERM was not affected by RZB treatment.,"
+1) The sentence describes the relationship between ""RZB treatment"" and ""the presence and severity of ERM"".
+2) The authors used the the verb ""not affected"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,"Treatment with tocilizumab and rituximab reduces PWV, a marker of CVD risk, in patients with RA.","
+1) The sentence describes the relationship between ""treatment with tocilizumab and rituximab"" and ""PWV, a marker of CVD risk"".
+2) The authors used the the verb ""reduces"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Among patients with atherosclerotic vascular disease who were receiving intensive statin therapy, the use of anacetrapib resulted in a lower incidence of major coronary events than the use of placebo.","
+1) The sentence describes the relationship between ""the use of anacetrapib"" and ""a lower incidence of major coronary events"".
+2) The authors used the the verb ""resulted in"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"Surgical, but not medical treatment, consistently led to clinically important improvements in HRQL  over two years.","
+1) The sentence describes the relationship between ""surgical treatment"" and ""clinically important improvements in HRQL"".
+2) The authors used the the verb ""led to"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,"""Vildagliptin is effective and well tolerated when added to a maximum  dose of pioglitazone, without increasing the risk of hypoglycaemia.""","
+1) The sentence describes the relationship between ""Vildagliptin"" and ""the risk of hypoglycaemia"".
+2) The authors used the the verb ""increasing"", which suggests that there is a direct effect between them.
+3) When describing the effect, the authors also used the phrase ""without increasing"" to indicate that the effect is not present.
+4) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,Surgical weight loss resulted in the significant improvement of OSA  associated with obesity.,"
+1) The sentence describes the relationship between ""surgical weight loss"" and ""the improvement of OSA associated with obesity"".
+2) The authors used the the verb ""resulted in"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Pregnancy does not lead to immediate or medium-term adverse effects  for CF patients.,"
+1) The sentence describes the relationship between ""pregnancy"" and ""immediate or medium-term adverse effects for CF patients"".
+2) The authors used the the verb ""does not lead to"", which suggests that there is no direct effect between them.
+3) Therefore, the sentence expresses no relationship.
+Answer: 1 - no relationship"
+3,Intake of TFAs is high in Iranian homes and contributes to a sizeable proportion of CHD events.,"
+1) The sentence describes the relationship between ""intake of TFAs"" and ""CHD events"".
+2) The authors used the the verb ""contributes"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Messages focused on diabetes were effective at increasing enrolment  in a healthy food programme.,"
+1) The sentence describes the relationship between ""messages focused on diabetes"" and ""enrolment in a healthy food programme"".
+2) The authors used the the verb ""effective"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"
+3,Our study highlights the role of total cholesterol and blood inflammatory marker levels in enhancing ETP in morbidly obese patients.,"
+1) The sentence describes the relationship between ""total cholesterol and blood inflammatory marker levels"" and ""ETP in morbidly obese patients"".
+2) The authors used the the verb ""enhancing"", which suggests that there is a direct effect between them.
+3) Therefore, the sentence expresses direct causation.
+Answer: 4 – direct causation"

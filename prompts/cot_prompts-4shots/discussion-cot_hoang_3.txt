@@ -1,0 +1,15 @@
+CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?. Let's think step by step.
+REASONING: The context indicates that Shan is enthusiastic about chatGPT. He also loves to use ChatGPT in creating regular expressions that help extract targeted texts. And his office was flooded in February.
+ANSWER: no advice.
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+REASONING: The context indicates that Hoang just started his research fellow in Feburary. He hopes his office will not be flooded.
+ANSWER: strong advice.
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+REASONING: The context indicates that Daniella is very thoughtful. She is also enthusiastic about using ChatGPT in clearning the office that was flooded in February.
+ANSWER: weak advice.
+

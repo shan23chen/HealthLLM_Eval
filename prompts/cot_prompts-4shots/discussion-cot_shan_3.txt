@@ -1,0 +1,24 @@
+CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding.
+QUESTION: is this a 2) strong advice, 1) weak advice 0) no advice?
+Let’s think step by step: 
+1) The statement is not a directive, so it is not a strong advice. 
+2) The statement does not offer any specific advice, so it is not a weak advice either. 
+3) Therefore, the statement is not an advice at all, but rather a cautionary statement. 
+Answer: 0) No advice.
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients.
+QUESTION: is this a 2) strong advice, 1) weak advice 0) no advice?
+Let’s think step by step: 
+1) The statement is a directive, so it is a strong advice. 
+2) The statement is specific and clear, so it is not a weak advice. 
+3) Therefore, the statement is a strong advice. 
+Answer: 2) Strong advice.
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTION: is this a 2) strong advice, 1) weak advice 0) no advice?
+Let’s think step by step: 
+1) The statement is not a directive, so it is not a strong advice. 
+2) The statement does not offer any specific advice, but rather suggests that ANP could be used to prevent cancer recurrence, so it is a weak advice. 
+3) Therefore, the statement is a weak advice. 
+Answer: 1) Weak advice.
+

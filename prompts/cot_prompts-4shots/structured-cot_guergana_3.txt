@@ -1,0 +1,15 @@
+CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step:
+REASONING: The sentence states a conclusion of a study and further research . There is no particular health advice expressed, although health-related concepts like T2D are mentioned. Therefore, of the three health advice options listed the correct one is no health advice.
+ANSWER: no health advice
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step:
+REASONING: The sentence uses stong affirmation words "recommend" and "should" in relation to taking medications. Therefore, a strong health advice is recorded. Therefore, of the three health advice options listed the correct one is strong health advice.
+ANSWER: strong health advice
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy. 
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice? Let’s think step by step:
+REASONING: The sentence is related to health. It signals advice by using a weak affirmation word "would". Therefore, of the three health advice options listed the correct one is weak health advice. 
+ANSWER: weak health advice
+

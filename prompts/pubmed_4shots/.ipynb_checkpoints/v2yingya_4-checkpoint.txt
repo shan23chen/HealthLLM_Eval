@@ -1,0 +1,16 @@
+CONTEXT: The high rate of text message usage makes it feasible to recruit YAMs for a prospective study in which personalized text messages are used to promote healthy behaviours.
+QUESTION: Does 1 - correlation, 2 - conditional causation, or 3 – direct causation expressed in the sentence, or it is a 0 - no relationship sentence?
+ANSWER: 0 - No claim
+
+CONTEXT: The incidence of falls and poor quality of life may be partially associated with the presence of depression.
+QUESTION: Does 1 - correlation, 2 - conditional causation, or 3 – direct causation expressed in the sentence, or it is a 0 - no relationship sentence?
+ANSWER: 1 - Correlational
+
+CONTEXT: Our study provides preliminary evidence that mothers who consume diets higher in fruit and lower in fried foods and cured meats during pregnancy may reduce the risk of unilateral retinoblastoma in their offspring.
+QUESTION: Does 1 - correlation, 2 - conditional causation, or 3 – direct causation expressed in the sentence, or it is a 0 - no relationship sentence?
+ANSWER: 2 - Conditional causal
+
+CONTEXT: The nutritional course for patients undergoing colon surgery can be improved by implementing early oral nutritional supplements in the PACU.
+QUESTION: Does 1 - correlation, 2 - conditional causation, or 3 – direct causation expressed in the sentence, or it is a 0 - no relationship sentence?
+ANSWER: 3 - Direct causal
+

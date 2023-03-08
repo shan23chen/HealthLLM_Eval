@@ -1,0 +1,25 @@
+CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding.
+QUESTION: Does this claim have (2) strong advice, (1) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim is talking about limitations of the current study.
+2) The claim does not have any actionable suggestions for health-related clinical or policy changes.
+3) Therefore, the claim does not have strong or weak advice. It is a no advice statement.
+ANSWER: (0) no advice.
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients.
+QUESTION: Does this claim have (2) strong advice, (1) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion related to the implementation of an intervention.
+2) When describing the suggestion, the authors used modal word "should", which indicates the strength of the suggestion and it is strong.
+3) Therefore, the claim has strong advice.
+ANSWER: (2) strong advice.
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTION: Does this claim have (2) strong advice, (1) weak advice, or there is (0) no advice?
+Let’s think step by step: 
+1) The claim has an actionable suggestion for the use of ANP to prevent cancer recurrence after surgery.
+2) When describing the suggestion, the authors used a hedged phrase "could potentially be used to", which indicates the strength of the claim is not strong but weak.
+3) Therefore, the claim has weak advice. 
+ANSWER: (1) weak advice.
+
+ 

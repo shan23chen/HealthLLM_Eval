@@ -1,0 +1,18 @@
+CONTEXT: Third, although our study have taken a large number of potential confounders into consideration, we could not completely rule out the possibility of unmeasured confounding.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice?
+Let’s think step by step:
+REASONING: This sentence is a statement and does not express any advice. There is no mention of any health-related concepts. Therefore, of the three options listed the correct one is no health advice.
+ANSWER: no health advice
+
+CONTEXT: Georgian public health specialists working in the HIV field should prioritize implementation of such interventions among HIV patients.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice?
+Let’s think step by step:
+REASONING: The sentence uses "should" which implies strong advice in the context of a health condition HIV. Therefore, of the three options listed the correct one is strong health advice.
+ANSWER: strong health advice
+
+CONTEXT: Here we demonstrate that cancer recurrence after curative surgery was significantly lower in ANP-treated patients than in control patients, suggesting that ANP could potentially be used to prevent cancer recurrence after surgery.
+QUESTION: Does the sentence express weak health advice advice, strong health advice or no health advice?
+Let’s think step by step:
+REASONING: The sentence uses health-related concepts. The sentence uses the words "suggesting", "could", "potentially" which signal advice. However, because of "suggesting" and "potentially", the advice is weak. Therefore, of the three options listed the correct one is weak health advice.
+ANSWER: weak health advice
+

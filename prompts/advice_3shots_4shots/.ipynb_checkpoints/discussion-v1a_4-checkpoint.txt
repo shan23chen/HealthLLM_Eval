@@ -1,0 +1,16 @@
+CONTEXT: Although the widowed/divorced rate in Xinjiang currently accounts for approximately 5%, this group of people have a high risk of developing hypertension since they continue to experience serious work- and life-related stress [27,28].
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: No advice.
+
+CONTEXT: We therefore propose that maintaining depletion of B cells is a safer approach and guides individual patient response and improvement in pulmonary granulomatous manifestations in persistent disease, rather than total RTX dose administered.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: Weak advice.
+
+CONTEXT: Additionally, it is necessary to realize that not only the lung mechanics but also the hemodynamic effect of PEEP may influence the outcome of oxygenation.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: Strong advice.
+
+CONTEXT: In these circumstances the removal of the metal should be discussed in all patients with dorsal instrumentation after bony regrowth.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: Strong advice.
+

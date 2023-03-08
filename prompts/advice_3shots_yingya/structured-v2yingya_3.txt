@@ -1,0 +1,12 @@
+CONTEXT: Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: No advice.
+
+CONTEXT: Since blood pressure problems run a worse course in Blacks, we recommend encouragement of night-time intake in those preferring it and suggest that in those requiring two or more drugs one should be taken at night.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: Strong advice.
+
+CONTEXT: Therefore, this regimen would be a viable option for acne treatments either as monotherapy or as combination therapy.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: Weak advice.
+

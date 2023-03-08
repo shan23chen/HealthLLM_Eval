@@ -1,0 +1,15 @@
+CONTEXT: In our study, we showed that daily intake of 43 g walnuts over eight weeks significantly affected the gut microbiome by enhancing probiotic- and butyric acid-producing bacteria in healthy individuals.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: No advice.
+
+CONTEXT: The underlying neuropathology most frequently belongs to a subtype of frontotemporal lobar degeneration characterized by abnormal deposits of the transactive response DNA-binding protein 43 (Rohrer et al, 2010).
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: No advice.
+
+CONTEXT: These questions require valid answers to modify or intensify the current anticoagulation management of COVID-19 patients accordingly.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: Strong advice.
+
+CONTEXT: The importance of early diagnosis and screening tools can be explained properly, and in Turkey, services can be provided particularly to those who live in lower socioeconomic conditions.
+QUESTION: Is this a (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: Weak advice.

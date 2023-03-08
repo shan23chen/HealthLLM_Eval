@@ -1,0 +1,12 @@
+CONTEXT: Approximately, one in six patients were diagnosed with a psychiatric comorbidity preoperatively.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: No advice.
+
+CONTEXT: Surgeon-performed ultrasound is an accurate modality for localizing abnormal parathyroid glands in patients with PHPT, with results that compare favorably with other parathyroid imaging modalities.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: Weak advice.
+
+CONTEXT: The dose to the anal sphincter region should be taken into account when generating treatment-plans.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: Strong advice.
+

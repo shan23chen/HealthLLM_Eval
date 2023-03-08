@@ -1,0 +1,16 @@
+CONTEXT: Adjusting for testosterone and SHBG concentrations did not substantially alter the odds ratio for oestradiol.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: No advice.
+
+CONTEXT: Of the 247 transplants, 9.3% used KIR best, 19% used KIR better, and 48% used KIR neutral donors while 24% used a non-KIR-tested donor.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: No advice.
+
+CONTEXT: We recommend gas calibration of the CDI before use in the period before in-vivo calibration.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: Strong advice.
+
+CONTEXT: NLR may be a predictive marker of PIR and could be used as a cost-effective parameter for identifying women at risk of PIR.
+QUESTION: Does this claim have (0) no advice, (1) weak advice, or there is a (2) strong advice?
+ANSWER: Weak advice.
+
