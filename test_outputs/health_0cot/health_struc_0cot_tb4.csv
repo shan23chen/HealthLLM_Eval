@@ -1,0 +1,45 @@
+label,context,output,fold
+1,"This finding suggests that the five ear acupuncture points, generally used in Korean clinics, and the Hunger point alone treatment are both effective for treating overweight people.","
+
+1. Does the sentence provide a recommendation or suggestion for medical treatment? 
+
+Yes, it suggests that both the five ear acupuncture points and the Hunger point alone treatment are effective for treating overweight people. 
+
+2. Does the sentence provide evidence or support for the recommendation or suggestion? 
+
+Yes, it states that a finding suggests that both treatments are effective. 
+
+Based on these two factors, the sentence can be labeled as weak medical advice. While it suggests a treatment option, it does not provide strong or conclusive evidence to support it.",2
+1,The efficacy and safety of drotaverine as analgesic in renal colic is noninferior to diclofenac and may be used as an alternative or add-on therapy to currently available options.,"
+
+1. Does the sentence provide a recommendation or suggestion for medical treatment? 
+
+Yes, it suggests that drotaverine can be used as an alternative or add-on therapy for renal colic. 
+
+2. Does the sentence provide evidence or support for the recommendation or suggestion? 
+
+Yes, it states that the efficacy and safety of drotaverine is noninferior to diclofenac. 
+
+3. Does the sentence use strong or weak language to convey the recommendation or suggestion? 
+
+The sentence uses moderate language, suggesting that drotaverine may be used as an alternative or add-on therapy. It does not make a strong or definitive recommendation. 
+
+Therefore, the sentence can be classified as weak medical advice.",2
+0,"Providing kilocalories per kilogram or grams of protein per kilogram early post-ALI diagnosis at recommended levels was associated with significantly  higher hazards for mortality, whereas higher late energy intakes reduced mortality hazards.","
+
+1. Does the sentence provide any medical advice? 
+
+Yes, the sentence provides some medical advice regarding the recommended levels of kilocalories and protein intake for patients with ALI (acute lung injury) and their association with mortality hazards.
+
+2. Is the medical advice strong or weak? 
+
+The medical advice provided in the sentence is not strong or weak. It is simply a statement of the findings of a study, which suggests that early high intake of kilocalories or protein may increase mortality hazards, while higher late energy intakes may reduce mortality hazards. The sentence does not make any specific recommendations or guidelines for clinical practice.
+
+3. Can the sentence be used as a basis for making clinical decisions? 
+
+No, the sentence alone cannot be used as a basis for making clinical decisions. It is important to consider the full context of the study, including its methodology, sample size, and other relevant factors, before making any clinical decisions based on its findings. Additionally, individual patient factors and preferences should also be taken into account when making clinical decisions.",2
+2,"We concluded that in treatment of hydatid cyst, albendazole should be continued at least for 3 months preoperatively and if still viable scoleces are identified, medical treatment should follow the surgical intervention at least for 1 month to decrease the possibility of residual cysts and recurrence.","
+
+1. ""We concluded that in treatment of hydatid cyst, albendazole should be continued at least for 3 months preoperatively"" - Strong medical advice
+2. ""If still viable scoleces are identified, medical treatment should follow the surgical intervention at least for 1 month to decrease the possibility of residual cysts and recurrence."" - Strong medical advice
+3. Overall, the sentence provides strong medical advice.",2
