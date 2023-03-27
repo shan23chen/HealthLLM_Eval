@@ -1,0 +1,63 @@
+label,context,output,fold
+0,Frailty in particular was identified as a major risk factor for malnutrition in community-dwelling elderly  persons.,"
+
+ANSWER:
+1. The statement provides information about a risk factor for malnutrition in a specific population.
+2. The use of ""identified as a major risk factor"" suggests that the advice is strong.
+3. The answer is strong advice.",0
+0,Neuropathy appears to be associated with the length of exposure to new AEDs.,"
+
+ANSWER:
+1. The term ""appears to be associated"" indicates that there is an advice in the context.
+2. ""Appears to be"" indicates that the opinion is not certain.
+3. The answer is weak advice.",0
+0,They must first determine whether a small intake of TFA from PHVO is safe and what constitutes a safe amount.,"
+
+ANSWER:
+1. The phrase ""must first determine"" indicates that there is advice in the context.
+2. The use of ""must"" suggests that the advice is strong and imperative.
+3. The answer is strong advice.",0
+0,Other measures such as efficiency and cost-effectiveness of the mode should also be considered when determining the most appropriate form of data collection for use in monitoring indicators of cancer detection and control.,"
+
+ANSWER:
+1. The phrase ""should also be considered"" indicates that there is advice in the context.
+2. The use of ""most appropriate"" suggests that the advice is strong.
+3. The answer is strong advice.",0
+1,"However, around one-quarter of the children did not respond to this intervention and these children would appear to need more intensive or more prolonged help to improve their reading skills.","
+
+ANSWER:
+1. The term ""would appear to need"" indicates that there is an advice in the context.
+2. ""More intensive or more prolonged help"" suggests that the advice is strong.
+3. The answer is strong advice.",0
+2,"Because of the uncertainties concerning the safety of ICSI, couples with moderate oligozoospermia or moderate oligoasthenozoospermia need not be subjected to this procedure.","
+
+ANSWER:
+1. The phrase ""need not be subjected to this procedure"" indicates that there is advice in the context.
+2. The use of ""need not"" suggests a strong recommendation against the procedure.
+3. The answer is strong advice.",0
+0,Longitudinal studies are needed in Switzerland to elucidate the causal relationships of these associations.,"
+
+ANSWER:
+1. The phrase ""are needed"" indicates that there is advice in the context.
+2. The use of ""are needed"" suggests that the advice is strong.
+3. The answer is strong advice.",0
+0,Doses of 300 mg or more (in single or multiple doses) significantly reduced levels of PCSK9 and LDL cholesterol for at least 6 months.,"
+
+ANSWER:
+
+1. The statement provides information about the effectiveness of a certain dose in reducing PCSK9 and LDL cholesterol levels.
+2. The use of the word ""significantly"" indicates that there is a strong suggestion or recommendation.
+3. The answer is strong advice.",0
+1,ANTHEM-HF should provide additional and valuable information regarding the safety and the relationship between the site and intensity of ART and its salutary effects on HF.,"
+
+ANSWER:
+1. The phrase ""should provide additional and valuable information"" indicates that there is advice in the context.
+2. ""Should"" indicates that the opinion is not a strong recommendation, but rather a suggestion or expectation.
+3. The answer is weak advice.",0
+2,"Social family support, emotional and financial difficulties should be investigated in all Moroccan breast cancer patients, especially among younger  ones, in order to detect those at risk of PD and offer them appropriate support.","
+
+ANSWER:
+1. The phrase ""should be investigated"" indicates that there is advice in the context.
+2. The use of ""especially among younger ones"" suggests that the advice is specific and targeted.
+3. The recommendation to ""detect those at risk of PD and offer them appropriate support"" is a clear and actionable suggestion.
+4. The answer is a strong advice.",0

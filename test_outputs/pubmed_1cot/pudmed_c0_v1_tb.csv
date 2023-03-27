@@ -1,0 +1,1343 @@
+label,context,output,fold
+0,"A McMahon score of at least 6 calculated on admission allows for a more sensitive, specific and timely identification of patients who may benefit from high-volume fluid resuscitation.","
+
+REASONING: This sentence suggests that using a McMahon score of at least 6 can help identify patients who may benefit from high-volume fluid resuscitation. However, it doesn't establish a direct causal relationship between the score and the benefit of the treatment. It only suggests that the score can be used as a tool to identify patients who may benefit. 
+
+ANSWER: 2) Conditional causal",0
+1,The rs7903146 (C/T) polymorphism of the TCF7L2 gene might not be associated with obesity in the Cameroonian population.,"
+
+REASONING: This sentence suggests that there may not be a correlation between the TCF7L2 gene polymorphism and obesity in the Cameroonian population. It does not establish a causal relationship or suggest any conditions that would lead to a causal relationship. 
+
+ANSWER: 1) Correlational",0
+1,"A fifth of patients with a negative CDS of the TAs had signs of vasculitis on the CDS of the FaA, or OcA.","
+
+REASONING: This sentence describes a correlation between negative CDS of the TAs and signs of vasculitis on the CDS of the FaA or OcA. It does not establish a causal relationship between the two variables. 
+ANSWER: 1) Correlational",0
+1,We observed an association between EH/EC and a history of gestational diabetes specific to younger women.,"
+
+REASONING: The sentence describes an association between two variables, but it does not establish a causal relationship. It only suggests that there may be a relationship between a history of gestational diabetes and EH/EC in younger women.
+ANSWER: 1) Correlational",0
+1,The CHA2DS2-VASc tool predicts thromboembolic events and overall mortality in patients without atrial fibrillation who have implantable devices.,"
+
+REASONING: This sentence describes a tool that is used to predict outcomes in patients with implantable devices. It doesn't establish any causative relationship between the tool and the outcomes it predicts. 
+ANSWER: 1) Correlational",0
+0,"""This study provides cross-sectional data confirming the existence of the IRS in native Hawaiians.""","
+
+REASONING: The sentence describes the results of a study that confirms the existence of a phenomenon (the IRS) in a specific population (native Hawaiians). It doesn't establish any causative relationship or suggest any intervention or manipulation of variables. 
+
+ANSWER: 1) Correlational",0
+0,IMPACT: This study eliminates the previously suggested marker ApoD as a predictor of recurrence among tamoxifen-treated women.,"
+
+REASONING: The sentence describes the impact of a study and states that a previously suggested marker is no longer a predictor of recurrence. It doesn't establish any causative relationship between the marker and recurrence. 
+
+ANSWER: 0) None",0
+0,"""Because a biopsy is indicated for persistent palpable masses, the addition of diagnostic MRI only adds another step, with associated costs and burdens.""","
+
+REASONING: This sentence explains that adding a diagnostic MRI to the process of diagnosing persistent palpable masses only adds more steps and associated costs and burdens. It does not establish any causative relationship between the biopsy and the MRI. 
+
+ANSWER: 0) None",0
+0,These data inform follow-up practises aimed at optimizing outcomes.,"
+
+REASONING: This sentence suggests that the data collected will be used to inform follow-up practices, but it doesn't establish any causative relationship between the data and the outcomes. 
+ANSWER: 0) None",0
+3,"This inverse association can be partially explained by the beneficial effects of physical activity on HDL-C, vitamin D, apolipoprotein B, and hemoglobin A1c.","
+
+REASONING: The sentence describes an inverse association between physical activity and certain health markers, and provides some possible explanations for this association. However, it does not establish a clear causal relationship between physical activity and these health markers. 
+
+ANSWER: 1) Correlational",0
+0,These results may have important implications for public health.,"
+
+REASONING: This sentence suggests that the results of a study may have significant consequences for public health, but it doesn't establish any causal relationship between the study and public health outcomes. 
+ANSWER: 0) None",0
+1,"We did not find any clinically relevant differences in the lipid profile, CRP, fasting blood glucose and other markers of atherosclerosis, between long-term consumption of red and white wine.","
+
+REASONING: This sentence describes the results of a study comparing the effects of long-term consumption of red and white wine on various health markers. It does not establish a causative relationship between wine consumption and these health markers, but rather reports on the lack of differences observed between the two types of wine. 
+
+ANSWER: 0) None",0
+2,Increased titers of cows milk antibody before anti-TG2A and celiac disease indicates that subjects with celiac disease might have increased intestinal permeability in early life.,"
+
+REASONING: The sentence suggests a correlation between increased titers of cows milk antibody and increased intestinal permeability in early life, but it does not establish a direct or causal relationship between the two. 
+ANSWER: 1) Correlational",0
+1,"Although both are characterized by increased intestinally derived lipoprotein particles, HDL is reduced only in SCH.","
+
+REASONING: This sentence describes a correlation between two variables (increased intestinally derived lipoprotein particles and reduced HDL) in a specific population (those with SCH). It does not establish a causal relationship or suggest any conditions that would lead to a causal relationship. 
+
+ANSWER: 1) Correlational",0
+3,We confirmed the clinical effectiveness of influenza vaccination in children aged 1-15 years from the 2010/2011 to 2013/2014 influenza seasons.,"
+
+REASONING: This sentence reports the results of a study that confirms the effectiveness of influenza vaccination in children aged 1-15 years. It doesn't establish a causative relationship, but it does suggest that there is a correlation between receiving the vaccine and a reduced risk of influenza infection. 
+
+ANSWER: 1) Correlational",0
+0,Interventions to  reduce indoor air pollution and to promote timely administration of measles vaccination are urgently needed to reduce the burden of severe pneumonia in children in Tanzania.,"
+
+REASONING: This sentence suggests that there is a causal relationship between indoor air pollution, measles vaccination, and severe pneumonia in children in Tanzania. The interventions are needed to reduce the burden of severe pneumonia, implying a direct causal relationship between the interventions and the reduction of pneumonia cases.
+ANSWER: 3) Direct causal",0
+3,The combination of rosuvastatin 10mg/ezetimibe 10mg was an effectively alternative therapy superior to rosuvastatin 20mg or 10mg with a greater effect on lowering LDL-C and a lower incidence of drug-related adverse events in Chinese patients.,"
+
+REASONING: This sentence describes the results of a study comparing different therapies and their effects on patients. It suggests a causal relationship between the combination therapy and its superior outcomes, but it doesn't establish a direct or conditional causal relationship. 
+ANSWER: 1) Correlational",0
+0,This paradox refers not only to 30-day overall mortality but also to 30-day cardiac and respiratory complications.,"
+
+REASONING: The sentence describes a paradox, which means there is a contradiction or inconsistency in the data. It doesn't establish any causative relationship between variables. 
+ANSWER: 0) None",0
+0,"The findings of this study substantiate the need for physical exercise to reduce  signs and symptoms associated with CVD risk, even among a young, healthy, generally active population.","
+
+REASONING: The sentence describes the findings of a study, which suggests a relationship between physical exercise and reduced signs and symptoms associated with CVD risk. However, it does not establish a direct causal relationship between the two variables. 
+ANSWER: 1) Correlational",0
+3,"This study found that 27OHC does not independently increase the risk of CHD, does not modify the increased risk of CHD resulting from MHT, and does not mediate the interaction of LDLC with MHT.","
+
+REASONING: The sentence describes the results of a study and the relationships between different variables, but it does not establish a clear causative relationship between them. 
+ANSWER: 1) Correlational",0
+3,High total serum cholesterol levels tend to increase graft failure rates whilst it did not influence implant failures.,"
+
+REASONING: This sentence describes a correlation between high total serum cholesterol levels and graft failure rates, but it does not establish a causal relationship. It also states that there is no influence on implant failures, which further supports the idea that this is a correlational relationship rather than a causal one. 
+ANSWER: 1) Correlational",0
+3,"This leads to substantial avoidance of adjuvant CTX in endocrine-sensitive, HER2-negative breast cancer.","
+
+REASONING: The sentence describes a consequence of a certain situation, but it doesn't establish any causative relationship or conditionality. 
+ANSWER: 0) None",0
+1,"Patients who are super obese are at increased risk for serious complications compared with patients with morbid obesity, whose risks are elevated relative to patients whose BMI is less than 40 kg/m2.","
+
+REASONING: This sentence describes a correlation between BMI and risk for complications, with higher BMI being associated with higher risk. It does not establish a causal relationship or suggest any conditions that would need to be met for the relationship to hold true. 
+
+ANSWER: 1) Correlational",0
+1,"Patients with older age, negative medication belief, polypharmacy, co-morbidities and those who were poorly involved in the therapeutic decision were more likely to experience DTP.","
+
+REASONING: This sentence describes factors that are associated with a higher likelihood of experiencing DTP (drug therapy problems), but it doesn't establish a clear causal relationship. It's possible that these factors contribute to DTP, but it's also possible that DTP contributes to these factors (e.g. poor involvement in therapeutic decisions could be a result of experiencing DTP). 
+ANSWER: 1) Correlational",0
+3,"Topical corticosteroids and antibiotics result in restoration of skin barrier integrity and decreased secondary infection.""","
+
+REASONING: The sentence suggests that the use of topical corticosteroids and antibiotics leads to two outcomes: restoration of skin barrier integrity and decreased secondary infection. However, it does not establish a clear causal relationship between the two outcomes. It is possible that the restoration of skin barrier integrity alone leads to decreased secondary infection, or that other factors are involved. Therefore, the relationship described in the sentence is correlational rather than causal. 
+
+ANSWER: 1) Correlational",0
+0,"Although conventional echocardiography revealed no difference between patients with type 1 DM and healthy children, TDE showed dysfunctions of  both ventricles.","
+
+REASONING: The sentence describes a difference in the results of two types of tests, but it doesn't establish a causative relationship between type 1 DM and ventricular dysfunction. It only suggests that TDE may be more sensitive in detecting such dysfunctions. 
+
+ANSWER: 1) Correlational",0
+0,This study indicated that nearly half of the children under five years in the study area were stunted.,"
+
+REASONING: This sentence presents a descriptive statistic about the prevalence of stunting among children in the study area. It doesn't establish any causal relationship or correlation between stunting and any other factor. 
+ANSWER: 0) None",0
+1,"In the subgroup analysis, significantly increased breast cancer risk  was identified among Caucasians.","
+
+REASONING: This sentence describes a correlation between being Caucasian and having an increased risk of breast cancer. It does not establish a causal relationship or suggest any conditions that might cause the increased risk. 
+ANSWER: 1) Correlational",0
+0,Weight status of intervention participants did not rebound 6 months after programming.,"
+
+REASONING: This sentence suggests that the weight status of intervention participants remained stable 6 months after the program, but it doesn't provide any information about the cause of this outcome. It could be due to the intervention, but it could also be due to other factors. Therefore, it doesn't establish a clear causal relationship. 
+
+ANSWER: 1) Correlational",0
+0,CNBS may be the more appropriate specimen type for immunohistochemical examination of phosphoprotein expression in invasive breast cancer.,"
+
+REASONING: This sentence suggests that CNBS may be a better specimen type for examining phosphoprotein expression in invasive breast cancer, but it doesn't establish any causative relationship between the two variables. 
+ANSWER: 0) None",0
+2,Additional analysis including inter-peak intervals and binocular summation ratio might improve the diagnostic power of VEP.,"
+
+REASONING: This sentence suggests that adding more variables to the analysis might improve the accuracy of the diagnostic test, but it doesn't establish any causative relationship between the variables and the diagnostic power of VEP. 
+ANSWER: 0) None",0
+0,"Uptake of cervical cancer screening is common in the United States, with large socioeconomic disparities also evident.","
+
+REASONING: This sentence describes a correlation between cervical cancer screening uptake and socioeconomic status in the United States. It does not establish a causal relationship or suggest any conditions that would lead to a causal relationship. 
+
+ANSWER: 1) Correlational",0
+0,Trials evaluating specific micronutrients are required in order to investigate specific nutrient-infection interactions in CSOM.,"
+
+REASONING: This sentence suggests that trials are needed to investigate the relationship between specific micronutrients and infections in CSOM. It doesn't establish a causative relationship, but it does imply that there may be a causal relationship that needs to be investigated further. 
+ANSWER: 2) Conditional causal",0
+0,Measurement of WC added limited information to BMI in this cohort.,"
+
+REASONING: This sentence suggests that adding the measurement of waist circumference (WC) did not provide much additional information beyond what was already known from measuring body mass index (BMI). It does not establish any causative relationship between the two variables. 
+
+ANSWER: 1) Correlational",0
+0,There is a clear need for improving folates intake in the Spanish population.,"
+
+REASONING: This sentence simply states a need for improvement in folate intake in the Spanish population, without establishing any causative relationship.
+ANSWER: 0) None",0
+0,"In this largest published cohort, secondary banding of failed RYGB provides only limited additional weight loss.","
+
+REASONING: This sentence describes the results of a study, but it doesn't establish any causative relationship. It simply reports the findings of the study. 
+ANSWER: 0) None",0
+0,"CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, IV.","
+
+REASONING: The context provides information about the type of clinical question being asked and the level of evidence required to answer it. It does not establish any causative relationship.
+ANSWER: 0) None",0
+1,"Children with CSOM were more undernourished than controls with lower mean serum Zn, Se and calcium concentrations.","
+
+REASONING: This sentence describes a correlation between two variables (CSOM and undernourishment) and also mentions lower concentrations of certain minerals in the blood of the affected children. However, it does not establish a clear causal relationship between these factors. 
+ANSWER: 1) Correlational",0
+3,"""Standard cognitive-behavioral pain treatment did not yield comparable outcomes for obese and non-obese participants.""","
+
+REASONING: This sentence suggests that there is a difference in outcomes between obese and non-obese participants in response to a specific treatment. This implies a causal relationship between the treatment and the outcomes, but it is not clear whether the relationship is direct or conditional. 
+ANSWER: 3) Direct causal",0
+0,"The majority of relapses in this cohort occurred 6-12 months following treatment, suggesting that a 1-year follow-up is appropriate in future studies.","
+
+REASONING: This sentence presents a correlation between the timing of relapses and the appropriate length of follow-up in future studies. It doesn't establish a causal relationship between the two variables. 
+ANSWER: 1) Correlational",0
+0,"We concluded that with the results of this study, it is imperative to increase awareness about BC and its detection methods in the community through health education campaigns.","
+
+REASONING: The sentence suggests that there is a need to increase awareness about breast cancer and its detection methods in the community through health education campaigns based on the results of the study. However, it doesn't establish any causative relationship between the study results and the need for health education campaigns. 
+
+ANSWER: 0) None",0
+3,"Based on these results, cumulative comorbidity can help explain survival variability and improve prognostic accuracy.","
+
+REASONING: The sentence suggests that cumulative comorbidity is a factor that can help explain survival variability and improve prognostic accuracy. However, it doesn't establish a direct causal relationship between the two. 
+ANSWER: 1) Correlational",0
+1,"Serum linoleic acid and very-long-chain n-3 PUFAs, partly reflecting vegetable oil and fish intake, respectively, were inversely associated with all-cause mortality.","
+
+REASONING: This sentence describes an association between certain types of fatty acids and all-cause mortality, but it does not establish a causal relationship. It is possible that other factors could be influencing both fatty acid levels and mortality rates. 
+ANSWER: 1) Correlational",0
+0,Sleeve dilatation occurred in more than 50\\xa0% of the patients.,"
+
+REASONING: This sentence describes an observation of a phenomenon (sleeve dilatation) in a group of patients, but it doesn't establish any causative relationship or suggest any factors that may have contributed to the phenomenon. 
+ANSWER: 0) None",0
+1,"However, stenting is associated with early restenosis and recurrent symptoms requiring secondary procedures.","
+
+REASONING: This sentence establishes a direct causal relationship between stenting and early restenosis and recurrent symptoms requiring secondary procedures. 
+ANSWER: 3) Direct causal.",0
+0,The direct association between Mediterranean diet and peripheral artery disease that we have found should be evaluated through a follow-up study under clinical practice conditions.,"
+
+REASONING: The sentence suggests that there is a direct association between Mediterranean diet and peripheral artery disease, but it does not establish causation. The recommendation for a follow-up study under clinical practice conditions implies a need for further investigation to determine causality. 
+
+ANSWER: 1) Correlational",0
+1,Dulaglutide was well tolerated and had a low risk of hypoglycemia when used without insulin secretagogues or insulin.,"
+
+REASONING: This sentence describes the results of a study on the use of dulaglutide and its effects on hypoglycemia. It suggests a causal relationship between the use of dulaglutide and a low risk of hypoglycemia, but it does not establish a direct or conditional causal relationship. 
+ANSWER: 3) Direct causal.",0
+0,"There is a due need for identifying high risk individuals/families including BRCA1 and BRCA2 testings, biologically driven trials devoted specifically to this group.","
+
+REASONING: This sentence highlights the need for identifying high-risk individuals/families and conducting biologically driven trials for them. It doesn't establish any causative relationship but rather emphasizes the importance of addressing this issue. 
+
+ANSWER: 0) None",0
+3,"A 12-week high-intensity exercise intervention with high energy expenditure can considerably reduce body weight, body fat, WC, WHR, and WHtR, whereas a light-intensity exercise intervention can significantly reduce body weight and body fat.","
+
+REASONING: This sentence describes the results of a study, indicating that certain types of exercise interventions can lead to reductions in various body measurements. It suggests a causal relationship between the type of exercise and the observed changes in body weight and composition.
+ANSWER: 3) Direct causal",0
+0,CLINICAL TRIAL REGISTRATION: URL: https://www.clinicaltrials.gov.,"
+
+REASONING: This sentence provides information about the registration of a clinical trial, but it doesn't establish any causative relationship or correlation. 
+
+ANSWER: 0) None",0
+2,Our findings suggest that Mg may inhibit vascular calcification.,"
+
+REASONING: The sentence suggests a potential causal relationship between Mg and the inhibition of vascular calcification. However, it is important to note that this is a suggestion based on findings and not a definitive causal relationship. 
+ANSWER: 3) Direct causal",0
+0,Service providers of programmes should focus on reaching these hard-to-reach groups.,"
+
+REASONING: This sentence suggests a recommendation for service providers, but it doesn't establish any causative relationship or correlation between the service providers' actions and the hard-to-reach groups. 
+ANSWER: 0) None",0
+0,"Appropriate nutrition education strategies should be developed for children with a history of EUGR to prevent later associated pathologies, as neonatal nutritional support and feeding during childhood are associated with an  increase in diseases in this risk group.","
+
+REASONING: The sentence suggests that appropriate nutrition education strategies should be developed for children with a history of EUGR to prevent later associated pathologies. It also states that neonatal nutritional support and feeding during childhood are associated with an increase in diseases in this risk group. However, it does not establish a direct causal relationship between nutrition education and prevention of associated pathologies. 
+
+ANSWER: 1) Correlational",0
+0,IMPLICATIONS FOR NURSING: Results provide support for using the social cognitive  processing theory in an intervention design with partners of long-term BCSs to decrease depressive symptoms.,"
+
+REASONING: The sentence suggests that using the social cognitive processing theory in an intervention design can lead to a decrease in depressive symptoms among partners of long-term BCSs. However, it doesn't establish a direct causal relationship between the theory and the decrease in symptoms. It only implies that the theory can be used as a framework for designing interventions that may be effective in reducing depressive symptoms. 
+
+ANSWER: 2) Conditional causal",0
+0,High values of VEGF and CD34 are present in patients with cholesterol granulomas.,"
+
+REASONING: This sentence describes a correlation between high levels of VEGF and CD34 and the presence of cholesterol granulomas. It does not establish a causal relationship or suggest any conditions that might cause the correlation. 
+ANSWER: 1) Correlational",0
+1,"Independent prognostic factors for MSS were SN status, Breslow thickness and ulceration.","
+
+REASONING: This sentence identifies independent prognostic factors for a medical condition, but it doesn't establish any causative relationship between these factors and the condition. 
+ANSWER: 1) Correlational",0
+1,"Based on the comparatively smaller observed differences associated with menopausal status than with chronological aging, the  significance of a more unfavorable lipid profile in a later reproductive stage may be less obvious than previously thought.","
+
+REASONING: The sentence describes an observation and suggests that the significance of a certain factor may be less obvious than previously thought. It does not establish any causative relationship. 
+
+ANSWER: 0) None",0
+3,"Intensified therapy was effective, but target attainment was still low at 40.3% or 13.9% with regard to the new 2011 guidelines issued by the European Atherosclerosis Society (EAS) and the ESC on dyslipidemias.","
+
+REASONING: The sentence describes the effectiveness of intensified therapy and the low rate of target attainment, but it doesn't establish any causative relationship between the two. It also mentions the new guidelines issued by the EAS and the ESC, but again, it doesn't establish any causative relationship between the guidelines and the low target attainment rate. 
+
+ANSWER: 0) None",0
+0,Future studies should determine whether in obese subjects with CTS the weight and waist  circumference loss produces an improvement in CTS symptoms and recovery of distal conduction velocity of the median nerve.,"
+
+REASONING: This sentence suggests that there may be a causal relationship between weight and waist circumference loss and improvement in CTS symptoms and recovery of nerve conduction velocity. However, it also acknowledges that future studies are needed to determine if this relationship exists. Therefore, it is conditional causal, as it suggests a potential cause-and-effect relationship but does not establish it definitively. 
+
+ANSWER: 2) Conditional causal",0
+0,IM provided a practical framework to guide the systematic development of a pediatric weight management intervention for parents of children with obesity.,"
+
+REASONING: This sentence describes the use of a framework to guide the development of an intervention, but it doesn't establish any causative relationship between the framework and the intervention's effectiveness.
+ANSWER: 0) None",0
+3,Improvements in weight and fasting glucose mediated the decrease in pHDL index.,"
+
+REASONING: This sentence suggests that improvements in weight and fasting glucose levels were responsible for the decrease in pHDL index. Therefore, it establishes a causal relationship between these variables.
+ANSWER: 3) Direct causal",0
+2,"The findings of this study also indicated that interventions integrating household food insecurity in nutrition programs in the district might help to avert the burden of stunting.""","
+
+REASONING: The sentence suggests that there is a relationship between household food insecurity and stunting, and that interventions that address food insecurity in nutrition programs may help to reduce stunting. However, it does not establish a clear causal relationship between the two variables. 
+ANSWER: 1) Correlational",0
+1,"""Disease-related weight loss may be an important and heretofore unknown indicator of poor prognosis in MM.""","
+
+REASONING: This sentence suggests a possible correlation between disease-related weight loss and poor prognosis in MM, but it doesn't establish a causative relationship or suggest any conditions that might affect that relationship. 
+
+ANSWER: 1) Correlational",0
+1,NT in control individuals without gallstones was significantly prolonged compared with the NT in patients with established gallstone disease.,"
+
+REASONING: This sentence describes a comparison between two groups and their respective NT values. It doesn't establish a causative relationship, but it does suggest a correlation between gallstone disease and NT values. 
+ANSWER: 1) Correlational",0
+2,"""The present meta-analysis suggests that insulin therapy may increase the risk of CRC.""","
+
+REASONING: The sentence suggests a correlation between insulin therapy and an increased risk of CRC, but it does not establish a direct or causal relationship. It is possible that other factors could be contributing to the increased risk. 
+ANSWER: 1) Correlational",0
+0,Alternative dosing strategies in the obese patient population should be examined in rigorous clinical trials.,"
+
+REASONING: This sentence suggests that there is a need to examine alternative dosing strategies in obese patients, but it doesn't establish any causative relationship or suggest any specific intervention. It simply highlights an area of research that needs to be explored further. 
+
+ANSWER: 0) None",0
+0,An individualized risk stratification approach in children with severe obesity should be based on presence of complications rather than simple BMI cutoffs.,"
+
+REASONING: This sentence suggests that a certain approach should be taken when dealing with children with severe obesity, but it doesn't establish any causative relationship. It simply suggests a strategy for managing the condition. 
+
+ANSWER: 0) None",0
+0,LIMITATIONS: There was an unequal distribution in numbers of subjects between study groups.,"
+
+REASONING: This sentence simply states a limitation of the study design, without establishing any causative relationship between the unequal distribution and any outcomes or variables of interest.
+ANSWER: 0) None",0
+0,MPR is a secondary adherence measure based on refill frequency.,"
+
+REASONING: This sentence defines what MPR is and how it is measured. It doesn't establish any causative relationship between MPR and any other variable. 
+ANSWER: 0) None",0
+0,"Interventions should be based on theory including HBM and CSM constructs, and should target first BS uptake and specific barriers to reduce disparities and increase BS uptake in Malta.","
+
+REASONING: The sentence suggests that interventions should be based on certain theories and should target specific barriers to increase BS uptake in Malta. It doesn't establish any causative relationship, but it does suggest a potential strategy for increasing BS uptake. 
+ANSWER: 0) None",0
+3,It enables faster graft positioning with less graft manipulation in the presence of severe corneal edema.,"
+
+REASONING: This sentence describes the benefits of a certain technique or procedure, but it doesn't establish any causative relationship between the technique and the benefits. It simply states that the technique enables faster graft positioning and less graft manipulation in the presence of severe corneal edema. 
+
+ANSWER: 0) None",0
+3,"A higher BMI and a greater prevalence of comorbidities had driven patients to seek a more radical solution for their obesity, i.e., surgery.","
+
+REASONING: This sentence describes a correlation between higher BMI, comorbidities, and the decision to seek surgery for obesity. It does not establish a direct or causal relationship between these factors.
+ANSWER: 1) Correlational",0
+0,The results imply that school based nutrition education should be a part of comprehensive school health programs to reach students and potentially their families.,"
+
+REASONING: The sentence suggests that there is a relationship between school-based nutrition education and reaching students and their families, but it does not establish a causative relationship. It only implies that including nutrition education in school health programs could potentially have a positive impact on students and their families. 
+
+ANSWER: 1) Correlational",0
+0,"However, further studies are needed to explore which indicator of body fat could be used as the best marker to indirectly reflect cardiometabolic risk.","
+
+REASONING: This sentence suggests that there may be a relationship between body fat and cardiometabolic risk, but it does not establish a causative relationship. It also suggests that further studies are needed to explore this relationship, indicating that the relationship is not yet fully understood. 
+ANSWER: 1) Correlational",0
+2,"Hence, it can be concluded that continued use of DMPA may predispose females to the risk of cardiovascular disease in the long run.","
+
+REASONING: The sentence suggests that there may be a causal relationship between the use of DMPA and the risk of cardiovascular disease. However, it does not establish a direct causal relationship and uses the word ""may"" to indicate uncertainty. Therefore, it can be classified as a conditional causal statement. 
+
+ANSWER: 2) Conditional causal",0
+2,Continuous training of GPs and clinical guidelines for the management of CVD may help GPs to make adequate decisions.,"
+
+REASONING: This sentence suggests that continuous training and clinical guidelines may have a positive impact on the decision-making of GPs, but it doesn't establish a direct causal relationship between these factors and improved patient outcomes. 
+ANSWER: 1) Correlational",0
+1,Anti-HBs levels decrease after 10-31 years and fall below a level considered protective in approximately 25% of cases.,"
+
+REASONING: This sentence describes a correlation between time and the decrease in anti-HBs levels, as well as the percentage of cases where the levels fall below a protective level. It does not establish a direct or conditional causal relationship. 
+ANSWER: 1) Correlational",0
+0,"Since relative intensity is part of the current PA recommendation, it should be considered when assessing population PA and associated health risks in the older  adults.","
+
+REASONING: This sentence suggests that considering relative intensity is important when assessing population physical activity and associated health risks in older adults, but it doesn't establish any causative relationship. 
+ANSWER: 0) None",0
+3,"""The effect of tamoxifen was not significantly dependent on time.""","
+
+REASONING: This sentence suggests that there was no significant relationship between the effect of tamoxifen and time, but it doesn't establish any causative relationship. 
+ANSWER: 0) None",0
+0,"In the Hispanic/Latino population, dulaglutide efficacy and safety was consistent with that of the overall population.","
+
+REASONING: This sentence reports the results of a study and describes the consistency of the drug's efficacy and safety in a specific population. It doesn't establish any causative relationship between the drug and the population's response.
+ANSWER: 0) None",0
+0,IM-SLNB has a high successful rate and good safety.,"
+
+REASONING: This sentence describes the success rate and safety of a particular medical procedure, but it doesn't establish any causative relationship between the procedure and any outcomes.
+ANSWER: 0) None",0
+1,"Overall, the whole sample had a high prevalence of cardiovascular risk factors such as smoking, obesity, and physical inactivity.","
+
+REASONING: This sentence simply describes the characteristics of the sample population and the prevalence of certain risk factors. It doesn't establish any causative relationship between the risk factors and cardiovascular disease.
+ANSWER: 0) None",0
+0,"To confirm these findings, further prospective studies with larger sample size and longer follow-up are warranted.","
+
+REASONING: This sentence suggests that more research is needed to confirm the findings, but it doesn't establish any causative relationship. It simply states that further studies are necessary to validate the results. 
+
+ANSWER: 0) None",0
+0,"""Clinical MODY criteria were fulfilled in 2.2% of diabetic HUNT2 subjects.""","
+
+REASONING: This sentence reports a finding from a study, but it doesn't establish any causative relationship. It simply states that a certain percentage of diabetic subjects met the criteria for MODY. 
+ANSWER: 0) None",0
+2,"Lower plasma concentration of high-density lipoprotein cholesterol,  total antioxidant capacity, and Î±-tocopherol levels, and a dietary pattern that is low in fish and high in red meat might contribute to the cognition impairment  in older Chinese adults.","
+
+REASONING: This sentence suggests that certain factors may contribute to cognitive impairment in older Chinese adults, but it does not establish a clear causal relationship. It only presents correlations and associations between different variables. 
+
+ANSWER: 1) Correlational",0
+0,We show replication of 5 Caucasian genome-wide association studies lipid associations in Mexicans.,"
+
+REASONING: This sentence describes the replication of previous studies on lipid associations in a different population. It doesn't establish any causative relationship, but it does suggest a correlational relationship between the genetic variants and lipid levels in both populations. 
+
+ANSWER: 1) Correlational",0
+0,"These findings pose the question: Why has not the nutritional status of children improved, although the living conditions of their  families have significantly improved?","
+
+REASONING: The sentence presents a correlation between the improvement of living conditions and the lack of improvement in children's nutritional status. It does not establish a direct or conditional causal relationship between the two variables.
+ANSWER: 1) Correlational",0
+0,"Legionella pneumonia should be included in the differential diagnosis even in cases of mild to moderate pneumonia when presenting with extrapulmonary symptoms, especially in diabetic patients.","
+
+REASONING: This sentence suggests that Legionella pneumonia should be considered as a possible diagnosis in certain cases, but it doesn't establish any causative relationship between Legionella pneumonia and the symptoms described. 
+
+ANSWER: 0) None",0
+1,"Women and individuals who were older, overweight and performing heavy work had a higher risk of CJS in this adult population residing in ViÃ§osa, MG, Brazil.","
+
+REASONING: This sentence describes a correlation between certain demographic and lifestyle factors and a higher risk of CJS. It does not establish a causal relationship or suggest any conditions that would lead to the outcome. 
+
+ANSWER: 1) Correlational",0
+3,Both general and central adiposity have causal effects on CHD and type 2 diabetes mellitus.,"
+
+REASONING: The sentence states that both general and central adiposity have causal effects on CHD and type 2 diabetes mellitus, indicating a direct causal relationship between the two variables. 
+ANSWER: 3) Direct causal.",0
+0,"However, as 97%  of cancers in our study showed interval change when a prior MR for comparison was available, new lesions or increasing size should lead to consideration of biopsy.","
+
+REASONING: The sentence suggests a direct causal relationship between the presence of new lesions or increasing size and the need for biopsy. It implies that if these changes are observed, then biopsy should be considered. 
+ANSWER: 3) Direct causal",0
+0,"Risk factor differences may, in part, explain a previously found North-South divide in mortality.","
+
+REASONING: This sentence suggests that risk factor differences could be a contributing factor to the observed North-South divide in mortality, but it does not establish a direct or causal relationship between the two. 
+ANSWER: 1) Correlational",0
+1,"In this cohort of obese youth, we found a high prevalence of breast-feeding, metabolic dysfunction, and wide variation in the LARs.","
+
+REASONING: This sentence describes the findings of a study, but it doesn't establish any causative relationship between the variables mentioned. It simply reports on their prevalence and variation within the cohort. 
+
+ANSWER: 0) None",0
+1,OSA is frequently found in the acute phase of ischaemic heart disease and its presence is associated with more severe ACS and a poorer left ventricle systolic function.,"
+
+REASONING: This sentence describes a correlation between OSA and the severity of ACS and left ventricle systolic function. It does not establish a direct or conditional causal relationship. 
+ANSWER: 1) Correlational",0
+0,Cancer 2018;124:192-202.Â© 2017 American Cancer Society.,"
+
+REASONING: This sentence provides information about the source and publication of a study on cancer. It does not establish any causative relationship or correlation between variables. 
+ANSWER: 0) None",0
+1,"This study demonstrated that similar to subjects with DM, subjects with IFG also have IOP levels that are higher than those with normal serum glucose.","
+
+REASONING: This sentence describes a correlation between IFG and higher IOP levels, but it doesn't establish a causal relationship. It only shows that there is a relationship between the two variables. 
+ANSWER: 1) Correlational",0
+2,"Although metformin may improve tumour response in the non-randomized, retrospective studies analysed, it may not necessarily confer survival benefits.","
+
+REASONING: The sentence suggests that metformin may have a positive effect on tumour response, but it does not establish a direct causal relationship between metformin and survival benefits. It only suggests that the two may not necessarily be linked. 
+
+ANSWER: 1) Correlational",0
+3,Doses of 300 mg or more (in single or multiple doses) significantly reduced levels of PCSK9 and LDL cholesterol for at least 6 months.,"
+
+REASONING: The sentence describes a direct causal relationship between the dose of 300 mg or more and the reduction of PCSK9 and LDL cholesterol levels for at least 6 months. 
+ANSWER: 3) Direct causal.",0
+3,Topical insulin 0.5 units QID is most effective for healing corneal  epithelial defect in diabetic patients after vitrectomy surgery compared with placebo and higher concentrations.,"
+
+REASONING: This sentence describes the results of a study comparing the effectiveness of different treatments for a specific condition. It suggests a causal relationship between the use of topical insulin and the healing of corneal epithelial defects in diabetic patients after vitrectomy surgery. 
+ANSWER: 3) Direct causal",0
+1,"""There was some evidence of a less steep socio-economic gradient in overweight in eight-year-old girls over time.""","
+
+REASONING: The sentence describes a correlation between socio-economic status and overweight in eight-year-old girls over time. It does not establish a causal relationship or suggest any conditions that would need to be met for the relationship to hold true. 
+
+ANSWER: 1) Correlational",0
+0,"Since women at high risk for breast cancer may  only interface with the healthcare system at select points, all healthcare providers must be willing and able to do risk assessment.","
+
+REASONING: This sentence describes a recommendation for healthcare providers to be prepared to assess the risk of breast cancer in women who may not have frequent interactions with the healthcare system. It does not establish any causative relationship between risk assessment and breast cancer outcomes. 
+
+ANSWER: 0) None",0
+1,"Additionally, very high numbers of OCN+ early CEPC tend to be linked to the risk of all-cause mortality.","
+
+REASONING: This sentence describes a correlation between high numbers of OCN+ early CEPC and the risk of all-cause mortality. It does not establish a causal relationship or suggest any conditions that would need to be met for a causal relationship to exist. 
+
+ANSWER: 1) Correlational",0
+2,A simultaneous integrated boost strategy could benefit from adaptive planning during the course.,"
+
+REASONING: This sentence suggests that adaptive planning could be beneficial for a specific treatment strategy, but it doesn't establish any causative relationship between the two. 
+ANSWER: 0) None",0
+0,The results showed that nutritional assessment can be employed with  community-dwelling older adults.,"
+
+REASONING: This sentence suggests that nutritional assessment is possible with community-dwelling older adults, but it doesn't establish any causative relationship between the assessment and any outcomes. 
+
+ANSWER: 0) None",0
+1,"""Still, although no direct association between DP and torticollis was found, cranial shape is linked to cervical motion at birth.""","
+
+REASONING: The sentence suggests that there is a link between cranial shape and cervical motion at birth, but it does not establish a clear causal relationship between the two. Additionally, it mentions that no direct association between DP (presumably referring to developmental dysplasia of the hip) and torticollis was found, which further suggests that the relationship between cranial shape and cervical motion is not straightforward. 
+
+ANSWER: 1) Correlational",0
+1,"Cluster membership was related to differing health-related quality of life, with children from the all-rounders cluster consistently reporting greatest health-related quality of life at sites around the world.","
+
+REASONING: The sentence describes a correlation between cluster membership and health-related quality of life, but it doesn't establish a causal relationship. 
+ANSWER: 1) Correlational",0
+0,"""Care providers should select their patients for early discharge and pursue a low threshold for readmission.""","
+
+REASONING: This sentence provides a recommendation for care providers, but it doesn't establish any causative relationship between early discharge and readmission. It suggests that care providers should use their judgment to select patients for early discharge and be prepared to readmit them if necessary. 
+ANSWER: 0) None",0
+1,The results indicated a significant association between Internet addiction and obesity.,"
+
+REASONING: The sentence describes a relationship between two variables (Internet addiction and obesity) but doesn't establish a cause-and-effect relationship. Therefore, it is a correlational study. 
+
+ANSWER: 1) Correlational",0
+0,An early start to the prevention of abdominal obesity  is of particular importance because of its close relationship to non-communicable diseases.,"
+
+REASONING: This sentence describes the importance of preventing abdominal obesity due to its relationship with non-communicable diseases. It doesn't establish any causative relationship, but rather highlights the correlation between abdominal obesity and non-communicable diseases. 
+
+ANSWER: 1) Correlational",0
+3,The BMI-matched analysis suggests that fear of surgery is a relevant factor in why obese patients do not decide to undergo bariatric surgery lightly.,"
+
+REASONING: The sentence suggests that fear of surgery is a factor that influences the decision of obese patients to undergo bariatric surgery. However, it doesn't establish a direct causal relationship between fear of surgery and the decision not to undergo surgery. It only suggests a correlation between the two variables. 
+
+ANSWER: 1) Correlational",0
+1,Dilatation was not necessarily linked to an increase of daily caloric intake and  insufficient weight loss during the first 18\\xa0months following surgery.,"
+
+REASONING: This sentence suggests that there may not be a direct causal relationship between dilatation and weight loss after surgery, and that other factors may be at play. It does not establish a clear causal relationship between any variables. 
+
+ANSWER: 1) Correlational",0
+0,"Previous breast cancer treatment with chemotherapy, radiotherapy\\xa0or both should be considered when assessing a patients cardiovascular risk profile.""","
+
+REASONING: This sentence suggests that previous breast cancer treatment with chemotherapy, radiotherapy, or both may have an impact on a patient's cardiovascular risk profile. However, it does not establish a direct causal relationship between the two factors. It simply suggests that the previous treatment should be taken into consideration when assessing the patient's risk profile. 
+
+ANSWER: 1) Correlational",0
+3,This study suggests that known genetic risk variants contribute a significant but small amount to overall T2D risk variation in Malaysian population groups.,"
+
+REASONING: The sentence suggests that there is a correlation between known genetic risk variants and T2D risk variation in Malaysian population groups, but it does not establish a direct or causal relationship. 
+ANSWER: 1) Correlational",0
+0,Noninferiority in DFS was not demonstrated between the AC-containing and AC-free regimens.,"
+
+REASONING: This sentence is reporting the results of a study comparing two different treatment regimens. It does not establish a causative relationship, but rather a comparison of outcomes between the two groups.
+ANSWER: 1) Correlational",0
+0,Results support the construct validity and reliability of the Three-Factor Eating Questionnaire-R21 among males and highlight the importance of taking psychological factors into account in the prevention of obesity. Orv Hetil.2017; 158(37): 1469-1477.,"
+
+REASONING: The sentence describes the results of a study and suggests that taking psychological factors into account is important in preventing obesity. However, it doesn't establish a causative relationship between psychological factors and obesity prevention. 
+
+ANSWER: 1) Correlational",0
+1,"These data, conducted in a large population of UF cases and controls, support prior studies that have found a protective association between  diabetes presence and UF risk and is further modified by race.","
+
+REASONING: The sentence describes the results of a study that found a protective association between diabetes and UF risk, but it doesn't establish a causative relationship. It also mentions that the association is modified by race, which suggests a correlational relationship between diabetes, race, and UF risk. 
+
+ANSWER: 1) Correlational",0
+0,Further mechanistic research in larger cohorts is necessary to reconcile the potential role of T2D in UF risk.,"
+
+REASONING: This sentence suggests that more research is needed to understand the relationship between type 2 diabetes and the risk of uterine fibroids. It does not establish any causative relationship. 
+
+ANSWER: 0) None",0
+1,Our findings do not support the hypothesis that serum cholesterol and suicide attempts are associated among subjects with major depressive disorder.,"
+
+REASONING: The sentence states that there is no association between serum cholesterol and suicide attempts in subjects with major depressive disorder. This suggests a correlational relationship, as the study is examining the relationship between two variables. However, it does not establish causation, as it does not indicate which variable is causing the other. 
+ANSWER: 1) Correlational",0
+0,"""Gradients in the determinants of overweight persisted.""","
+
+REASONING: This sentence suggests that there are factors that contribute to being overweight, and that these factors vary across different groups or populations (as indicated by the use of the word ""gradients""). However, it doesn't establish any specific causal relationship between these factors and overweight. 
+
+ANSWER: 1) Correlational",0
+3,"""A higher weight gain contributed in a negative manner to the presence of dyslipidemias in these patients.""","
+
+REASONING: This sentence suggests a direct causal relationship between weight gain and the presence of dyslipidemias. It implies that weight gain causes dyslipidemias to occur. 
+ANSWER: 3) Direct causal",0
+3,"The NFFD prenatal combined lifestyle intervention had a significant effect on TPA-level in late pregnancy among women entering pregnancy normal-weight or physically active, thereby preventing the downward trend typically seen during pregnancy.","
+
+REASONING: The sentence describes the effect of the NFFD prenatal intervention on TPA-level in late pregnancy, indicating a causal relationship between the intervention and the outcome. 
+ANSWER: 3) Direct causal.",0
+0,"Therefore, from the epidemiological point of view, screening psoriatic patients, particularly those with severe psoriasis, is recommended.","
+
+REASONING: This sentence recommends screening psoriatic patients based on epidemiological evidence, which suggests a correlation between psoriasis severity and other health conditions. However, it does not establish a direct or causal relationship between screening and improved health outcomes. 
+
+ANSWER: 1) Correlational",0
+0,Few events during this long-term follow-up preclude identifying specific features of patients at risk of relapse and illustrate the need for a large data-base.,"
+
+REASONING: This sentence describes the need for a large database to identify specific features of patients at risk of relapse. It doesn't establish any causative relationship between the events and the need for a large database.
+ANSWER: 0) None",0
+3,Physiological and psychological impact of this type of event is still unclear.,"
+
+REASONING: This sentence simply states that the impact of the event is unclear, without suggesting any causative relationship or correlation between variables. 
+ANSWER: 0) None",0
+0,"Furthermore, this study showed that an inertial sensor can be used to quantify important variables during thoracic manipulation and are able to detect intertherapist differences in technique.","
+
+REASONING: This sentence describes the results of a study that used an inertial sensor to measure variables during thoracic manipulation and found differences in technique between therapists. It doesn't establish a causative relationship, but it does suggest a correlation between the use of the sensor and the ability to detect differences in technique. 
+
+ANSWER: 1) Correlational",0
+1,Adiposity and child snoring are associated with each other cross-sectionally and are each predictive of the other among children/adolescents prospectively.,"
+
+REASONING: The sentence describes a correlation between adiposity and child snoring, as well as a predictive relationship between the two variables. However, it does not establish a clear causal relationship between them. 
+ANSWER: 1) Correlational",0
+0,This large study brings new evidence concerning these common risk factors; although prospective studies are needed to confirm causality.,"
+
+REASONING: The sentence suggests that the study provides evidence about common risk factors, but it also acknowledges that further research is needed to confirm causality. Therefore, it does not establish a direct or conditional causal relationship, but it may suggest a correlational relationship between the risk factors and the outcomes studied. 
+ANSWER: 1) Correlational",0
+1,"""Current smokers are also at risk for systolic hypertension, especially in those subjects aged 60  years or older.""","
+
+REASONING: This sentence suggests a correlation between smoking and systolic hypertension, particularly in older individuals. It does not establish a direct or causal relationship, but rather highlights a potential risk factor for hypertension in a specific population. 
+
+ANSWER: 1) Correlational",0
+0,Further strategies to improve growth during initial hospitalization are needed.,"
+
+REASONING: This sentence suggests that there is a need for additional strategies to improve growth during initial hospitalization, but it doesn't establish any causative relationship or correlation between the strategies and growth. 
+ANSWER: 0) None",0
+3,"Girls with T1DM were more prone to thyroid disease, particularly hypothyroidism.","
+
+REASONING: This sentence describes a correlation between two variables (T1DM and thyroid disease), but it doesn't establish a causal relationship. It suggests that there may be a relationship between the two, but it doesn't explain why or how one causes the other. 
+ANSWER: 1) Correlational",0
+0,"Future studies must focus on systems for predicting the appearance and severity of postoperative complications classified  according to the Clavien-Dindo system, and not only on mortality.","
+
+REASONING: The sentence suggests that future studies should focus on predicting postoperative complications using a specific classification system, rather than just focusing on mortality. It doesn't establish any causative relationship, but rather suggests a direction for future research. 
+
+ANSWER: 0) None",0
+2,The lack of statin-OxPL-apoB treatment interaction suggested that\\xa0OxPLs might be statin-independent therapeutic targets to reduce risk of cardiovascular events.,"
+
+REASONING: This sentence suggests a possible therapeutic target for reducing the risk of cardiovascular events, but it doesn't establish a causative relationship between OxPLs and the reduction of risk. It only suggests a correlation between the lack of interaction between statin-OxPL-apoB treatment and the potential of OxPLs as therapeutic targets. 
+
+ANSWER: 1) Correlational",0
+0,Some of these patients may not be given sedatives or may have delays in receiving sedatives after intubation.,"
+
+REASONING: This sentence describes a potential situation that may occur in some patients, but it doesn't establish any causative relationship. It simply states a fact or possibility. 
+ANSWER: 0) None",0
+0,"Larger, longer term studies are needed to establish the impact of videogaming interventions.","
+
+REASONING: This sentence suggests that there is a need for further research to determine the impact of videogaming interventions, but it doesn't establish any causative relationship or suggest any specific variables that are being studied. 
+ANSWER: 0) None",0
+3,This includes improvement of thyroid function and reduction of thyroid medication dosages.,"
+
+REASONING: This sentence suggests a causal relationship between a certain intervention (improvement of thyroid function) and a desired outcome (reduction of medication dosages). Therefore, it is a direct causal statement.
+ANSWER: 3) Direct causal",0
+3,The presence and severity of ERM was not affected by RZB treatment.,"
+
+REASONING: This sentence states that there was no effect of RZB treatment on the presence and severity of ERM. It does not establish any causative relationship, but rather reports on the lack of an effect. 
+ANSWER: 0) None",0
+2,It suggests a genetic pre-disposition involving the dopaminergic signalling pathways known to play a role in food reward and satiety linked mechanisms.,"
+
+REASONING: This sentence suggests a correlation between genetic pre-disposition and the dopaminergic signalling pathways involved in food reward and satiety mechanisms. It does not establish a direct or conditional causal relationship. 
+ANSWER: 1) Correlational",0
+1,"As a risk factor for SSI after rectal cancer surgery, PNIâ‰¤40 and mGPS were risk factors.","
+
+REASONING: This sentence identifies PNIâ‰¤40 and mGPS as risk factors for SSI after rectal cancer surgery. It suggests a correlational relationship between these factors and the occurrence of SSI, but it does not establish a causal relationship. 
+ANSWER: 1) Correlational",0
+0,"Future studies focusing on the relationships between gestational diabetes, obesity, and EC, including age at diagnosis, are warranted.","
+
+REASONING: This sentence suggests that there may be relationships between gestational diabetes, obesity, and endometrial cancer, but it does not establish any causative relationship or suggest any specific direction of causation. It also suggests that further studies are needed to explore these relationships, indicating that the nature of the relationships is not yet fully understood. 
+ANSWER: 1) Correlational",0
+0,Wider studies are needed to confirm our observations.,"
+
+REASONING: This sentence suggests that further research is necessary to confirm the initial observations, but it doesn't imply any causative relationship. 
+ANSWER: 0) None",0
+1,"""We have identified common variants in SLCO1B1 that are strongly associated with an increased risk of statin-induced myopathy.""","
+
+REASONING: This sentence suggests a direct causal relationship between the identified variants in SLCO1B1 and an increased risk of statin-induced myopathy. 
+ANSWER: 3) Direct causal.",0
+0,"Improved techniques and technology will allow progression to a 'see and treat' service, providing further savings.","
+
+REASONING: The sentence describes how improved techniques and technology will lead to a 'see and treat' service, which will provide further savings. This suggests a causal relationship between the two. 
+ANSWER: 3) Direct causal",0
+0,"Obesitys effect on HeRO catheters has not been amply addressed; therefore further prospective studies are warranted.""","
+
+REASONING: This sentence suggests that there is a lack of information on the effect of obesity on HeRO catheters, and therefore more studies are needed to address this issue. It does not establish any causative relationship between obesity and the catheters. 
+
+ANSWER: 0) None",0
+3,IGT after pediatric liver transplant is driven by inadequate insulin  secretion.,"
+
+REASONING: This sentence suggests a direct causal relationship between inadequate insulin secretion and IGT after pediatric liver transplant. 
+ANSWER: 3) Direct causal.",0
+0,A validation study in a separate cohort is needed to confirm the utility of the proposed index as a clinical tool to risk stratify persons with COPD.,"
+
+REASONING: This sentence suggests that a validation study is needed to confirm the usefulness of the proposed index as a clinical tool. It doesn't establish any causative relationship, but rather describes a necessary step in the process of developing a clinical tool. 
+
+ANSWER: 0) None",0
+3,The presence of an in situ stent did not interfere with surgery.,"
+
+REASONING: This sentence describes the lack of interference of an in situ stent on surgery, but it doesn't establish any causative relationship between the two. 
+ANSWER: 0) None",0
+0,The results should be confirmed in a larger prospective study.,"
+
+REASONING: This sentence suggests that the results of a smaller study need to be confirmed in a larger study, but it doesn't establish any causative relationship. 
+ANSWER: 0) None",0
+1,"""In contrast, the proportion of whole-grain rye to whole-grain wheat intake, indicated by the plasma C17:0-to-C21:0 ratio, was inversely associated with T2D.""","
+
+REASONING: This sentence describes an association between the proportion of whole-grain rye to whole-grain wheat intake and the risk of T2D. It does not establish a causal relationship, but rather suggests a correlation between the two variables. 
+ANSWER: 1) Correlational",0
+0,"Yet, these associations are warranted to be investigated in prospective studies.","
+
+REASONING: The sentence suggests that there are associations that need to be investigated in prospective studies, but it doesn't establish any causative relationship. 
+ANSWER: 1) Correlational",0
+1,Prevalence is highest among those who are positive for viral RNA.,"
+
+REASONING: This sentence suggests a correlation between viral RNA positivity and higher prevalence, but it doesn't establish a causal relationship. 
+ANSWER: 1) Correlational",0
+0,PSMVT was found to occur uncommonly after LSG.,"
+
+REASONING: This sentence describes a finding or observation, but it doesn't establish any causative relationship between the two variables (PSMVT and LSG). 
+ANSWER: 0) None",0
+3,"If we can demonstrate that the use of an ACE inhibitor or a BB can reduce the degree of TZB-induced cardiotoxicity, it is hoped that patients will receive complete and uninterrupted TZB therapy for breast cancer without compromising cardiac function.","
+
+REASONING: This sentence describes a potential causal relationship between the use of ACE inhibitors or BBs and the reduction of cardiotoxicity caused by TZB therapy. If this relationship is established, it is hoped that patients can receive uninterrupted TZB therapy without compromising their cardiac function. Therefore, this is a conditional causal statement. 
+
+ANSWER: 2) Conditional causal",0
+0,"With the increased safety profile and greater efficacy of other surgical techniques, LAGB utilization should be discouraged.","
+
+REASONING: This sentence suggests that LAGB utilization should be discouraged due to the availability of other surgical techniques that are safer and more effective. However, it doesn't establish a direct or causal relationship between LAGB utilization and the availability of other surgical techniques. 
+ANSWER: 0) None",0
+3,"The presence of a multidisciplinary rehabilitation nutrition team increased the frequency of sarcopenia evaluation and practice of rehabilitation nutrition.J. Med.Invest.64: 140-145, February, 2017.","
+
+REASONING: This sentence suggests that the presence of a multidisciplinary rehabilitation nutrition team is associated with an increase in the frequency of sarcopenia evaluation and practice of rehabilitation nutrition. However, it doesn't establish a clear causal relationship between the two variables. 
+ANSWER: 1) Correlational",0
+0,"In this first prospective comparison of EPclin and uPA/PAI-1 we found, that EPclin is superior to uPA/PAI-1 with respect to feasibility and decision impact.","
+
+REASONING: The sentence describes the results of a comparison study between two variables (EPclin and uPA/PAI-1) and their respective feasibility and decision impact. It does not establish any causative relationship between the variables. 
+
+ANSWER: 1) Correlational",0
+1,"Our study demonstrated that preoperative prealbumin, BMI, and NLR were independent prognostic factors of AEG patients.","
+
+REASONING: The sentence describes the results of a study and identifies certain factors as independent prognostic factors. It does not establish any causative relationship between the factors and the outcome. 
+ANSWER: 1) Correlational",0
+1,There is a close association between elevated lipids and hepatic  steatosis.,"
+
+REASONING: The sentence describes a close association between two variables, but it doesn't establish a causal relationship. It could be that elevated lipids cause hepatic steatosis, or it could be that hepatic steatosis causes elevated lipids, or there could be a third variable that causes both. Therefore, this is a correlational relationship. 
+
+ANSWER: 1) Correlational",0
+0,"For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266.","
+
+REASONING: This sentence provides information about where to find more information about Evidence-Based Medicine ratings, but it doesn't establish any causative relationship or correlation.
+ANSWER: 0) None",0
+0,TRIAL REGISTRATION NUMBER: Pre-results; NCT01483716.,"
+
+REASONING: This sentence provides information about the trial registration number, but it doesn't establish any causative relationship or correlation. 
+ANSWER: 0) None",0
+1,"For every 4 kg/m(2) increase in BMI, observational estimates suggested a 26% increase in odds for IHD while causal estimates suggested a 52% increase.","
+
+REASONING: The sentence presents two types of estimates (observational and causal) and their respective findings regarding the relationship between BMI and IHD. The use of the term ""causal estimates"" suggests that there is a causal relationship being investigated, but it is not clear from this sentence alone whether the relationship is direct or conditional. 
+ANSWER: 3) Direct causal (tentative)",0
+0,Rates of multidrug resistance and mortality in children with Gram-negative bloodstream infections remain high in our settings.,"
+
+REASONING: This sentence describes the current situation in the settings, but it doesn't establish any causative relationship between the rates of multidrug resistance and mortality in children with Gram-negative bloodstream infections.
+ANSWER: 0) None",0
+1,"Overall age at first child > 20 years, physical breast trauma, lack of breast feeding ,early menarche <11 were the most frequent risk factors.","
+
+REASONING: This sentence lists risk factors for a certain outcome (presumably breast cancer). It doesn't establish any causative relationship, but rather describes associations between certain factors and the outcome. 
+ANSWER: 1) Correlational",0
+0,"Despite the minor complications reviewed, the degree of satisfaction of the patients is very high.","
+
+REASONING: This sentence describes the degree of satisfaction of patients, but it doesn't establish any causative relationship between the minor complications and the high degree of satisfaction. 
+ANSWER: 0) None",0
+1,"According to our findings, high dietary intakes of saturated fatty acids and cholesterol were associated with low serum albumin and Hb A1C concentration.","
+
+REASONING: The sentence describes an association between dietary intakes of certain nutrients and low serum albumin and Hb A1C concentration. It does not establish a causal relationship or suggest any conditions that would need to be met for a causal relationship to exist. 
+
+ANSWER: 1) Correlational",0
+0,"""Additional reductions in myocardial infarction, revascularization, and the development of diabetes were observed during the follow-up phase despite similar rates of ACEI use in the 2 randomized groups.""","
+
+REASONING: The sentence describes the results of a study, but it doesn't establish a clear causal relationship between the variables. It only states that certain outcomes were observed during the follow-up phase, despite similar rates of ACEI use in the two groups. 
+
+ANSWER: 1) Correlational",0
+0,"CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov, NCT01056406.","
+
+REASONING: This sentence simply provides information about the registration of a clinical trial on ClinicalTrials.gov. It doesn't establish any causative relationship or correlation between variables. 
+
+ANSWER: 0) None",0
+3,"""The results are consistent with gastrointestinal motility effects of TZP-101, supporting further  investigation of TZP-101 in the management of severe gastroparesis.""","
+
+REASONING: The sentence suggests that the results of the study are consistent with the gastrointestinal motility effects of TZP-101, which supports further investigation of TZP-101 in the management of severe gastroparesis. This implies a causal relationship between TZP-101 and the management of severe gastroparesis.
+ANSWER: 3) Direct causal",0
+1,"The self-monitoring behaviors of self-weigh-in, daily steps, high-intensity activity, and persistent food logging were significant predictors of weight loss during a 6-month intervention.","
+
+REASONING: The sentence describes a relationship between self-monitoring behaviors and weight loss, but it doesn't establish causation. It only shows that these behaviors are significant predictors of weight loss during the intervention. 
+ANSWER: 1) Correlational",0
+1,"A vaginal approach to hysterectomy is associated with the shortest operative times, but increasing BMI results in a rapid escalation of operative time in women with large uteri.","
+
+REASONING: This sentence describes a correlation between the type of hysterectomy approach and operative times, as well as a conditional causal relationship between increasing BMI and operative time in women with large uteri. However, it does not establish a direct causal relationship between the two variables.
+ANSWER: 1) Correlational",0
+0,The observed associations between pre-diagnostic serum GGT and different breast cancer subtypes may indicate distinct underlying pathways and require further investigations to tease out their clinical implications.,"
+
+REASONING: The sentence describes an observed association between two variables (pre-diagnostic serum GGT and different breast cancer subtypes) and suggests that further investigation is needed to understand the relationship. It does not establish a causal relationship between the variables. 
+
+ANSWER: 1) Correlational",0
+0,"""A negative result would be used to inform the research agenda and contribute to redefining future strategies for tackling obesity.""","
+
+REASONING: This sentence describes the potential outcome of a study, but it doesn't establish any causative relationship. It simply states that if the study results are negative, they will be used to inform future research and strategies. 
+
+ANSWER: 0) None",0
+2,These results suggest that the GSTT1 polymorphism may play an important role in the pathogenesis of T2DM in the Brazilian population.,"
+
+REASONING: The sentence suggests that there may be a relationship between the GSTT1 polymorphism and the development of T2DM in the Brazilian population, but it does not establish a direct causal relationship. It is possible that other factors could be involved in the pathogenesis of T2DM as well. 
+
+ANSWER: 1) Correlational",0
+0,This trial was registered at the London-based Current Controlled Trials register as ISRCTN35739639.,"
+
+REASONING: This sentence simply provides information about the registration of the trial and does not establish any causative relationship. 
+
+ANSWER: 0) None",0
+2,Green tea consumption and green tea consumption with non obese group seemed to have a protective effect for lacunar infarction.,"
+
+REASONING: This sentence suggests a correlation between green tea consumption and a protective effect against lacunar infarction. It does not establish a direct or conditional causal relationship. 
+ANSWER: 1) Correlational",0
+0,Nutritional screening in all pediatric SCI patients should be performed periodically.,"
+
+REASONING: This sentence recommends a practice that should be followed for pediatric SCI patients, but it doesn't establish any causative relationship between nutritional screening and any outcomes. 
+ANSWER: 0) None",0
+1,"When acetylsalicylic acid was combined with simvastatin treatment, the intraocular levels of Ang-2 and VEGF were significantly lower than in diabetics treated with simvastatin alone.","
+
+REASONING: The sentence describes a comparison between two groups of diabetics, one treated with simvastatin alone and the other treated with a combination of acetylsalicylic acid and simvastatin. The sentence also reports a significant difference in the levels of two proteins in the eye between the two groups. However, the sentence does not establish a clear causal relationship between the treatments and the protein levels. It is possible that other factors could have influenced the protein levels. 
+
+ANSWER: 1) Correlational",0
+0,Studies with larger numbers of patients are needed to assess  the efficacy of this intervention.,"
+
+REASONING: This sentence suggests that more research is needed to determine whether the intervention is effective, but it doesn't establish any causative relationship. 
+ANSWER: 0) None",0
+1,"Despite higher transfusion rates in moderately anemic patients, they had significantly lower Hb on CPB and in the postoperative period.","
+
+REASONING: This sentence describes a correlation between moderate anemia and lower Hb levels during and after cardiac bypass surgery. It does not establish a causative relationship or suggest any conditions that would need to be met for a causal relationship to exist. 
+
+ANSWER: 1) Correlational",0
+3,The practice of sufficient levels of MVPA was a protective factor against immunometabolic disorders in postmenopausal women.,"
+
+REASONING: The sentence suggests that there is a relationship between practicing sufficient levels of MVPA and being protected against immunometabolic disorders. However, it does not establish a clear cause-and-effect relationship. It is possible that other factors could be influencing the relationship. 
+ANSWER: 1) Correlational",0
+1,"The study provides a link between iron nutrition, physiological deregulation and stress.","
+
+REASONING: The sentence suggests that there is a relationship between iron nutrition, physiological deregulation, and stress, but it doesn't specify the nature of the relationship. It could be correlational or causal, but we don't have enough information to determine which one it is. 
+
+ANSWER: 1) Correlational (or possibly causal, but we can't be sure without more information)",0
+1,"Our investigation suggests that the ST14CC-PBP3IIb/A clonal group is associated with increased clinical virulence, resistance to several antimicrobial agents, and is persistent over time.","
+
+REASONING: The sentence suggests that there is an association between the ST14CC-PBP3IIb/A clonal group and increased clinical virulence and resistance to antimicrobial agents. However, it does not establish a direct or causal relationship between the two. It also suggests that the clonal group is persistent over time, but again, this does not establish a causative relationship. 
+
+ANSWER: 1) Correlational",0
+0,"Larger studies are warranted to verify the impact of obesity on outcomes and to elucidate any underlying clinicopathologic/biologic factors.""","
+
+REASONING: This sentence suggests that further research is needed to determine if there is a causal relationship between obesity and certain outcomes, but it does not establish any causative relationship itself. 
+ANSWER: 0) None",0
+0,MNA is a well-developed questionnaire which evaluates malnutrition in COPD patients.,"
+
+REASONING: This sentence simply describes the MNA questionnaire and its purpose; it doesn't establish any causative relationship.
+ANSWER: 0) None",0
+1,The volume of the gastric remnant increased significantly during the first year after LSG.,"
+
+REASONING: This sentence describes a change in the volume of the gastric remnant after a specific surgical procedure. It suggests a causal relationship between the surgery and the increase in volume. 
+ANSWER: 3) Direct causal",0
+1,"In a country with free access to health care, the socioeconomic factors such as middle age, low education, and low income were associated with nonattainment of goals for diabetes care.","
+
+REASONING: The sentence describes an association between certain socioeconomic factors and nonattainment of goals for diabetes care. It does not establish a direct causal relationship, but it suggests that these factors may be contributing to the outcome. 
+ANSWER: 1) Correlational",0
+2,"Hypertension and a persistent acute phase response in patients with renal disease could contribute to CVD risk by effects upon fibrinogen and lipids, but requires confirmation by prospective evaluation.","
+
+REASONING: The sentence suggests that hypertension and acute phase response in patients with renal disease may contribute to CVD risk through their effects on fibrinogen and lipids, but it does not establish a causative relationship. It also mentions the need for confirmation through prospective evaluation, indicating that the relationship is not yet established. 
+
+ANSWER: 1) Correlational",0
+0,"As the implementation of EN is simple and has good compliance, family EN is proven to be feasible.""","
+
+REASONING: This sentence describes the feasibility of family EN, but it doesn't establish any causative relationship. It only states that family EN is proven to be feasible due to its simple implementation and good compliance. 
+ANSWER: 0) None",0
+1,Small LSG  at baseline is at higher risk of dilatation.,"
+
+REASONING: This sentence suggests a correlation between small LSG at baseline and higher risk of dilatation, but it doesn't establish a causal relationship. It's possible that other factors could be contributing to the higher risk of dilatation. 
+
+ANSWER: 1) Correlational",0
+1,Our study indicated that adherence to the WCRF/AICR recommendations is inversely related to CRC risk.,"
+
+REASONING: The sentence describes a relationship between adherence to certain recommendations and CRC risk, but it doesn't establish causation. It only shows that there is a correlation between the two variables. 
+ANSWER: 1) Correlational",0
+0,"The essential oils rosemary, geranium, lavender, eucalyptus, and chamomile can be safely used by nurses in the clinical setting, if applicable.","
+
+REASONING: This sentence provides information about the safety of using certain essential oils in a clinical setting, but it doesn't establish any causative relationship between the oils and any specific outcome. 
+
+ANSWER: 0) None",0
+2,"Because medium and small LDL particles are more highly associated with cardiovascular disease than are larger LDL, the present results suggest that very high saturated fat intake may increase cardiovascular disease risk in phenotype B individuals.","
+
+REASONING: The sentence suggests a possible causal relationship between high saturated fat intake and increased cardiovascular disease risk in phenotype B individuals. However, it is not a direct causal relationship as it is based on an association between LDL particle size and cardiovascular disease risk. It is also conditional as it only applies to phenotype B individuals. 
+
+ANSWER: 2) Conditional causal",0
+0,Group 3\\xa0cm obtained a lower percentage of suboptimal results using EWL.,"
+
+REASONING: This sentence describes a comparison between two groups and their results using a specific method. It suggests a correlation between the use of EWL and a lower percentage of suboptimal results, but it doesn't establish a causative relationship or specify any conditions. 
+
+ANSWER: 1) Correlational",0
+3,"The assessed educational intervention promoted significant changes in the health status of the children, reinforcing the importance of training for  professionals who care for young children in day-care centres in developing countries in order to promote child health.","
+
+REASONING: The sentence suggests that the educational intervention had a significant impact on the health status of the children, implying a causal relationship between the intervention and the outcome. However, it also acknowledges the importance of training for professionals, which suggests that other factors may have contributed to the outcome as well. 
+
+ANSWER: 3) Direct causal",0
+0,Testing this hypothesis may represent a direction of future research.,"
+
+REASONING: This sentence suggests that testing the hypothesis is a potential area for future research, but it doesn't establish any causative relationship or correlation. 
+ANSWER: 0) None",0
+1,"In early PD, weight gain was revealed over three years accompanied by an increase in FM and waist circumference.","
+
+REASONING: This sentence describes a correlation between early PD and weight gain, as well as an increase in FM and waist circumference. It does not establish a causal relationship or suggest any conditions that might cause the weight gain. 
+ANSWER: 1) Correlational",0
+1,"In a post hoc analysis from 10 ODYSSEY trials, greater percentage reductions in LDL-C and lower on-treatment LDL-C were associated with a lower incidence of MACE, including very low levels of LDL-C (<50 mg/dL).","
+
+REASONING: This sentence describes a correlation between lower LDL-C levels and a lower incidence of MACE. It does not establish a causal relationship, as there may be other factors at play. Additionally, the analysis was conducted post hoc, meaning it was not originally planned as part of the study design. 
+ANSWER: 1) Correlational",0
+3,"The results showed no effects of aromatherapy on QOL, sleep quality,  and vital sign.","
+
+REASONING: This sentence reports the findings of a study and states that no significant effects were observed. It does not establish any causal relationship between aromatherapy and the outcomes measured. 
+ANSWER: 0) None",0
+1,"Children with S-ECC appear to have relatively poor nutritional health compared to caries-free controls, and were significantly more likely to have low  vitamin D, calcium, and albumin concentrations and elevated PTH levels.","
+
+REASONING: This sentence describes a correlation between S-ECC and poor nutritional health, but it doesn't establish a causal relationship. It's possible that poor nutrition contributes to S-ECC, or that S-ECC contributes to poor nutrition, or that there's a third factor that causes both. 
+ANSWER: 1) Correlational",0
+3,Differences in concentrations of Ï‰-6 fatty acids but not in dietary  linoleic fatty acid or Ï‰-3 fatty acids suggest that altered concentrations are attributed to changes in specific endogenous metabolic pathways.,"
+
+REASONING: The sentence suggests that there is a correlation between differences in concentrations of Ï‰-6 fatty acids and changes in specific endogenous metabolic pathways, but it does not establish a direct or causal relationship between the two. 
+ANSWER: 1) Correlational",0
+0,"Therefore, it is worthwhile to assess the long term effects of rising TSH levels  and inadequate iodine nutrition during pregnancy on the offspring to prevent even mild iodine deficiency.","
+
+REASONING: The sentence suggests that there may be a causal relationship between rising TSH levels and inadequate iodine nutrition during pregnancy and the health of the offspring. However, it does not provide evidence of a direct or conditional causal relationship, and it does not describe any correlation between the variables. 
+
+ANSWER: 3) Direct causal (tentative)",0
+1,Rates of recurrent preeclampsia among women with a history of preeclampsia decreased by 30% after release of the US Preventive Services Task Force recommendation for aspirin for preeclampsia prevention.,"
+
+REASONING: The sentence describes a decrease in rates of recurrent preeclampsia after the release of a recommendation for aspirin use. This suggests a causal relationship between the recommendation and the decrease in rates. However, it is important to note that other factors could have contributed to the decrease as well. 
+
+ANSWER: 2) Conditional causal",0
+1,Increases in levels of HDL cholesterol correlated with improved clinical outcomes.,"
+
+REASONING: The sentence suggests that there is a relationship between increases in HDL cholesterol and improved clinical outcomes, but it doesn't establish a cause-and-effect relationship. It could be that other factors are also contributing to the improved outcomes. 
+ANSWER: 1) Correlational",0
+1,Rather there appears to be a true association.,"
+
+REASONING: The sentence suggests that there is a relationship between two variables, but it does not imply causation. It only indicates that there is an association between the variables. 
+ANSWER: 1) Correlational",0
+2,"""Robotic surgery may offer particular advantages in obese patients with no conversions and no wound complications.""","
+
+REASONING: This sentence suggests that robotic surgery may have advantages in a specific group of patients (obese patients) and reports the absence of two specific outcomes (conversions and wound complications). It does not establish a causative relationship between robotic surgery and these outcomes, but rather suggests a correlation or association between the two. 
+
+ANSWER: 1) Correlational",0
+1,Established measures of T2D risk remain the best predictor of T2D risk in this population.,"
+
+REASONING: This sentence states that established measures of T2D risk are the best predictor of T2D risk in this population. It doesn't establish any causative relationship, but rather describes a predictive relationship between the measures and T2D risk.
+ANSWER: 1) Correlational",0
+2,"Nevertheless, the doses per kilogram of weight administrated may have had an impact on the metformin effect.","
+
+REASONING: This sentence suggests that there may be a causal relationship between the doses of metformin and its effect, but it doesn't provide enough information to establish a direct or conditional causal relationship. It only suggests a possible correlation between the two variables. 
+
+ANSWER: 1) Correlational",0
+3,Cefoxitin is an alternative treatment to carbapenems for urinary tract infections caused by ESBL-producing Enterobacteriaceae.,"
+
+REASONING: This sentence suggests that cefoxitin can be used as an alternative treatment to carbapenems for urinary tract infections caused by ESBL-producing Enterobacteriaceae. It doesn't establish a causative relationship, but it does suggest a potential treatment option. 
+
+ANSWER: 0) None",0
+0,"These patients have experienced a focal, microvascular central nervous system ischemic event at a relatively young  age.","
+
+REASONING: This sentence describes a group of patients who have experienced a specific type of medical event. It does not establish any causative relationship or correlation between any variables.
+ANSWER: 0) None",0
+2,"Patients with severe nutritional depletion or high surgical risk may benefit from mesenteric stenting for CMI, but close follow-up is required.","
+
+REASONING: This sentence suggests that mesenteric stenting may be beneficial for certain patients, but it also emphasizes the need for close follow-up. It does not establish a clear causal relationship between mesenteric stenting and improved outcomes, but rather suggests a potential benefit that requires further monitoring and evaluation. 
+
+ANSWER: 1) Correlational",0
+3,ZOL did not improve DFS when combined with CT.,"
+
+REASONING: This sentence describes the result of a study, but it doesn't establish a causative relationship. It simply states that the combination of ZOL and CT did not improve DFS. 
+ANSWER: 0) None",0
+0,More research is needed to better understand this association.,"
+
+REASONING: This sentence suggests that there is an association between two variables, but it does not establish a causal relationship. It also implies that further research is needed to clarify the nature of this association. 
+ANSWER: 1) Correlational",0
+0,The results confirm the need of a multidisciplinary approach to patients with vertigo.,"
+
+REASONING: This sentence suggests that the results of the study support the idea that a multidisciplinary approach is necessary for patients with vertigo. It doesn't establish a direct or conditional causal relationship, but it does imply a correlational relationship between the need for a multidisciplinary approach and the presence of vertigo in patients. 
+ANSWER: 1) Correlational",0
+1,"Breakthrough FN is prevalent among elderly cancer patients receiving adjuvant chemotherapy despite G-CSF support, particularly among patients with more than two comorbidities.","
+
+REASONING: This sentence describes a correlation between two variables: elderly cancer patients receiving adjuvant chemotherapy and the prevalence of breakthrough FN. It also suggests that patients with more than two comorbidities may be at higher risk. However, it does not establish a causal relationship between these variables. 
+ANSWER: 1) Correlational",0
+1,"In diabetic patients with DME or PDR, the intravitreal levels of permeability and proangiogenic factors Ang-2 and VEGF were lower in simvastatin-treated than in those without statin medication.","
+
+REASONING: This sentence suggests a correlation between simvastatin treatment and lower levels of permeability and proangiogenic factors in diabetic patients with DME or PDR. However, it does not establish a direct causal relationship between the two. 
+ANSWER: 1) Correlational",0
+0,CLINICALTRIALS.GOV IDENTIFIER: NCT02244879.,"
+
+REASONING: The given context only provides an identifier for a clinical trial registered on ClinicalTrials.gov. It does not provide any information about the nature of the trial or any causal relationships. 
+
+ANSWER: 0) None",0
+0,"Further longitudinal study is needed to determine how WC and BMI compare in predicting outcomes, particularly for children with CKD identified as having obesity by 1 measure but not the other.","
+
+REASONING: This sentence suggests that further study is needed to determine how two measures (WC and BMI) compare in predicting outcomes for children with CKD who have obesity according to one measure but not the other. It does not establish any causative relationship between the measures and outcomes. 
+ANSWER: 1) Correlational",0
+1,We could not find any relationship between postadolescent acne and nutritional anemia in our study.,"
+
+REASONING: The sentence states that no relationship was found between two variables, but it doesn't establish any causative relationship between them. 
+ANSWER: 0) None",0
+2,It may be more effective to include the assessment of weight and height and nutritional intake in the context of the acute presentation as part of routine clinical assessment rather than relying on screening tools to identify those at risk.,"
+
+REASONING: This sentence suggests that including assessments of weight, height, and nutritional intake as part of routine clinical assessment may be more effective than relying on screening tools. However, it doesn't establish a causative relationship between these factors and the effectiveness of the assessment. 
+
+ANSWER: 0) None",0
+3,"It improved all symptom domains, especially impulsive-behavioral dyscontrol and anger, and reduced levels of aggression and violence, especially at lower doses (serum levels <350 ng/m).","
+
+REASONING: The sentence describes the effects of a treatment on various symptoms and behaviors, but it doesn't establish a clear causative relationship. It suggests that the treatment may have contributed to the improvements, but it doesn't rule out other factors that may have played a role. 
+
+ANSWER: 1) Correlational",0
+1,Diabetes mellitus and first-degree family history of cancer are associated with an increased risk of sporadic PNET.,"
+
+REASONING: This sentence describes an association between two factors (diabetes mellitus and family history of cancer) and an increased risk of sporadic PNET. It does not establish a causal relationship between these factors and the development of PNET.
+ANSWER: 1) Correlational",0
+0,Further prospective studies are warranted to explore effective interventions to improve the poor outcomes of diabetic patients undergoing hepatectomy.,"
+
+REASONING: This sentence suggests that there is a correlation between poor outcomes of diabetic patients undergoing hepatectomy and the need for effective interventions. However, it does not establish a direct or causal relationship between the two. 
+ANSWER: 1) Correlational",0
+2,"In a real-life setting, we confirmed in eyes with center-involved DME without prior glaucoma or IOP elevation that repeated anti-VEGF IVI may increase the risk of sustained IOP elevation in about 7% of eyes.","
+
+REASONING: The sentence describes a correlation between repeated anti-VEGF IVI and sustained IOP elevation in eyes with center-involved DME without prior glaucoma or IOP elevation. However, it does not establish a direct causal relationship between the two variables. 
+ANSWER: 1) Correlational",0
+1,"Besides, VLDL,  LDL-C, large LDL, intermediate LDL and large IDL were significantly associated with premature myocardial infarction.","
+
+REASONING: This sentence describes a correlation between different types of lipoproteins and premature myocardial infarction. It does not establish a causal relationship, but rather suggests that there may be a link between these factors. 
+ANSWER: 1) Correlational",0
+3,"Our study highlights the significance of body composition analysis in medical practice, improving prevention and alleviating later health-related economic burden.""","
+
+REASONING: This sentence suggests that body composition analysis can have a positive impact on medical practice and health-related economic burden, but it doesn't establish a causative relationship. It is more of a statement of importance or significance. 
+
+ANSWER: 0) None",0
+0,"(Funded by Lexicon Pharmaceuticals; inTandem3 ClinicalTrials.gov number, NCT02531035 .)","
+
+REASONING: This sentence provides information about the funding source and the clinical trial registration number, but it doesn't establish any causative relationship. 
+
+ANSWER: 0) None",0
+0,More studies are needed to determine the long-term effects of bariatric surgery in morbidly obese patients with NASH.,"
+
+REASONING: This sentence suggests that there is a need for further research to determine the long-term effects of bariatric surgery in morbidly obese patients with NASH. It does not establish any causative relationship, but rather highlights the need for more information. 
+
+ANSWER: 0) None",0
+1,Resistance to fluconazole was considerably greater among the C. non-albicans isolates from T2DM group.,"
+
+REASONING: This sentence describes a correlation between two variables - fluconazole resistance and C. non-albicans isolates - in the T2DM group. It does not establish a causal relationship between the two variables. 
+ANSWER: 1) Correlational",0
+1,Patients undergoing RYGB who had a substantial drop in REE at 6 months may exhibit less long-term weight loss.,"
+
+REASONING: The sentence suggests a possible correlation between a drop in REE and less long-term weight loss, but it doesn't establish a direct causal relationship. 
+ANSWER: 1) Correlational",0
+0,Further studies are required to evaluate an influence of THR absorption and compare different types of bariatric surgeries.,"
+
+REASONING: This sentence suggests that more research is needed to determine if there is a causal relationship between THR absorption and different types of bariatric surgeries. However, it does not establish any specific causal relationship itself. 
+ANSWER: 0) None",0
+2,"This may elevate the risk of atherosclerosis, particularly cardiovascular disorders.","
+
+REASONING: The sentence suggests that there may be a correlation between elevated risk of atherosclerosis and cardiovascular disorders, but it doesn't establish a direct or causal relationship between the two.
+ANSWER: 1) Correlational",0
+1,"Patients with AP are older, male, and have more comorbidities than those without AP.","
+
+REASONING: This sentence describes the characteristics of patients with AP compared to those without AP. It doesn't establish any causative relationship, but rather describes a correlation between AP and age, gender, and comorbidities. 
+ANSWER: 1) Correlational",0
+0,"Therefore, special attention should be given for  severely wasted children in the prevention and control of malaria.","
+
+REASONING: This sentence suggests that severely wasted children are a group that requires special attention in the prevention and control of malaria. It does not establish a causative relationship between wasting and malaria, but rather highlights a correlation between the two factors. 
+ANSWER: 1) Correlational",0
+0,Our findings  may have significant public health implications with regard to prevention of gastric cancer and provide insights into future cohort studies and the design of  related clinical trials.,"
+
+REASONING: This sentence suggests that the findings of the study may have implications for public health and future research, but it doesn't establish any causative relationship between the study and these implications. 
+ANSWER: 0) None",0
+3,"In addition, all strains of E. faecalis and 10.8% of E. faecium strains were susceptible to ampicillin.","
+
+REASONING: This sentence presents a descriptive statement about the susceptibility of different strains of bacteria to ampicillin. It does not establish any causal relationship between the susceptibility and any other factor. 
+
+ANSWER: 0) None",0
+0,"Nevertheless, in the absence of any adverse effects, LGI diets remain an option for diabetes and cardiovascular disease risk management.","
+
+REASONING: This sentence discusses the potential use of LGI diets for managing diabetes and cardiovascular disease risk, but it doesn't establish any causative relationship or conditionality. It simply states that LGI diets can be an option if there are no adverse effects. 
+
+ANSWER: 0) None",0
+2,"There was, however, a trend toward a protective effect in patients with uncontrolled diabetes mellitus, suggesting that such patients may benefit from perioperative antibiotic use.","
+
+REASONING: The sentence describes a trend observed in a group of patients, but it does not establish a clear cause-and-effect relationship between the use of antibiotics and the protective effect observed. It also suggests that further research is needed to confirm the potential benefits of antibiotic use in patients with uncontrolled diabetes mellitus. 
+
+ANSWER: 1) Correlational",0
+0,"""The apparent decrease in fluvastatin exposure on administration with ezetimibe was likely to be due to the parallel study design and two pharmacokinetic outliers and is considered of no clinical significance.""","
+
+REASONING: This sentence describes a statistical finding in a study, but it does not establish a causal relationship between the two drugs or their effects. It suggests that the decrease in exposure may be due to other factors, such as outliers in the data or the study design itself. 
+
+ANSWER: 0) None",0
+0,"These observational data show the progress made in the treatment of ACS from the acute phase up to 3 months, and highlight key areas for improvement  in the prevention of recurrent events in patients with CHD in France.","
+
+REASONING: The sentence describes observational data that show progress in the treatment of ACS and highlight areas for improvement in the prevention of recurrent events. It does not establish any causative relationship between the treatment and the prevention of recurrent events. 
+
+ANSWER: 1) Correlational",0
+3,"In high-risk patients with dysglycemia (prediabetes and early diabetes), mild and moderate chronic kidney disease significantly increased cardiovascular events.","
+
+REASONING: This sentence establishes a direct causal relationship between chronic kidney disease and increased cardiovascular events in patients with dysglycemia. 
+ANSWER: 3) Direct causal",0
+0,Some studies that have assessed the impact of monitoring guidelines on clinical practice show only limited impact.,"
+
+REASONING: The sentence describes the results of previous studies and their limited impact on clinical practice. It doesn't establish any causative relationship between monitoring guidelines and clinical practice. 
+ANSWER: 1) Correlational",0
+0,Some clusters seemed more atherogenic than others.,"
+
+REASONING: This sentence suggests a correlation between certain clusters and a higher risk of atherosclerosis, but it doesn't establish a causal relationship or suggest any conditions that might cause the observed differences.
+ANSWER: 1) Correlational",0
+2,Mind subtraction meditation may have positive therapeutic effects among breast cancer survivors.,"
+
+REASONING: This sentence suggests that there may be a causal relationship between practicing mind subtraction meditation and experiencing positive therapeutic effects among breast cancer survivors. However, it does not provide any evidence or data to support this claim, so it cannot be classified as a direct causal statement. It also does not suggest any specific conditions or factors that might influence this relationship, so it is not a conditional causal statement. Therefore, the most appropriate answer is correlational, as it implies a potential association between two variables (mind subtraction meditation and therapeutic effects) without making any definitive claims about causation. 
+
+ANSWER: 1) Correlational",0
+0,"In this cohort, hypertension and haematuria were prevalent while renal disease was rare.","
+
+REASONING: This sentence simply describes the prevalence of certain conditions in a cohort; it doesn't establish any causative relationship between them.
+ANSWER: 0) None",0
+3,"The consumption of unhydrolyzed milk proteins (56 g/d) for 8 wk improved vascular reactivity, biomarkers of endothelial function, and lipid risk  factors.","
+
+REASONING: This sentence describes the results of a study in which a specific intervention (consumption of unhydrolyzed milk proteins) was implemented and resulted in improvements in various health markers. This suggests a direct causal relationship between the intervention and the observed improvements. 
+
+ANSWER: 3) Direct causal",0
+0,A definitive trial comparing the efficacy of nutritional support interventions in increasing weight and BMI in malnourished care home residents can be conducted.,"
+
+REASONING: This sentence suggests that a trial can be conducted to compare the efficacy of nutritional support interventions in increasing weight and BMI in malnourished care home residents. It doesn't establish any causative relationship, but it does suggest that the trial could provide evidence for a causal relationship between the interventions and the outcomes. 
+
+ANSWER: 2) Conditional causal",0
+1,"The association of testosterone deficiency with frequency and severity of lower urinary tract symptoms, partially related with benign prostatic hyperplasia and clinically defined detrusor cistopathy, has been proven.","
+
+REASONING: The sentence describes an association between testosterone deficiency and lower urinary tract symptoms, but it doesn't establish a causative relationship. It also mentions that the association is partially related to other conditions, which further suggests that the relationship is not direct or straightforward. 
+ANSWER: 1) Correlational",0
+0,Any abnormal finding in the reports should be investigated in terms of the progress of the pathology and also its clinical consequences.,"
+
+REASONING: This sentence suggests that abnormal findings in reports may have clinical consequences and should be investigated to understand the progress of the pathology. However, it doesn't establish a clear causal relationship between the abnormal findings and the clinical consequences. 
+ANSWER: 1) Correlational",0
+1,Results from this study suggest a possible association between nighttime eating behavior and breast cancer.,"
+
+REASONING: The sentence suggests that there may be a relationship between nighttime eating behavior and breast cancer, but it does not establish a cause-and-effect relationship. It is possible that other factors could be influencing both nighttime eating behavior and breast cancer risk. 
+ANSWER: 1) Correlational",0
+3,The use of a water-based HS did not have an additive effect.,"
+
+REASONING: This sentence describes the result of a study, but it doesn't establish a causative relationship. It simply states that the use of a water-based HS did not have an additional effect. 
+ANSWER: 0) None",0
+0,The study has significant implications in terms of informing public health interventions to tackle childhood obesity. ,"
+
+REASONING: This sentence suggests that the study has important implications for public health interventions related to childhood obesity, but it doesn't establish any causative relationship between the study and the interventions. 
+ANSWER: 0) None",0
+3,Mucous fistula refeeding is safe and can decrease risk of anastomotic complication and parental nutrition related cholestasis.,"
+
+REASONING: This sentence suggests that using mucous fistula refeeding can have a positive effect on reducing the risk of anastomotic complication and parental nutrition related cholestasis. However, it doesn't establish a clear causative relationship between the two. 
+ANSWER: 1) Correlational",0
+0,Patients with TNBC have adverse outcomes despite aggressive treatment.,"
+
+REASONING: This sentence describes a correlation between having TNBC and having adverse outcomes despite aggressive treatment. It does not establish a causal relationship, but rather highlights a pattern that has been observed in previous studies. 
+ANSWER: 1) Correlational",0
+0,"TRIAL REGISTRATION: ClinicalTrials.gov, number NCT02942602 .","
+
+REASONING: This sentence simply provides information about the trial registration number, it doesn't establish any causative relationship or correlation.
+ANSWER: 0) None",0
+0,Increasing the ezetimibe dose to 20 mg daily might be an interesting potential approach for patients who fail to reach lipid targets on ezetimibe 10 mg daily along with maximally tolerated doses of statin.,"
+
+REASONING: This sentence suggests a potential approach for patients who fail to reach lipid targets, but it doesn't establish a causative relationship between increasing the ezetimibe dose and reaching lipid targets. It only suggests that it might be an interesting approach to consider. 
+
+ANSWER: 0) None",0
+0,A-HIT1 and A-HIT2 are the first nationwide FH registries in Turkey and will provide important information on the management of Turkish FH patients.,"
+
+REASONING: This sentence describes the purpose and potential benefits of the FH registries in Turkey, but it doesn't establish any causative relationship between the registries and patient management. 
+ANSWER: 0) None",0
+1,"In this pilot study, we found that the combination of SIRS criteria and PCT levels is useful for the early detection of sepsis in ED patients with suspected infection.","
+
+REASONING: The sentence describes the results of a pilot study and suggests that the combination of SIRS criteria and PCT levels can be useful for detecting sepsis in ED patients. However, it doesn't establish a clear causal relationship between the two variables. 
+ANSWER: 1) Correlational",0
+1,Serum bilirubin concentration is inversely and independently associated and inversely correlated with the prevalence of DR and may predict progression of DR over time.,"
+
+REASONING: The sentence describes a correlation between serum bilirubin concentration and the prevalence and progression of DR, but it doesn't establish a causal relationship or suggest any conditions that might affect the relationship. 
+
+ANSWER: 1) Correlational",0
+0,""" HeRO catheters offer a reliable, and possibly the last, alternative  in hemodialysis access-challenged patients.","
+
+REASONING: This sentence describes the potential benefits of using HeRO catheters in patients who have difficulty accessing hemodialysis. It doesn't establish any causative relationship, but rather presents the catheters as a possible solution to a problem. 
+
+ANSWER: 0) None",0
+0,Both remain vulnerable and require greater nutritional targeting.,"
+
+REASONING: This sentence suggests that both groups (which are not specified in the context) are in need of better nutrition, but it doesn't establish any causal relationship between them.
+ANSWER: 0) None",0
+0,"Prostate 77:549-556, 2017.Â© 2017 Wiley Periodicals, Inc.","
+
+REASONING: This sentence provides information about the source and publication of a study on prostate cancer. It does not establish any causative relationship or describe any research methodology. 
+
+ANSWER: 0) None",0
+1,Dysarthria-related QOL is compromised in patients with MS and dysarthria and might be used as a supplementary measure in clinical practice and research for patients who have MS.,"
+
+REASONING: This sentence suggests that there is a correlation between dysarthria-related quality of life and MS patients with dysarthria. It also suggests that dysarthria-related quality of life could be used as a supplementary measure in clinical practice and research. However, it does not establish a direct or causal relationship between MS and dysarthria-related quality of life. 
+
+ANSWER: 1) Correlational",0
+1,"""These associations may be secondary to adiposity or insulin resistance.""","
+
+REASONING: The sentence suggests that there may be a relationship between the associations mentioned and either adiposity or insulin resistance, but it does not establish a clear causal relationship between them. It is possible that other factors could be involved as well. 
+ANSWER: 1) Correlational",0
+0,They must first determine whether a small intake of TFA from PHVO is safe and what constitutes a safe amount.,"
+
+REASONING: This sentence describes the need for a study to determine the safety of a small intake of TFA from PHVO and what amount is considered safe. It doesn't establish any causative relationship. 
+ANSWER: 0) None",0
+2,Apelin may not be directly involved in the regulation of maternal insulin sensitivity.,"
+
+REASONING: This sentence suggests that there may not be a direct causal relationship between apelin and maternal insulin sensitivity. It does not establish any correlation or conditional relationship either. 
+ANSWER: 0) None",0
+0,"In regions with adequate infrastructure for surveillance and management of complications, health care facilities could consider eliminating the routine use  of antibiotics in protocols for the treatment of uncomplicated severe acute malnutrition.","
+
+REASONING: This sentence suggests that in certain regions, health care facilities could consider changing their protocols for the treatment of uncomplicated severe acute malnutrition. However, it doesn't establish a direct or causal relationship between the infrastructure and the elimination of routine antibiotic use. 
+ANSWER: 2) Conditional causal",0
+0,"CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, II.","
+
+REASONING: The context provides information about the type of clinical question being asked and the level of evidence available. It does not establish any causative relationship.
+ANSWER: 0) None",0
+0,"""Despite diabetes-specific information recommending birth control and the avoidance of pregnancy, 10% of the study participants became pregnant.""","
+
+REASONING: This sentence presents a correlation between diabetes-specific information and pregnancy rates among study participants. It does not establish a causal relationship or suggest any conditions that might affect the relationship between the two variables. 
+ANSWER: 1) Correlational",0
+0,"Because these data are based on observational studies only, the results are suggestive but inconclusive.","
+
+REASONING: The sentence mentions that the data is based on observational studies, which means that it is likely correlational in nature. Additionally, the sentence states that the results are suggestive but inconclusive, which further supports the idea that it is a correlational study rather than a causal one. 
+ANSWER: 1) Correlational",0
+0,"Based on three independent determinants, a prediction model is developed to identify non-adherent FH patients.","
+
+REASONING: The sentence describes the development of a prediction model based on three independent determinants. It doesn't establish any causative relationship between the determinants and non-adherence. 
+ANSWER: 1) Correlational",0
+1,Female gender and rapid weight loss were major risk factors for postoperative cholelithiasis.,"
+
+REASONING: This sentence identifies two factors that are associated with an increased risk of postoperative cholelithiasis. However, it does not establish a causal relationship between these factors and the outcome. 
+ANSWER: 1) Correlational",0
+2,"These observations suggest that OSA responds early and out of proportion to weight loss after metabolic and or bariatric surgery, thus weight independent factors may at least in part be responsible for early improvement in  OSA postoperatively.","
+
+REASONING: The sentence suggests that weight loss after surgery may not be the only factor responsible for early improvement in OSA, but it doesn't establish a clear causal relationship between weight loss and OSA improvement. It only suggests a possible correlation or association between the two. 
+
+ANSWER: 1) Correlational",0
+3,"Intake of flavanols and flavanones increases milk oxidation risk, which is relevant to develop diet recommendations.","
+
+REASONING: This sentence suggests a direct causal relationship between the intake of flavanols and flavanones and an increased risk of milk oxidation. It also implies that this information is relevant for developing diet recommendations, which further supports a causal relationship. 
+ANSWER: 3) Direct causal",0
+2,The determined interactions might result in differences in the risk conveyed through Hcy with regard to disease development in those with unfavorable GGT concentrations.,"
+
+REASONING: The sentence describes a potential relationship between two variables (Hcy and GGT concentrations) and how it might affect disease development. It does not establish a clear causal relationship, but rather suggests a correlation or association between the two variables. 
+
+ANSWER: 1) Correlational",0
+0,"Although the inverse association attributable to these biomarkers is substantial, future research should explore benefits of exercise beyond these biomarkers of risk.","
+
+REASONING: The sentence suggests that there is an inverse association between biomarkers and exercise, but it also acknowledges that there may be other benefits of exercise that are not captured by these biomarkers. There is no clear causative relationship established in this sentence. 
+
+ANSWER: 0) None",0
+0,"The  degree of tumor malignancy was low in all patients and LSG was the definitive treatment, without recurrence at 5-year follow-up.","
+
+REASONING: This sentence describes the outcome of a treatment for patients with low tumor malignancy. It doesn't establish any causative relationship, but rather reports on the success of the treatment. 
+ANSWER: 0) None",0
+1,Vitamin K insufficiency was present in 40% and not related to deficiencies in other vitamins or micronutrients.,"
+
+REASONING: This sentence describes a correlation between vitamin K insufficiency and the absence of deficiencies in other vitamins or micronutrients. It does not establish a causal relationship between the two factors.
+ANSWER: 1) Correlational",0
+3,These results add strength to the evidence showing that PALB2 is involved in BC risk for both sexes and indicate that consideration should be given to clinical testing of PALB2 for BRCA1/2 mutation-negative families with multiple MBC and FBC cases.,"
+
+REASONING: This sentence suggests that there is evidence linking PALB2 to breast cancer risk and recommends clinical testing for families with multiple cases of breast cancer. However, it does not establish a causative relationship between PALB2 and breast cancer risk. 
+ANSWER: 1) Correlational",0
+1,The number of identified SLNs did not differ significantly between TcTM and TcSC.,"
+
+REASONING: This sentence presents a comparison between two groups (TcTM and TcSC) in terms of the number of identified SLNs. It doesn't establish any causative relationship, but rather reports a descriptive statistic. 
+ANSWER: 0) None",0
+1,Several factors are significantly associated with the self-acceptance of women with breast cancer.,"
+
+REASONING: The sentence suggests that there is a relationship between certain factors and the self-acceptance of women with breast cancer, but it doesn't establish a cause-and-effect relationship. 
+ANSWER: 1) Correlational",0
+0,"""Effects of Aerobic Exercise Training on Arterial Function and Insulin Resistance  Syndrome in Obese Children: A Randomised Controlled Trial: NCT00801645.""","
+
+REASONING: The title of the study includes the phrase ""randomised controlled trial,"" which suggests that the study is designed to establish a causal relationship between aerobic exercise training and arterial function and insulin resistance syndrome in obese children. 
+
+ANSWER: 3) Direct causal",0
+1,"Among patients with DFU, the WIfI classification system correlated well with wound healing but was not associated with risk of major amputation at 1\\xa0year.","
+
+REASONING: The sentence describes a correlation between the WIfI classification system and wound healing, but it does not establish a causal relationship. It also states that there is no association between the WIfI classification system and the risk of major amputation at 1 year. 
+ANSWER: 1) Correlational",0
+1,"Moreover, there was a very high, significant, positive correlation between WC, BMI and VAI.","
+
+REASONING: The sentence describes a correlation between three variables (WC, BMI, and VAI), indicating that they are related to each other. However, it does not establish a causal relationship between them. 
+ANSWER: 1) Correlational",0
+0,"""Multiple maternal risk factors and birth outcomes demonstrate the need for further research to evaluate methods of improving care in this population.""","
+
+REASONING: This sentence suggests that there is a need for further research to evaluate methods of improving care for a specific population, but it doesn't establish any causative relationship between maternal risk factors and birth outcomes. It only highlights the importance of conducting more research in this area.
+ANSWER: 0) None",0
+0,A huge proportion of circulating PTH measured by current state-of-the-art assay systems is oxidized and thus not biologically active.,"
+
+REASONING: This sentence describes a fact about the current state-of-the-art assay systems and the proportion of oxidized PTH in circulation. It doesn't establish any causative relationship between the assay systems and the oxidized PTH. 
+
+ANSWER: 0) None",0
+2,Rapid progressors might benefit from careful clinical follow-up and early preventive measures.,"
+
+REASONING: This sentence suggests that careful clinical follow-up and early preventive measures may be beneficial for rapid progressors, but it doesn't establish a causative relationship between these actions and improved outcomes. 
+ANSWER: 2) Conditional causal",0
+1,"In this contemporary cohort, incidence of fever was low but CD4 cell count less than 200/mm³ remained associated with the highest incidence of fever.","
+
+REASONING: The sentence describes an association between two variables (CD4 cell count and incidence of fever), but it doesn't establish a causal relationship or suggest any conditions that might affect that relationship. 
+
+ANSWER: 1) Correlational",0
+0,"LEVEL OF EVIDENCE: III (Retrospective cohort study), Therapeutic.","
+
+REASONING: The level of evidence provided suggests that this is a retrospective cohort study, which is a type of observational study. As such, it is likely to be correlational in nature, rather than establishing a direct or conditional causal relationship. The fact that it is classified as a therapeutic study suggests that it is investigating the effectiveness of a particular treatment or intervention, but this does not necessarily imply causation. 
+ANSWER: 1) Correlational",0
+3,"As PIP&Rofil implants showed shorter retention periods until rupture and ruptured implants can cause symptoms or health problems, PIP&Rofil implants should be regularly monitored and explanted if there is evidence of rupture.","
+
+REASONING: This sentence establishes a direct causal relationship between the use of PIP&Rofil implants and the need for regular monitoring and potential explantation due to the risk of rupture and associated health problems. 
+ANSWER: 3) Direct causal.",0
+3,"""Preoperative nutritional support should be introduced for nonmalnourished patients as it helps to maintain proper nutritional status and reduce number and severity of postoperative complications compared with patients  without such support.""","
+
+REASONING: This sentence suggests that introducing preoperative nutritional support can lead to a reduction in postoperative complications. This implies a causal relationship between the two variables. 
+
+ANSWER: 3) Direct causal",0
+3,"Caffeine intake reduced the odds of prevalent ED, especially an intake equivalent to approximately 2-3 daily cups of coffee (170-375 mg/day).","
+
+REASONING: This sentence suggests a correlation between caffeine intake and reduced odds of prevalent ED, but it doesn't establish a direct causal relationship. It also provides a specific amount of caffeine intake that is associated with the reduced odds, which suggests a conditional causal relationship. 
+ANSWER: 1) Correlational, 2) Conditional causal",0
+2,"In addition, almost 30% of those ineligible were taking a statin, suggesting the guidelines may provide an opportunity to decrease statin use in those at low ASCVD risk.","
+
+REASONING: This sentence suggests a correlation between being ineligible for a study and taking a statin, but it doesn't establish a causative relationship. It also suggests that the guidelines may provide an opportunity to decrease statin use, but it doesn't provide evidence of a direct or conditional causal relationship. 
+
+ANSWER: 1) Correlational",0
+1,This finding confirmed the linear relationship of FPG-CV and HbA1c-CV to COPD.,"
+
+REASONING: The sentence describes a confirmation of a relationship between two variables (FPG-CV and HbA1c-CV) and a health condition (COPD). It does not establish causation, but rather a correlation between the variables and the condition. 
+
+ANSWER: 1) Correlational",0
+0,We should have major policy changes to increase future screening programs and health education programs which would have an overall positive impact on reducing the disease burden.,"
+
+REASONING: This sentence suggests that implementing policy changes could lead to increased screening and education programs, which in turn could have a positive impact on reducing disease burden. However, it does not establish a direct or causal relationship between the policy changes and the reduction in disease burden. 
+
+ANSWER: 2) Conditional causal",0
+3,"In two randomized trials comparing the PCSK9 inhibitor bococizumab with placebo, bococizumab had no benefit with respect to major adverse cardiovascular events in the trial involving lower-risk patients but did have a significant benefit in the trial involving higher-risk patients.","
+
+REASONING: This sentence describes the results of two randomized trials comparing the PCSK9 inhibitor bococizumab with placebo. It establishes a causal relationship between the use of bococizumab and its effect on major adverse cardiovascular events in the two different patient populations. 
+ANSWER: 3) Direct causal",0
+0,"A MNA score of less than 8 performed better than the SGA, Braden Scale, and  plasma arginine levels in predicting PU development.","
+
+REASONING: This sentence compares the predictive ability of different measures for PU development. It doesn't establish any causative relationship, but rather describes the relative performance of different measures in predicting a particular outcome. 
+
+ANSWER: 1) Correlational",0
+1,"Further, a significant proportion of patients were detected to have hypertension and dyslipidaemias.","
+
+REASONING: This sentence describes a correlation between the detection of hypertension and dyslipidaemias in patients. It does not establish a causal relationship between the two conditions or any external factors that may have contributed to their detection. 
+ANSWER: 1) Correlational",0
+1,"Cholesterol, LDL, or HDL were not associated with recurrence risk among all men.","
+
+REASONING: This sentence describes the lack of association between cholesterol levels and recurrence risk, indicating a correlational relationship. 
+ANSWER: 1) Correlational",0
+0,"All impressions from self-reporting were positive such as relaxed,  comfortable, and enjoyable by the aromatherapy group.","
+
+REASONING: This sentence reports the subjective experiences of the participants in the aromatherapy group, but it doesn't establish any causative relationship between aromatherapy and the reported positive impressions. 
+ANSWER: 0) None",0
+1,"Although an increase in peripapillary RNFL thickness was observed one month after 577-nm PASCAL photocoagulation, there were no significant changes at  the one-year follow-up compared to the baseline.","
+
+REASONING: This sentence describes the results of an observation made during a study, but it doesn't establish any causative relationship. It simply reports the findings of the study. 
+
+ANSWER: 0) None",0
+1,It also showed increased inflammation in both T1D and IA children when compared to controls.,"
+
+REASONING: This sentence describes a comparison between two groups (T1D and IA children vs. controls) and the presence of increased inflammation in both groups. It does not establish a causative relationship, but rather a correlation between the presence of T1D or IA and increased inflammation. 
+ANSWER: 1) Correlational",0
+2,Selected cachectic cancer patients may benefit from this experimental approach.,"
+
+REASONING: This sentence suggests that the experimental approach may be beneficial for selected cachectic cancer patients, but it doesn't establish any causative relationship. It simply states a possibility. 
+
+ANSWER: 0) None",0
+2,An electronic dietary recording system may improve eating and exercise behaviour in a self-monitoring process.,"
+
+REASONING: This sentence suggests that the use of an electronic dietary recording system may lead to improved eating and exercise behavior through a self-monitoring process. This implies a causal relationship between the use of the system and improved behavior.
+ANSWER: 3) Direct causal",0
+2,"""The 3M barrier film may be helpful against dermatitis associated pruritus.""","
+
+REASONING: This sentence suggests a potential benefit of using a specific product (3M barrier film) for a specific condition (dermatitis-associated pruritus), but it doesn't establish a clear causal relationship. It's possible that other factors could also be contributing to the observed effect. 
+
+ANSWER: 1) Correlational",0
+1,"""Provider cost performance is not associated consistently with clinical performance, although severity differences not captured by the casemix adjustment may account for these observations.""","
+
+REASONING: The sentence suggests that there may be a correlation between provider cost performance and clinical performance, but it also acknowledges that there may be other factors (such as severity differences) that could explain any observed associations. Therefore, it is a correlational statement that does not establish a direct causal relationship between provider cost performance and clinical performance. 
+
+ANSWER: 1) Correlational",0
+1,Restriction of dairy and meat consumption is common and is negatively associated  with intake or status of micronutrients like calcium and iron.,"
+
+REASONING: The sentence describes a negative association between restriction of dairy and meat consumption and intake or status of micronutrients like calcium and iron. This suggests a correlational relationship, but it doesn't establish causation or specify the direction of the relationship. 
+ANSWER: 1) Correlational",0
+0,Further investigations should address the rationale for the early detection and control of glucose fluctuation in the era of universal statin use for CAD patients.,"
+
+REASONING: This sentence suggests that there may be a relationship between glucose fluctuation and CAD (coronary artery disease) in the context of universal statin use. However, it does not establish a clear causal relationship or specify any conditions for causation. 
+ANSWER: 1) Correlational",0

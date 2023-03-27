@@ -1,0 +1,42 @@
+label,context,output,fold
+0,"Non-pharmacological interventions are also initiated before LSS and are continued long-term (Anghelescu, Oakes, & Popenhagen, 2006; Berde, Lebel, & Olsson, 2003). ","
+1) The claim has an actionable suggestion related to the implementation of an intervention.
+2) When describing the suggestion, the authors used the phrase ""are also initiated"", which indicates the strength of the suggestion and it is weak.
+3) Therefore, the claim has weak advice.
+ANSWER: (1) weak advice.",3
+0,"The potential of this approach to reveal additional novel obesity-associated loci is supported by our analysis, which provides evidence to support reported GSV associations at 3 loci [10], [16]. ","
+1) The claim has an actionable suggestion related to the potential of an approach.
+2) When describing the suggestion, the authors used the phrase ""is supported by"", which indicates the strength of the suggestion and it is weak.
+3) Therefore, the claim has weak advice.
+ANSWER: (1) weak advice.",3
+0,"Other limitations include absence of information on some important variables, such as employment status (which was shown to be associated with QoL in previous studies), as well as income, current injection drug use, or other diseases except for HCV. ","
+1) The claim does not have an actionable suggestion.
+2) The authors did not use any modal words to indicate the strength of the suggestion.
+3) Therefore, the claim has no advice.
+ANSWER: (0) no advice.",3
+0,"Particularly, we observed a strong imbalance and disequilibrium in production and activation of pro- and anti-inflammatory mediators. ","
+1) The claim does not have an actionable suggestion.
+2) The authors did not use any modal words to indicate the strength of the suggestion.
+3) Therefore, the claim has no advice.
+ANSWER: (0) no advice.",3
+0,"However, time to remission in patients with pulmonary involvement was increased, overall time to relapse was reduced and rate of relapse was greater in the methotrexate group, with notable adverse drug effects in each group24. ","
+1) The claim does not have an actionable suggestion.
+2) The authors did not use any modal words to indicate the strength of the suggestion.
+3) Therefore, the claim has no advice.
+ANSWER: (0) no advice.",3
+0,"During the IVR period, a greater amount of reduction predicted less problems and less dependence and a greater probability of a later quit attempt. ","
+1) The claim has an actionable suggestion related to the reduction of problems and dependence.
+2) When describing the suggestion, the authors used the word ""predicted"", which indicates that the suggestion is based on a prediction and is not certain.
+3) Therefore, the claim has weak advice.
+
+ANSWER: (1) weak advice.",3
+0,"This study found evidence that TB appears to have a negative impact on body condition of individuals, providing further evidence that the decrease in survival following the development of a cutaneous lesion is likely to be significant. ","
+1) The claim has an actionable suggestion related to the impact of TB on body condition.
+2) When describing the suggestion, the authors did not use any modal word, which indicates the strength of the suggestion and it is weak.
+3) Therefore, the claim has weak advice.
+ANSWER: (1) weak advice.",3
+0,"In our group of patients, use of the ERAS protocol combined with laparoscopy resulted in 90% of the patients being mobilized early, and in 60% of the patients an oral diet introduced on the day of surgery was tolerated well. ","
+1) The claim has an actionable suggestion related to the use of the ERAS protocol combined with laparoscopy.
+2) When describing the suggestion, the authors used the phrase ""resulted in"", which indicates the strength of the suggestion and it is weak.
+3) Therefore, the claim has weak advice.
+ANSWER: (1) weak advice.",3
