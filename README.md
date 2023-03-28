@@ -17,13 +17,13 @@ Because the openAI API is a public interface, no patient data can be passed to i
 
 ## Results:
 
-Overall, fine-tuning BioBERT yielded the best results for the classification (0.80-0.90) and reasoning (F1 0.85) tasks. Of the LLM approaches, few-shot with CoT prompting yielded the best results for the classification (F1 0.67-0.77) and reasoning (F1 0.68) tasks, with results comparable to the BoW model (F1 0.60-0.75 and 0.68 for classification and reasoning, respectively) as chart0 and figure 1.
+Overall, fine-tuning BioBERT yielded the best results for the classification (0.80-0.90) and reasoning (F1 0.85) tasks. Of the LLM approaches, few-shot with CoT prompting yielded the best results for the classification (F1 0.67-0.77) and reasoning (F1 0.68) tasks, with results comparable to the BoW model (F1 0.60-0.75 and 0.68 for classification and reasoning, respectively) as chart0 and figure 1(all are in Macro F1).
 ![chart 0](src/media/chart0.png)
 ![Figure 1](src/media/figure1.png)
 The total time needed to achieve the best-performing LLM results was 78 hours, compared to 0.08 and 0.01 hours to develop the best-performing BioBERT and BoW models, respectively (as figure 2).
 ![Figure 2](src/media/figure2.png)
 
-The total cost of the experiments through OpenAI API call was $1,299.18 USD based on pricing March 2023. 
+The total cost of the experiments through OpenAI API call was $1,299.18 USD based on pricing March 2023.
 
 ## Conclusions:
 
@@ -36,7 +36,7 @@ The structure of this repo is quite self-explanatory.
 * All the prompts are under `prompts` folder
 * All the original data and folds are under `data` folder
 * All the development set outputs are under `dev_outputs` folder
-* All the test set outputs are under `test_outputs` folder 
+* All the test set outputs are under `test_outputs` folder
 * `src` holds all the .py files for all the experiment runs
 
 ## How to cite us:
