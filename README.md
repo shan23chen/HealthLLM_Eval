@@ -9,6 +9,8 @@
 
 ## Objective/Purpose:
 
+Artificial Intelligence applications in biomedicine require high performance with minimal errors. The recent advances in large language models (LLM) have shown impressive ability in clinical question-answering (QA), but have not been adequately investigated for more specific biomedical use cases.  This study aims to investigate the performance of LLMs that are accessible to most researchers, such as the ChatGPT family of models (GPT-3.5, GPT-4) in frequent biomedical tasks beyond QA: reasoning and classification. We investigate the practical use of these models and compare their performance with classic, less computationally intensive methods.
+
 ## Materials/Methods:
 
 Because the openAI API is a public interface, no patient data can be passed to it. Thus, we evaluated model performance on two tasks with a total of >10,000 samples as proxies for two of the most frequent tasks in the clinical domain – classification and reasoning (e.g. determining causative relationships). The first task was classifying whether statements of clinical and policy recommendations in scientific literature constitute health advice across 3 datasets. The second task was causal relation extraction from the biomedical literature in 1 dataset. We used 20% of the entire dataset as development (dev) data for the prompts under the settings of zero- and few- shots with and without chain of thought (CoT). The most effective prompt from each setting was evaluated with the remaining 80% split. We compared models using simple features (bag-of-words (BoW)) with logistic regression, and fine-tuned BioBERT models.
