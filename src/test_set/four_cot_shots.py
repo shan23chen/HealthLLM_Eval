@@ -8,7 +8,7 @@ from pathlib import Path
 
 
 #Paste your API key here
-AA = "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"
+AA = ""
 
 def extract_text_files(file_path):
     # Open the file and read its contents into a string variable
