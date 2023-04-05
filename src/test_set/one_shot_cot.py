@@ -104,7 +104,7 @@ def main():
     pubmed_causal = pd.read_csv('../../data/test_data_4folds/pubmed_causal_annotation_test_folds.csv')
 
     # Shan runs the following code
-    diss_v2 = extract_text_files('/Users/shawnchen/Downloads/dev_dataset/4_shots_prompts/cot_prompts-4shots/discussion-cot_yingya_3.txt')[:3]
+    diss_v2 = extract_text_files('/Users/shawnchen/Downloads/dev_dataset/4_shots_prompts/cot_prompts-4shots/discussion-cot_yy_3.txt')[:3]
     unstructured_v2 = extract_text_files('/Users/shawnchen/Downloads/dev_dataset/4_shots_prompts/cot_prompts-4shots/unstructured-cot_shan_3.txt')[:3]
     structured_v2 = extract_text_files('/Users/shawnchen/Downloads/dev_dataset/4_shots_prompts/cot_prompts-4shots/structured-cot_shan_3.txt')[:3]
     pubmedv1 = extract_text_files('/Users/shawnchen/Downloads/dev_dataset/4_shots_prompts/cot_prompts-4shots/pubmed-cot-db.txt')[:4]
