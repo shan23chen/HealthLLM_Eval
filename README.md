@@ -39,6 +39,10 @@ The structure of this repo is quite self-explanatory.
 * All the test set outputs are under `test_outputs` folder
 * `src` holds all the .py files for all the experiment runs
 
+## Funding declaration:
+
+Waiting for arxiv link
+
 ## How to cite us:
 
 Waiting for arxiv link
