@@ -41,7 +41,9 @@ The structure of this repo is quite self-explanatory.
 
 ## Funding declaration:
 
-Waiting for arxiv link
+R01GM114355: Funding for personnel. No involvement in manuscript writing or decision to submit for publication.
+R01LM013486: Funding for personnel. No involvement in manuscript writing or decision to submit for publication.
+Woods Foundation: Funding for personnel. No involvement in manuscript writing or decision to submit for publication.
 
 ## How to cite us:
 
