@@ -17,7 +17,7 @@ Because the openAI API is a public interface, no patient data can be passed to i
 
 ## Results:
 
-Overall, fine-tuning BioBERT yielded the best results for the classification (0.80-0.90) and reasoning (F1 0.85) tasks. Of the LLM approaches, few-shot with CoT prompting yielded the best results for the classification (F1 0.67-0.77) and reasoning (F1 0.68) tasks, with results comparable to the BoW model (F1 0.60-0.75 and 0.68 for classification and reasoning, respectively) as table1 and figure 1(all are in Macro F1).
+Overall, fine-tuning BioBERT yielded the best results for the classification (0.80-0.90) and reasoning (F1 0.85) tasks. Of the LLM approaches, few-shot with CoT prompting yielded the best results for the classification (F1 0.67-0.77) and reasoning (F1 0.68) tasks, with results comparable to the BoW model (F1 0.60-0.75 and 0.68 for classification and reasoning, respectively) as table 1 and figure 1(all are in Macro F1).
 ![chart 0](src/media/chart0.png)
 ![Figure 1](src/media/figure1.png)
 The total time needed to achieve the best-performing LLM results was 78 hours, compared to 0.08 and 0.01 hours to develop the best-performing BioBERT and BoW models, respectively (as figure 2).
@@ -41,9 +41,9 @@ The structure of this repo is quite self-explanatory.
 
 ## Funding declaration:
 
-R01GM114355: Funding for personnel. No involvement in manuscript writing or decision to submit for publication.
-R01LM013486: Funding for personnel. No involvement in manuscript writing or decision to submit for publication.
-Woods Foundation: Funding for personnel. No involvement in manuscript writing or decision to submit for publication.
+`R01GM114355`: Funding for personnel. No involvement in manuscript writing or decision to submit for publication.
+`R01LM013486`: Funding for personnel. No involvement in manuscript writing or decision to submit for publication.
+`Woods Foundation`: Funding for personnel. No involvement in manuscript writing or decision to submit for publication.
 
 ## How to cite us:
 
