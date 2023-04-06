@@ -49,4 +49,13 @@ The structure of this repo is quite self-explanatory.
 
 ## How to cite us:
 
-Waiting for arxiv link
+```
+@misc{chen2023evaluation,
+      title={Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification},
+      author={Shan Chen and Yingya Li and Sheng Lu and Hoang Van and Hugo JWL Aerts and Guergana K. Savova and Danielle S. Bitterman},
+      year={2023},
+      eprint={2304.02496},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
